@@ -1,0 +1,359 @@
+1
+00:00:00,206 --> 00:00:04,306
+Git reset est la commande permettant
+de modeler l'historique de votre dépôt.
+
+2
+00:00:04,306 --> 00:00:07,945
+Si vous voulez annuler certains changements
+ou construire vos commits différemment,
+
+3
+00:00:07,945 --> 00:00:09,611
+c'est la commande qu'il vous faut.
+
+4
+00:00:10,041 --> 00:00:11,631
+♪ (musique) ♪
+
+5
+00:00:14,641 --> 00:00:17,130
+Bienvenue dans cet épisode
+des Fondamentaux de Github
+
+6
+00:00:17,130 --> 00:00:18,669
+sur la commande 'reset'.
+
+7
+00:00:18,669 --> 00:00:21,580
+Cette commande est très puissante,
+et possède plusieurs modes.
+
+8
+00:00:21,580 --> 00:00:24,352
+Oui, nous allons travailler
+avec 3 de ces modes ici.
+
+9
+00:00:24,462 --> 00:00:28,026
+'Soft', 'mixed' (le mode par défaut),
+et 'hard'.
+
+10
+00:00:28,555 --> 00:00:30,587
+♪ (musique) ♪
+
+11
+00:00:30,772 --> 00:00:32,871
+Ces noms sont assez explicites :
+
+12
+00:00:32,931 --> 00:00:35,353
+commençons par celui par défaut,
+'mixed'.
+
+13
+00:00:35,650 --> 00:00:39,648
+Il modifie l'historique, ainsi que
+le répertoire de travail.
+
+14
+00:00:39,918 --> 00:00:41,708
+Donc 'mixte' : les 2.
+
+15
+00:00:41,898 --> 00:00:44,427
+'Soft' va sélectionner un
+ou plusieurs commits,
+
+16
+00:00:44,427 --> 00:00:47,179
+et remettre leur contenu
+dans la zone de 'staging',
+
+17
+00:00:47,179 --> 00:00:50,048
+afin que vous puissiez recréer
+un commit à partir de ça.
+
+18
+00:00:50,433 --> 00:00:53,039
+A l'opposé, 'hard' est
+une opération destructive,
+
+19
+00:00:53,039 --> 00:00:55,992
+conçue pour supprimer les choses
+que vous ne souhaitez pas garder.
+
+20
+00:00:55,992 --> 00:00:59,112
+Maintenant que nous avons vu
+l'idée générale,
+
+21
+00:00:59,112 --> 00:01:00,880
+regardons 'mixed' plus en détails.
+
+22
+00:01:03,475 --> 00:01:05,173
+'Mixed' est le mode recommandé
+
+23
+00:01:05,173 --> 00:01:06,921
+pour ceux qui débutent avec Git,
+
+24
+00:01:06,921 --> 00:01:09,419
+car ce type de reset s'affiche
+sur la commande 'status'.
+
+25
+00:01:09,419 --> 00:01:11,341
+Quand vous avez des modifs
+dans la zone de 'staging'
+
+26
+00:01:11,341 --> 00:01:14,103
+et que vous utilisez 'git status',
+vous voyez 'git reset HEAD'.
+
+27
+00:01:14,103 --> 00:01:17,196
+Cela nous permet de sortir ces modifications
+hors de la zone de 'staging'
+
+28
+00:01:17,196 --> 00:01:19,205
+et de les remettre dans
+le répertoire de travail
+
+29
+00:01:19,205 --> 00:01:20,301
+avec l'option 'mixed'.
+
+30
+00:01:20,672 --> 00:01:23,379
+'Soft' est le mode à utiliser
+
+31
+00:01:23,379 --> 00:01:25,896
+pour regrouper des changements devenus
+trop "granuleux".
+
+32
+00:01:26,033 --> 00:01:27,869
+1, 2, 3, 4, 5 commits
+
+33
+00:01:27,869 --> 00:01:30,846
+qui appartiennent toutes
+à une seule modification,
+
+34
+00:01:30,846 --> 00:01:32,434
+et les rassembler
+
+35
+00:01:32,434 --> 00:01:36,542
+grâce à
+'git reset --soft HEAD~5',
+
+36
+00:01:36,542 --> 00:01:38,310
+les 5 commits les plus récentes.
+
+37
+00:01:38,615 --> 00:01:40,920
+Donc avec cette commande
+et l'option 'soft',
+
+38
+00:01:40,920 --> 00:01:42,706
+vous pouvez prendre
+ces 5 commits
+
+39
+00:01:42,706 --> 00:01:46,285
+et les "empiler" dans la zone de 'staging'
+en tant qu'un seul commit.
+
+40
+00:01:46,665 --> 00:01:48,765
+Très pratique pour manipuler
+l'historique,
+
+41
+00:01:48,765 --> 00:01:51,465
+mais cette manipulation est une solution
+trop extrême
+
+42
+00:01:51,465 --> 00:01:54,407
+pour se débarrasser de commits
+inutiles au projet.
+
+43
+00:01:54,407 --> 00:01:57,572
+En effet, il ne faut pas les envoyer
+ou les partager aux autres.
+
+44
+00:01:57,572 --> 00:01:59,361
+C'est là que le mode 'hard'
+entre en jeu.
+
+45
+00:01:59,361 --> 00:02:01,983
+Si vous voulez supprimer
+complètement de votre travail,
+
+46
+00:02:01,983 --> 00:02:05,020
+par exemple des tentatives de modifications
+qui ne fonctionnent pas,
+
+47
+00:02:05,020 --> 00:02:08,511
+vous pouvez utiliser 'git reset --hard'
+pour supprimer ces commits définitivement.
+
+48
+00:02:08,606 --> 00:02:11,268
+On peut se demander : mais pourquoi
+avoir fait ce commit ?
+
+49
+00:02:11,268 --> 00:02:13,971
+Mais Git vous procure
+un filet de sécurité
+
+50
+00:02:13,971 --> 00:02:17,078
+via la commande 'reflog', que nous verrons
+dans un prochain épisode,
+
+51
+00:02:17,078 --> 00:02:20,108
+et qui vous motive à faire des points
+de contrôle avec les commits,
+
+52
+00:02:20,108 --> 00:02:22,353
+et ayant le mode 'hard'
+à votre disposition,
+
+53
+00:02:22,353 --> 00:02:25,070
+vous pouvez nettoyer cet historique
+quand vous le désirez.
+
+54
+00:02:25,730 --> 00:02:27,114
+♪ (musique) ♪
+
+55
+00:02:27,760 --> 00:02:32,178
+Il y a une autre commande
+qui est souvent liée à 'reset'
+
+56
+00:02:32,178 --> 00:02:34,152
+et qui est 'checkout'.
+
+57
+00:02:34,152 --> 00:02:37,702
+La commande 'checkout' a une portée
+différente de 'reset',
+
+58
+00:02:37,702 --> 00:02:41,266
+qui opère généralement sur l'historique
+d'un dépôt complet.
+
+59
+00:02:41,703 --> 00:02:45,535
+'Checkout' est plutôt conçue pour agir
+sur un dossier ou un fichier uniquement.
+
+60
+00:02:45,756 --> 00:02:48,947
+Au lieu d'annuler un commit complet,
+
+61
+00:02:48,947 --> 00:02:52,780
+nous pouvons revenir dans l'historique
+d'un fichier précis au moment d'un commit,
+
+62
+00:02:52,780 --> 00:02:57,297
+récupérer la version désirée de ce fichier
+dans notre répertoire de travail actuel.
+
+63
+00:02:57,685 --> 00:03:01,234
+Une communication claire est le but
+de tout historique de dépôt Git.
+
+64
+00:03:01,487 --> 00:03:05,662
+Donc que ce soit un git reset 'soft',
+'mixed' ou 'hard',
+
+65
+00:03:05,662 --> 00:03:08,145
+ou la plus précise commande 'checkout',
+
+66
+00:03:08,145 --> 00:03:12,757
+utilisez ces commandes pour montrer clairement
+vos modifications à vos collègues.
+
+67
+00:03:12,954 --> 00:03:15,816
+'Git reset' est un outil
+qui peut paraître un peu intimidant
+
+68
+00:03:15,816 --> 00:03:17,355
+aux nouveaux utilisateurs de Git.
+
+69
+00:03:17,434 --> 00:03:20,184
+Mais il demeure un outil puissant
+à votre disposition
+
+70
+00:03:20,184 --> 00:03:22,573
+pour construire des historiques
+clairs er ordonnés.
+
+71
+00:03:24,371 --> 00:03:28,029
+Merci d'avoir regardé ce nouvel épisode
+des Fondamentaux de Git sur 'reset'.
+
+72
+00:03:28,029 --> 00:03:31,577
+Comme toujours, n'oubliez pas
+de vous abonner à nos différentes chaînes.
+
+73
+00:03:31,617 --> 00:03:34,111
+Des questions ? Commentaires ?
+Postez-les ci-dessous,
+
+74
+00:03:34,111 --> 00:03:36,401
+ou regardez l'un de nos autres
+sujets éducatifs
+
+75
+00:03:36,401 --> 00:03:38,523
+à propos de Git et Github
+en bas de l'écran.
+
+76
+00:03:38,789 --> 00:03:41,528
+♪ (musique) ♪

@@ -1,0 +1,640 @@
+1
+00:00:03,310 --> 00:00:06,230
+Salut, je suis Tony
+et voici 'Every Frame a Painting'.
+
+2
+00:00:08,290 --> 00:00:10,369
+Il y a des réalisateurs
+tellement influents
+
+3
+00:00:10,460 --> 00:00:13,540
+que, peu importe où l'on regarde,
+on peut voir leurs traces.
+
+4
+00:00:16,409 --> 00:00:19,830
+Je vois le cadrage de ce réalisateur
+dans les oeuvres de Wes Anderson.
+
+5
+00:00:23,460 --> 00:00:26,080
+Ses acrobaties & cascades
+dans celles de Jackie Chan.
+
+6
+00:00:28,460 --> 00:00:30,760
+Et sa posture figée
+en Bill Murray.
+
+7
+00:00:34,760 --> 00:00:38,430
+Ce réalisateur est Buster Keaton,
+l'un des 3 grands comédiens du cinéma muet.
+
+8
+00:00:38,649 --> 00:00:42,490
+"Il était, comme nous commençons
+à le réaliser ...
+
+9
+00:00:42,890 --> 00:00:47,449
+... le plus grand de tous les clowns
+de l'histoire du cinéma."
+
+10
+00:00:47,900 --> 00:00:49,300
+Et presque 100 ans plus tard,
+
+11
+00:00:49,330 --> 00:00:52,700
+je pense qu'il a encore beaucoup
+à nous apprendre sur la comédie visuelle.
+
+12
+00:00:52,990 --> 00:00:56,320
+Donc aujourd'hui, regardons comment
+le maître construit un gag.
+
+13
+00:00:56,890 --> 00:00:57,740
+Prêt ?
+
+14
+00:01:00,230 --> 00:01:01,109
+C'est parti.
+
+15
+00:01:07,270 --> 00:01:09,950
+La première chose à savoir
+sur la comédie visuelle
+
+16
+00:01:09,980 --> 00:01:12,640
+est qu'elle doit raconter
+l'histoire à travers l'action.
+
+17
+00:01:12,640 --> 00:01:15,220
+Keaton était un conteur visuel,
+et il n'a jamais aimé
+
+18
+00:01:15,220 --> 00:01:19,060
+quand d'autres réalisateurs racontaient
+leur histoire à travers des 'intertitres'.
+
+19
+00:01:19,090 --> 00:01:21,780
+-"Un film moyen contenait
+environ 240 intertitres ...
+
+20
+00:01:21,800 --> 00:01:23,560
+"... c'était à peu près la moyenne."
+
+21
+00:01:23,600 --> 00:01:27,300
+-"240 était la moyenne ?"
+-"Oui. Et le + que j'en ai utilisé est 56."
+
+22
+00:01:27,690 --> 00:01:31,190
+Il évitait les intertitres en se concentrant
+sur les gestes & le mime.
+
+23
+00:01:31,300 --> 00:01:34,550
+Sur ce plan, on ne sait pas
+de quoi les 2 personnages discutent.
+
+24
+00:01:34,640 --> 00:01:38,569
+Tout ce qu'on doit savoir est raconté
+grâce à la table & à leur langage corporel.
+
+25
+00:01:38,720 --> 00:01:40,900
+"Mais il fallait dire,
+
+26
+00:01:40,190 --> 00:01:43,490
+"communiquer aux spectateurs
+d'une seule façon."
+
+27
+00:01:45,800 --> 00:01:48,809
+-"Par l'action"
+-"Exactement. On supprimait les sous-titres..."
+
+28
+00:01:48,819 --> 00:01:51,610
+"...dès que c'était possible
+de le raconter par l'action."
+
+29
+00:01:52,100 --> 00:01:54,570
+Keaton pensait que chaque geste
+devait être unique.
+
+30
+00:01:54,850 --> 00:01:56,620
+Ne jamais faire
+la même chose 2 fois.
+
+31
+00:02:00,420 --> 00:02:01,700
+Chaque chute
+
+32
+00:02:02,820 --> 00:02:04,100
+est prétexte
+
+33
+00:02:05,660 --> 00:02:06,800
+à la créativité.
+
+34
+00:02:07,889 --> 00:02:10,870
+Mais une fois l'action déterminée,
+le 2ème problème apparaît :
+
+35
+00:02:11,000 --> 00:02:12,550
+où mettre la caméra ?
+
+36
+00:02:18,060 --> 00:02:21,779
+Les gags visuels fonctionnent généralement
+mieux depuis un angle spécifique.
+
+37
+00:02:22,380 --> 00:02:23,720
+Et si on change l'angle ...
+
+38
+00:02:24,080 --> 00:02:26,879
+on change le gag, et
+ça ne marche pas toujours aussi bien.
+
+39
+00:02:27,269 --> 00:02:30,080
+Trouver le bon angle est une question
+d'erreurs et d'essais.
+
+40
+00:02:30,100 --> 00:02:33,480
+Regardons donc 2 placements de caméra
+différents pour le même gag.
+
+41
+00:02:33,500 --> 00:02:35,000
+Voici le premier placement.
+
+42
+00:02:42,880 --> 00:02:44,000
+Et voilà le second.
+
+43
+00:02:51,590 --> 00:02:54,800
+On voit que sur le 1er angle,
+la voiture occupe la majorité du cadre
+
+44
+00:02:54,830 --> 00:02:57,800
+et on ne voit pas clairement Buster
+avant qu'il ne se retourne.
+
+45
+00:02:58,560 --> 00:03:01,480
+Mais avec le 2ème angle,
+la voiture se trouve en arrière-plan
+
+46
+00:03:01,480 --> 00:03:03,810
+et on a toujours une vision
+claire de son visage.
+
+47
+00:03:04,180 --> 00:03:07,600
+Ce court instant où il ne sait pas
+ce qui se passe, mais nous oui ...
+
+48
+00:03:07,360 --> 00:03:09,550
+... est bien plus réussi depuis cet angle.
+
+49
+00:03:10,520 --> 00:03:13,330
+De plus, sur le 1er plan,
+le cadrage divise notre attention.
+
+50
+00:03:13,380 --> 00:03:16,670
+Nos yeux veulent regarder son visage
+et la pancarte en même temps.
+
+51
+00:03:16,950 --> 00:03:18,850
+Mais après le recadrage de la scène ...
+
+52
+00:03:18,900 --> 00:03:21,079
+nos yeux sont naturellement dirigés
+vers lui,
+
+53
+00:03:21,290 --> 00:03:22,680
+et ensuite vers le panneau,
+
+54
+00:03:22,890 --> 00:03:25,529
+puis de nouveau sur lui.
+Bien mieux.
+
+55
+00:03:28,690 --> 00:03:30,130
+On arrive au 3ème problème ...
+
+56
+00:03:31,490 --> 00:03:33,900
+Quelles sont les règles
+de ce monde particulier ?
+
+57
+00:03:35,130 --> 00:03:38,190
+Le monde de Buster est plat,
+et gouverné par une seule loi.
+
+58
+00:03:43,120 --> 00:03:46,000
+Si la caméra ne peut pas le voir,
+les personnages non plus.
+
+59
+00:03:46,030 --> 00:03:49,800
+Dans le monde de Buster, les personnages
+sont limités par les bordures du cadre,
+
+60
+00:03:49,820 --> 00:03:52,300
+et donc par ce qui est visible
+par nous, l'audience.
+
+61
+00:03:53,790 --> 00:03:56,910
+Et cela lui permet de faire des gags
+qui ont visuellement un sens,
+
+62
+00:03:58,230 --> 00:03:59,230
+mais pas logiquement.
+
+63
+00:03:59,930 --> 00:04:03,060
+Beacoup de ses gags reposent
+sur le mouvement dans un monde plat.
+
+64
+00:04:03,620 --> 00:04:04,960
+Il peut aller à droite ...
+
+65
+00:04:05,520 --> 00:04:06,410
+à gauche ...
+
+66
+00:04:07,400 --> 00:04:08,400
+vers le haut ...
+
+67
+00:04:09,200 --> 00:04:10,200
+vers le bas ...
+
+68
+00:04:11,300 --> 00:04:12,590
+loin de l'objectif ...
+
+69
+00:04:13,640 --> 00:04:14,500
+ou tout près.
+
+70
+00:04:14,850 --> 00:04:16,170
+Un sentiment de déjà-vu ?
+
+71
+00:04:24,090 --> 00:04:27,520
+Comme Wes Anderson, Buster Keaton
+trouve du comique dans la géométrie.
+
+72
+00:04:30,550 --> 00:04:34,680
+Il plaçait souvent la caméra en peu + loin
+pour qu'on puisse voir la 'forme' d'un gag.
+
+73
+00:04:34,810 --> 00:04:36,280
+Il y a des cercles ...
+
+74
+00:04:37,000 --> 00:04:38,250
+des triangles ...
+
+75
+00:04:39,100 --> 00:04:40,410
+des lignes parallèles ...
+
+76
+00:04:40,710 --> 00:04:43,560
+et bien sûr, la forme du cadre
+lui-même : un rectangle.
+
+77
+00:04:45,080 --> 00:04:49,159
+Je pense que ce genre de mise en scène
+est géniale car elle encourage les spectateurs
+
+78
+00:04:49,160 --> 00:04:52,910
+à regarder un peu partout dans le cadre,
+et voir le côté comique par eux-mêmes.
+
+79
+00:04:52,960 --> 00:04:56,080
+Sur ce plan, réfléchissez à l'endroit
+où vos yeux se concentrent.
+
+80
+00:04:59,120 --> 00:05:00,500
+Maintenant, où est-il ?
+
+81
+00:05:02,140 --> 00:05:04,459
+Certains de ces gags
+proviennent du vaudeville
+
+82
+00:05:04,520 --> 00:05:06,639
+et sont conçus comme
+des tours de magie.
+
+83
+00:05:10,959 --> 00:05:13,090
+Et comme tous les grands
+tours de magie,
+
+84
+00:05:13,119 --> 00:05:16,450
+une partie de l'amusement repose
+sur la recherche du trucage utilisé.
+
+85
+00:05:19,450 --> 00:05:23,530
+Keaton avait un nom pour des gags comme ça :
+il les appelait des 'gags impossibles'.
+
+86
+00:05:26,120 --> 00:05:28,810
+Ils sont parmi ses gags 
+les + inventifs et surréels.
+
+87
+00:05:30,140 --> 00:05:32,669
+Mais en tant que conteur,
+il les trouvait délicates
+
+88
+00:05:32,669 --> 00:05:34,200
+car elles brisaient les règles
+de son monde.
+
+89
+00:05:34,669 --> 00:05:38,739
+-"On a du arrêter les gags impossibles,
+ce qu'on appelait des 'gags de cartoon'.
+
+90
+00:05:39,640 --> 00:05:42,939
+-"On a perdu tout ça quand on a commencé
+à faire des longs métrages."
+
+91
+00:05:43,210 --> 00:05:47,400
+-"Ils devaient être crédibles
+pour que l'histoire tienne debout."
+
+92
+00:05:48,130 --> 00:05:51,479
+A la place, il s'est concentré sur
+ce qu'il appelait le 'gag naturel'.
+
+93
+00:05:52,280 --> 00:05:55,650
+La blague qui émerge organiquement
+du personnage et de la situation.
+
+94
+00:05:56,800 --> 00:05:58,500
+Comme cette blague avec la porte.
+
+95
+00:06:03,740 --> 00:06:06,060
+Keaton disait que pour
+la comédie visuelle ...
+
+96
+00:06:06,100 --> 00:06:08,300
+il fallait rester ouvert
+à l'improvisation.
+
+97
+00:06:08,360 --> 00:06:12,170
+-"Quel % de l'action était planifiée,
+combien des idées venaient pendant le tournage ?"
+
+98
+00:06:12,170 --> 00:06:13,950
+-"Quel pourcentage était improvisé ?"
+
+99
+00:06:14,000 --> 00:06:17,030
+-"Et bien, ma règle personnelle,
+c'était 50% d'idées préparées,"
+
+100
+00:06:17,960 --> 00:06:20,550
+-"que j'avais dans la tête
+avant le début du tournage,"
+
+101
+00:06:20,650 --> 00:06:23,549
+-"et le reste était développé
+pendant le tournage."
+
+102
+00:06:23,940 --> 00:06:26,390
+Parfois il trouvait une blague
+qu'il aimait tellement,
+
+103
+00:06:26,410 --> 00:06:28,200
+qu'il y faisait un rappel
+plus tard.
+
+104
+00:06:29,760 --> 00:06:33,769
+Mais parfois, des gags qu'il avait prévu
+à l'avance ne marchait pas devant la caméra.
+
+105
+00:06:33,780 --> 00:06:35,830
+Alors simplement, il s'en débarassait ...
+
+106
+00:06:36,090 --> 00:06:38,760
+-"Elles ne sont pas marquantes,
+ou ne marchent pas bien."
+
+107
+00:06:38,800 --> 00:06:41,010
+-"Et parfois, certaines arrivent
+par accident."
+
+108
+00:06:41,720 --> 00:06:43,430
+Il était supposé réussir ce saut.
+
+109
+00:06:43,450 --> 00:06:44,880
+Mais comme il l'a manqué ...
+
+110
+00:06:44,940 --> 00:06:48,070
+il a décidé de le garder,
+et de continuer à partir de cette chute.
+
+111
+00:06:48,750 --> 00:06:52,300
+-"Ce genre de scène ratée ne sera
+pas mieux en la retentant une 2ème fois."
+
+112
+00:06:52,300 --> 00:06:53,890
+-"La 1ère est toujours la bonne."
+
+113
+00:06:53,920 --> 00:06:55,870
+-"Peut-être que c'est pour cette raison ..."
+
+114
+00:06:55,900 --> 00:06:58,740
+-"qu'on entendait tellement de rires
+dans la maison l'autre soir."
+
+115
+00:06:58,760 --> 00:07:00,640
+-"Je veux dire, les plus jeunes et moi
+avion ce sentiment ..."
+
+116
+00:07:00,660 --> 00:07:03,720
+-"que ce que nous voyions
+était vraiment en train de se passer."
+
+117
+00:07:04,430 --> 00:07:06,800
+-"C'était quelque chose
+qui s'était passé 1 seule fois ..."
+
+118
+00:07:06,800 --> 00:07:09,620
+-"et pas quelques chose qui avait
+était préparé, répété encore et encore."
+
+119
+00:07:09,630 --> 00:07:12,170
+Et cela nous amène à la dernière chose
+à propose de Buster Keaton
+
+120
+00:07:12,170 --> 00:07:13,590
+et sa règle la plus célèbre.
+
+121
+00:07:16,510 --> 00:07:17,700
+Ne jamais truquer un gag.
+
+122
+00:07:17,990 --> 00:07:21,120
+Pour Keaton, il y avait un seul
+moyen de convaincre l'audience ...
+
+123
+00:07:21,130 --> 00:07:22,780
+que ce qu'ils voyaient était réel.
+
+124
+00:07:22,940 --> 00:07:24,620
+Il devait vraiment le faire ...
+
+125
+00:07:28,000 --> 00:07:29,410
+sans montage de la scène.
+
+126
+00:07:29,440 --> 00:07:32,140
+Il était tellement strict à ce propos
+qu'il a dit une fois ...
+
+127
+00:07:32,170 --> 00:07:33,950
+“Soit on le fait en 1 seul plan ...
+
+128
+00:07:37,780 --> 00:07:39,760
+... soit on jette ce gag à la poubelle."
+
+129
+00:07:40,000 --> 00:07:43,910
+Et c'est pour ça que ses scènes semblent
+toujours aussi vivantes, 100 ans plus tard.
+
+130
+00:07:43,930 --> 00:07:47,030
+Pas seulement grâce à son talent,
+mais aussi grâce à son intégrité ...
+
+131
+00:07:47,060 --> 00:07:48,910
+C'est vraiment lui devant la caméra.
+
+132
+00:07:50,000 --> 00:07:53,020
+Et aucune avancée technologique
+ne peut reproduire ce sentiment.
+
+133
+00:07:53,150 --> 00:07:57,310
+Encore aujourd'hui, nous sommes époustouflés
+quand un réalisateur tourne 'vraiment' une scène.
+
+134
+00:07:57,500 --> 00:08:00,400
+Mais je pense qu'il le faisait mieux
+il y a 95 ans.
+
+135
+00:08:00,550 --> 00:08:02,480
+Donc aucune importance
+du nombre de fois ...
+
+136
+00:08:02,520 --> 00:08:04,670
+où l'on a vu quelqu'un
+lui rendre hommage ...
+
+137
+00:08:13,689 --> 00:08:18,379
+Rien ne surpasse l'original.

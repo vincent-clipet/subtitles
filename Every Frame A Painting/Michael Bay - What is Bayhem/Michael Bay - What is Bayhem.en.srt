@@ -1,0 +1,752 @@
+1
+00:00:05,671 --> 00:00:09,091
+Hi. My name is Tony
+and this is Every Frame a Painting.
+
+2
+00:00:09,330 --> 00:00:13,087
+And I know exactly what you're thinking:
+Why am I talking about this guy?
+
+3
+00:00:13,137 --> 00:00:14,987
+<i>— Oh my god, you're Michael Bay!</i>
+
+4
+00:00:15,999 --> 00:00:18,509
+<i>— Oh my god, I am Michael Bay.</i>
+Because I don't like his films
+
+5
+00:00:18,524 --> 00:00:20,965
+and yet I think it's crucial
+to study them.
+
+6
+00:00:20,993 --> 00:00:22,015
+Why?
+
+7
+00:00:22,016 --> 00:00:26,475
+<i>— ...and Paul, I think you have started
+to watch WrestleMania on television...</i>
+
+8
+00:00:26,477 --> 00:00:27,350
+<i>— Well, I...</i>
+
+9
+00:00:27,373 --> 00:00:31,791
+<i>— Because you must not avert your eyes:
+this is what is coming at us.</i>
+
+10
+00:00:31,792 --> 00:00:35,413
+<i>this is what what television,
+what a collective</i>
+
+11
+00:00:35,429 --> 00:00:40,438
+<i>anonymous body of majority wants
+to see on television.</i>
+
+12
+00:00:40,741 --> 00:00:43,507
+Like WrestleMania, like Anna Nicole Smith,
+
+13
+00:00:43,531 --> 00:00:46,179
+like Jackass, Michael Bay has created
+<i>something.</i>
+
+14
+00:00:46,179 --> 00:00:47,045
+<i>— Spectacle!</i>
+
+15
+00:00:47,051 --> 00:00:51,710
+<i>It's what people want. The Romans new it,
+Louis Quatorze knew it, Wolfowitz knows it.</i>
+
+16
+00:00:51,728 --> 00:00:52,777
+<i>— One, two, three...</i>
+
+17
+00:00:52,875 --> 00:00:54,875
+<i>Boom! Bayhem!!</i>
+
+18
+00:00:55,093 --> 00:00:58,890
+We may find it crass and vulgar,
+but if we're going to make better movies,
+
+19
+00:00:58,898 --> 00:01:01,075
+we have to understand
+the images that are coming at us.
+
+20
+00:01:01,076 --> 00:01:02,232
+<i>— Hey, hey!!</i>
+
+21
+00:01:02,262 --> 00:01:07,600
+So let's talk about <i>Bayhem.</i>
+Is it a unique use of film form?
+
+22
+00:01:09,537 --> 00:01:14,259
+If you want to understand Michael Bay, one of
+the best ways is to watch his copycats.
+
+23
+00:01:14,271 --> 00:01:16,858
+Consider this shot from
+'Battleship', which tries
+
+24
+00:01:16,884 --> 00:01:19,393
+to do that circular camera
+move he's famous for.
+
+25
+00:01:19,420 --> 00:01:21,862
+Doesn't work here.
+Why?
+
+26
+00:01:21,878 --> 00:01:25,402
+It's actually really simple. First,
+there's no background, except for blue sky.
+
+27
+00:01:25,405 --> 00:01:28,585
+Without a background, we don't get parallax,
+so the shot doesn't feel like it's moving.
+
+28
+00:01:28,593 --> 00:01:30,505
+See the difference?
+
+29
+00:01:30,868 --> 00:01:35,177
+On top of that, the lens is wrong. Bay frequently
+shoots these shots with a telephoto lens,
+
+30
+00:01:35,188 --> 00:01:38,481
+which compresses the space.
+This makes the background whizz by.
+
+31
+00:01:38,552 --> 00:01:41,069
+Third, the actor's just staring
+and turning his head,
+
+32
+00:01:41,073 --> 00:01:43,772
+but the key to the Bay version
+is that the actors move vertically.
+
+33
+00:01:43,787 --> 00:01:44,980
+Like here.
+
+34
+00:01:45,013 --> 00:01:46,132
+And here.
+
+35
+00:01:46,171 --> 00:01:50,650
+And last, the low angle is there to give us the
+scale and slow motion is there to sell it.
+
+36
+00:01:50,974 --> 00:01:54,481
+So what we have here in the Bay's shot
+is multiple types of movement, integrated:
+
+37
+00:01:54,481 --> 00:01:57,420
+movement of the camera,
+movement of the background,
+
+38
+00:01:57,445 --> 00:01:59,873
+movement of the actors,
+expansion of time.
+
+39
+00:01:59,902 --> 00:02:03,236
+Then they stand still and look
+off-screen, creating stillness.
+
+40
+00:02:03,385 --> 00:02:08,161
+Even though you're looking at a stationary
+point in the frame, this shot feels huge.
+
+41
+00:02:08,186 --> 00:02:10,455
+<i>— Shit just got real.</i>
+
+42
+00:02:11,870 --> 00:02:15,003
+Breakdown any Michael Bay's shot
+and that is basically what you will see:
+
+43
+00:02:15,008 --> 00:02:18,906
+layers of depth, parallax, movement,
+character and environment
+
+44
+00:02:18,926 --> 00:02:20,687
+to give this sense of epicness.
+
+45
+00:02:20,846 --> 00:02:23,322
+None of these techniques
+is particularly unique.
+
+46
+00:02:23,341 --> 00:02:27,326
+In fact, most cinematographers
+will naturally create depth in their images
+
+47
+00:02:27,325 --> 00:02:29,317
+and parallax, whenever the camera moves.
+
+48
+00:02:29,332 --> 00:02:31,425
+And the Hero Shot is everywhere.
+
+49
+00:02:33,568 --> 00:02:37,347
+What makes Bay unique is how many layers
+and how complex the movement is.
+
+50
+00:02:37,377 --> 00:02:39,669
+That doesn't make his shots
+better, it just makes
+
+51
+00:02:39,694 --> 00:02:41,686
+them more complicated
+than the competition.
+
+52
+00:02:41,704 --> 00:02:44,060
+That's why his frames seem to have
+a lot of stuff going on.
+
+53
+00:02:44,074 --> 00:02:48,091
+Lots of dust, dirt, smoke
+or explosions between the layers.
+
+54
+00:02:48,135 --> 00:02:50,360
+Also, lamp-posts.
+
+55
+00:02:52,003 --> 00:02:53,638
+Lots of lamp-posts.
+
+56
+00:02:55,040 --> 00:02:58,390
+If you go back to the first Bad Boys, you
+can watch this from the opening credits.
+
+57
+00:02:58,403 --> 00:03:00,889
+Here, the car moves one way,
+the plane another,
+
+58
+00:03:00,896 --> 00:03:04,078
+the lamp-posts are in frame for scale
+and the camera is on a telephoto lens.
+
+59
+00:03:04,180 --> 00:03:07,461
+Later in the film, you can see
+the same compositional techinique.
+
+60
+00:03:07,596 --> 00:03:10,069
+And when the explosions happen...
+
+61
+00:03:10,193 --> 00:03:13,242
+Once you see this, it's much easier
+to deconstruct his imagery
+
+62
+00:03:13,272 --> 00:03:14,870
+and to see its limits.
+
+63
+00:03:15,067 --> 00:03:18,134
+For instance, Bay doesn't distinguish
+between when to do a shot
+
+64
+00:03:18,150 --> 00:03:20,551
+and when <i>not</i> to do it. He'll
+use the same camera movement,
+
+65
+00:03:20,578 --> 00:03:22,790
+whether the charachter's
+saying something important...
+
+66
+00:03:22,806 --> 00:03:25,226
+<i>— You have any money here in the States?</i>
+
+67
+00:03:25,336 --> 00:03:27,003
+... or total gibberish...
+
+68
+00:03:27,019 --> 00:03:29,765
+<i>— What did I say?!
+Did you hear what I said?</i>
+
+69
+00:03:29,795 --> 00:03:32,957
+<i>I heard what I said
+'cause I was standing there when I said it.</i>
+
+70
+00:03:32,980 --> 00:03:38,322
+Every shot is designed for maximum visual
+impact, regardless of whether it fits.
+
+71
+00:03:40,492 --> 00:03:44,110
+But the Bay style also leads
+to some fascinating visual ideas.
+
+72
+00:03:44,126 --> 00:03:46,230
+How can you make something feel big?
+
+73
+00:03:46,252 --> 00:03:49,411
+Well, you put lots of things
+of varying size in the same shot
+
+74
+00:03:49,426 --> 00:03:51,537
+and then you move the camera to emphasize.
+
+75
+00:03:51,552 --> 00:03:54,656
+This is something "Jurassic Park" also
+did very well.
+
+76
+00:03:54,862 --> 00:03:58,516
+<i>— Ah!
+— It's... It's a dinosaur.</i>
+
+77
+00:03:58,540 --> 00:04:00,961
+Just as important is off-screen space.
+
+78
+00:04:00,969 --> 00:04:04,537
+Notice here, this actor isn't looking
+at the planes we see in the background.
+
+79
+00:04:04,552 --> 00:04:07,132
+That means there's even
+more planes we can't see.
+
+80
+00:04:07,153 --> 00:04:10,799
+So while the shot feels huge,
+it implies even more scale.
+
+81
+00:04:10,838 --> 00:04:13,432
+How does a filmmaker come up
+with images like this?
+
+82
+00:04:13,448 --> 00:04:16,464
+In the case of Michael Bay, let's look
+at one of his favorite films.
+
+83
+00:04:16,480 --> 00:04:19,308
+<i>"When you're a Jet,
+you're a Jet all the way</i>
+
+84
+00:04:19,331 --> 00:04:22,893
+<i>From your first cigarette
+to your last dying day"</i>
+
+85
+00:04:22,908 --> 00:04:25,942
+There's a great New York Times interview
+where he watches "West Side Story"
+
+86
+00:04:25,961 --> 00:04:28,798
+and talks about how
+<i>this</i> is a great shot
+
+87
+00:04:28,819 --> 00:04:30,701
+and <i>this</i> is a great cut.
+
+88
+00:04:30,720 --> 00:04:33,799
+He can't articulate why they're great,
+other than "they're dynamic".
+
+89
+00:04:33,810 --> 00:04:36,617
+But I think that's it:
+when you put shots from West Side Story
+
+90
+00:04:36,639 --> 00:04:39,832
+back to back with his work,
+you can feel the similarities.
+
+91
+00:04:40,283 --> 00:04:43,112
+I think Bay's goal is to create
+what he thinks are good shots
+
+92
+00:04:43,136 --> 00:04:45,255
+and connect them with
+what he thinks are good cuts.
+
+93
+00:04:45,468 --> 00:04:48,629
+If Howard Hawks defined a good movie
+as three good scenes and no bad ones,
+
+94
+00:04:48,629 --> 00:04:50,556
+Michael Bay seems to
+think a good film
+
+95
+00:04:50,586 --> 00:04:53,862
+is three thousand dynamic shots
+and no static ones.
+
+96
+00:04:57,019 --> 00:05:01,074
+Apart from West Side Story, Bay's biggest
+influence is actually other blockbusters.
+
+97
+00:05:01,098 --> 00:05:04,584
+He frequently borrows the same basic
+vocabularies and other sequence.
+
+98
+00:05:04,607 --> 00:05:06,815
+So something like this...
+
+99
+00:05:08,137 --> 00:05:10,338
+... becomes this.
+
+100
+00:05:11,430 --> 00:05:14,495
+You'll notice the tight shots
+of the character become tighter.
+
+101
+00:05:14,521 --> 00:05:17,037
+And the wide shots become wider.
+
+102
+00:05:17,050 --> 00:05:22,068
+Everything gets more layers of motion,
+but the basic vocabulary's the same.
+
+103
+00:05:23,812 --> 00:05:26,987
+<i>- I got him!
+- Great, kid! Don't get cocky.</i>
+
+104
+00:05:27,036 --> 00:05:29,346
+And it's not just other people
+he borrows from.
+
+105
+00:05:29,360 --> 00:05:31,829
+Bay cannibalizes himself just as much.
+
+106
+00:05:31,853 --> 00:05:33,870
+So this...
+
+107
+00:05:34,233 --> 00:05:36,657
+... becomes this.
+
+108
+00:05:40,494 --> 00:05:43,023
+You'll notice every motion
+in the original shot.
+
+109
+00:05:43,048 --> 00:05:45,256
+For instance, the camera
+turning counter-clockwise,
+
+110
+00:05:45,264 --> 00:05:46,903
+while the bomb turns clockwise —
+
+111
+00:05:46,913 --> 00:05:49,153
+it's just cranked up in this version.
+
+112
+00:05:49,187 --> 00:05:51,966
+<i>— Autobots, I'm in pursuit.</i>
+
+113
+00:05:51,975 --> 00:05:53,797
+So what is Bayhem?
+
+114
+00:05:53,829 --> 00:05:56,130
+It's the use of movement, composition
+and fast editing
+
+115
+00:05:56,153 --> 00:05:58,257
+to create a sense of epic scale.
+
+116
+00:05:58,278 --> 00:06:02,557
+Each individual shot feels huge, but also
+implies bigger things outside the frame.
+
+117
+00:06:02,564 --> 00:06:07,084
+It stacks multiple layers of movement shot
+either on a very long lens or a very wide one.
+
+118
+00:06:07,194 --> 00:06:09,728
+It shows you a lot for just a moment
+and then takes it away.
+
+119
+00:06:09,744 --> 00:06:13,380
+You feel the overall motion,
+but no grasp of anything concrete.
+
+120
+00:06:13,471 --> 00:06:16,920
+And yet, it requires a lot of people
+and integration to do this.
+
+121
+00:06:17,069 --> 00:06:20,880
+But it's basically a variation on the
+existing vocabulary of the action scene.
+
+122
+00:06:21,017 --> 00:06:25,825
+Individual shots are a little dirtier, a little
+shakier, more complex, few more layers.
+
+123
+00:06:25,845 --> 00:06:28,869
+Then you cut it together faster
+than the brain can register,
+
+124
+00:06:28,889 --> 00:06:30,929
+but not faster than the eye can move.
+
+125
+00:06:30,954 --> 00:06:34,480
+It's not revolutionary,
+just the past with a bit of stank on it.
+
+126
+00:06:36,845 --> 00:06:39,807
+If you want to see a more
+etxreme version of similiar ideas,
+
+127
+00:06:39,923 --> 00:06:41,718
+you can look at late-era Tony Scott.
+
+128
+00:06:42,062 --> 00:06:45,482
+And if you wanna see a less cluttered
+version, you can look at animation.
+
+129
+00:06:45,494 --> 00:06:47,450
+Someone like Glen Keane.
+
+130
+00:06:47,461 --> 00:06:50,995
+This is way more legible than what Bay does,
+but the basic idea is the same:
+
+131
+00:06:50,995 --> 00:06:54,370
+character, environment,
+many layers, one epic sweep.
+
+132
+00:06:54,401 --> 00:06:56,401
+The world feels huge.
+
+133
+00:06:58,773 --> 00:07:02,869
+One of my favorite adaptations of the
+Michael Bay style is actually shrinking it down.
+
+134
+00:07:02,875 --> 00:07:07,051
+Ironically, Bayhem - which seems to have
+developed from a kid blowing up his train set -
+
+135
+00:07:07,067 --> 00:07:09,228
+is actually kind of charming when it's tiny.
+
+136
+00:07:09,523 --> 00:07:13,023
+Instead of blowing up the world,
+how about a small English town?
+
+137
+00:07:13,048 --> 00:07:14,648
+<i>— Swan!</i>
+
+138
+00:07:21,550 --> 00:07:24,773
+But in the end, I think the popularity of
+this style is hugely important.
+
+139
+00:07:24,819 --> 00:07:27,273
+Whether we like it or not,
+the interesting thing here
+
+140
+00:07:27,274 --> 00:07:29,357
+is that we are really
+visually sophisticated
+
+141
+00:07:29,360 --> 00:07:31,449
+and totally visually illiterate.
+
+142
+00:07:31,463 --> 00:07:34,829
+We can process visual information
+at a speed that wasn't common before,
+
+143
+00:07:34,843 --> 00:07:37,584
+but thinking through what an image means...
+
+144
+00:07:37,607 --> 00:07:39,061
+<i>— This is not necessary!</i>
+
+145
+00:07:39,084 --> 00:07:40,314
+... not so much.
+
+146
+00:07:40,384 --> 00:07:41,942
+And as Wernor Herzog put it:
+
+147
+00:07:41,958 --> 00:07:45,577
+<i>— You do not avert your eyes.
+That's what's coming at us.</i>
+
+148
+00:07:45,600 --> 00:07:48,855
+This might sound a little weird, but
+the person who loses the most here
+
+149
+00:07:48,855 --> 00:07:52,450
+is actually Michael Bay.
+He is a slave to his own eye.
+
+150
+00:07:52,459 --> 00:07:55,204
+He has a need to make
+every image dynamic, even
+
+151
+00:07:55,230 --> 00:07:57,998
+when it runs contrary to
+the theme of his movie.
+
+152
+00:07:58,023 --> 00:08:03,958
+<i>— Some people just don't know a good thing
+when it's staring them in the face.</i>
+
+153
+00:08:05,091 --> 00:08:08,115
+<i>— It really is the simple things in life...</i>
+
+154
+00:08:08,115 --> 00:08:10,216
+Yeah, the little things,
+like a big house,
+
+155
+00:08:10,225 --> 00:08:12,526
+a dock, a view of the water
+and a speed boat.
+
+156
+00:08:12,541 --> 00:08:16,853
+What happens when two great storytellers
+tackle this exact same theme?
+
+157
+00:08:17,108 --> 00:08:20,514
+<i>— Heck, Norm, you know,
+we're doing pretty good.</i>
+
+158
+00:08:23,072 --> 00:08:25,576
+<i>— I love you, Margie.</i>
+
+159
+00:08:25,600 --> 00:08:27,956
+<i>— I love you, Norm.</i>
+
+160
+00:08:30,612 --> 00:08:33,196
+<i>— Two more months.</i>
+
+161
+00:08:35,769 --> 00:08:39,467
+<i>— Two more months...</i>
