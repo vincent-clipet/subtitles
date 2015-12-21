@@ -1,755 +1,702 @@
 1
-00:00:07,042 --> 00:00:09,100
+00:00:07,272 --> 00:00:09,980
 Salut, je suis Tony,
 et voici Every Frame a Painting.
 
 2
-00:00:10,005 --> 00:00:12,080
-Si vous avez eu la même enfance que moi,
-vous avez probablement regardé beaucoup de Looney Tunes.
+00:00:10,015 --> 00:00:13,680
+Si vous avez grandi comme moi, vous avez
+surement regardé beaucoup de Looney Tunes.
 
 3
-00:00:13,005 --> 00:00:14,079
-Et si avez été attentif
-pendant le générique,
+00:00:13,685 --> 00:00:16,879
+Et si vous étiez attentif au générique,
+vous devriez reconnaître ce nom.
 
 4
-00:00:15,003 --> 00:00:16,006
-vous devez reconnaitre ce nom.
+00:00:17,190 --> 00:00:19,309
+<i>- Mon nom est Charles Martin Jones.</i>
 
 5
-00:00:17,000 --> 00:00:19,119
-*- Je m'appelle Charles Martin Jones.*
+00:00:20,048 --> 00:00:22,413
+<i>Je ne suis pas à cette place
+habituellement.</i>
 
 6
-00:00:19,008 --> 00:00:21,013
-*Je ne suis pas à cette place
-habituellement.*
+00:00:22,732 --> 00:00:24,760
+<i>D'habitude je suis derrière la caméra.</i>
 
 7
-00:00:22,072 --> 00:00:23,170
-*D'habitude je suis derrière la caméra.*
-
-8
-00:00:28,025 --> 00:00:30,107
-Chuck Jones est l'un des plus grands maîtres
+00:00:28,025 --> 00:00:31,137
+Chuck Jones est l'un des grands maîtres
 de la comédie visuelle.
 
-9
-00:00:31,007 --> 00:00:36,100
+8
+00:00:31,367 --> 00:00:36,020
 Entre 1938 and 1962, il a réalisé
 + de 200 cartoons pour Warner Bros.
 
-10
-00:00:36,019 --> 00:00:38,040
+9
+00:00:36,379 --> 00:00:38,750
 10 films par an,
 6 minutes par film.
 
-11
-00:00:42,056 --> 00:00:44,123
+10
+00:00:42,056 --> 00:00:45,293
 Ce qui est étonnant, c'est qu'ils
 ne sont pas démodés 50 ans après.
 
-12
-00:00:45,023 --> 00:00:48,102
-Et parmi eux, il y a plusieurs
-des meilleurs courts-métrages jamais réalisés.
+11
+00:00:45,419 --> 00:00:48,838
+Et parmi eux, il y a plusieurs des
+meilleurs courts-métrages jamais réalisés.
 
-13
-00:00:48,008 --> 00:00:51,033
-Mais tout cela ne s'est pas fait en une nuit.
+12
+00:00:48,958 --> 00:00:52,383
+Mais tout ça ne s'est pas fait en une nuit.
 C'était un processus long ...
 
+13
+00:00:52,505 --> 00:00:54,140
+Aujourd'hui, jetons un œil ...
+
 14
-00:00:52,005 --> 00:00:53,080
-Aujourd'hui, étudions la transformation
+00:00:56,077 --> 00:00:59,254
+... à la transformation d'un bon artiste,
+en un excellent artiste.
 
 15
-00:00:56,007 --> 00:00:57,014
-d'un bon artiste, en excellent artiste.
-
-16
-00:00:59,002 --> 00:01:02,002
-[[-"All right.
-Let’s get this picture started!"]]
-
-17
-00:01:04,004 --> 00:01:05,010
-[[-"No! No!"]]
-
-18
-00:01:06,007 --> 00:01:08,061
+00:01:06,747 --> 00:01:09,181
 L'aspect le plus célèbre
 des cartoons de Chuck Jones
 
-19
-00:01:09,024 --> 00:01:11,040
-(et ce dont vous vous souvenez probablement
+16
+00:01:09,181 --> 00:01:12,350
+(et ce dont vous vous souvenez surement
 le mieux), ce sont les gags,
 
-20
-00:01:16,085 --> 00:01:17,177
+17
+00:01:16,725 --> 00:01:18,757
 écris par Michael Maltese
 et Tedd Pierce.
 
-21
-00:01:19,000 --> 00:01:22,031
+18
+00:01:19,240 --> 00:01:22,441
 Presque tous les gags ont la même
 structure classique en 2 parties.
 
-22
-00:01:22,031 --> 00:01:24,050
-La première partie vous amène
-à faire une hypothèse.
+19
+00:01:22,681 --> 00:01:24,120
+La première partie ...
 
-23
-00:01:25,095 --> 00:01:26,180
+20
+00:01:25,610 --> 00:01:27,400
+... vous amène à faire
+une hypothèse.
+
+21
+00:01:27,570 --> 00:01:28,820
 La deuxième partie ...
 
-24
-00:01:31,008 --> 00:01:32,008
-vous prouve que cette hypothèse
-était fausse.
+22
+00:01:30,838 --> 00:01:33,168
+... vous prouve que
+cette hypothèse était fausse.
 
-25
-00:01:32,009 --> 00:01:33,015
+23
+00:01:33,209 --> 00:01:34,685
 C'est tout. Hypothèse :
 
-26
-00:01:39,088 --> 00:01:39,975
-Realité des faits :
+24
+00:01:39,088 --> 00:01:40,355
+Réalité des faits :
 
-27
-00:01:41,000 --> 00:01:43,002
+25
+00:01:40,700 --> 00:01:43,292
 Et dans les vieux cartoons,
 les gags sont fantastiques,
 
-28
-00:01:43,003 --> 00:01:44,008
+26
+00:01:43,292 --> 00:01:45,108
 et arrivent les unes
 après les autres.
 
-29
-00:01:48,043 --> 00:01:51,047
+27
+00:01:48,463 --> 00:01:51,297
 Mais voici la vérité :
 les gags ne sont que la surface.
 
-30
-00:01:51,047 --> 00:01:52,120
-Ce qui distingue vraiment ses films,
-
-31
-00:01:53,025 --> 00:01:55,050
+28
+00:01:51,297 --> 00:01:53,800
+Ce qui distingue ses films,
 c'est la quantité de travail
-consacrée à la création des personnages.
 
-32
-00:01:55,009 --> 00:01:56,013
+29
+00:01:53,800 --> 00:01:55,789
+consacrée à la création
+des personnages.
+
+30
+00:01:55,789 --> 00:01:57,523
 Et cette création
 a pris du temps.
 
+31
+00:01:57,744 --> 00:02:00,638
+<i>- Tous les personnages nécessitent
+un processus d'apprentissage.</i>
+
+32
+00:02:00,638 --> 00:02:04,020
+<i>C'est dur pour les gens qui voient
+des acteurs jouer de comprendre</i>
+
 33
-00:01:57,004 --> 00:01:59,008
-*- Tous les personnages nécessitent
-un processus d'apprentissage.*
+00:02:04,020 --> 00:02:08,297
+<i>qu'ils ont une compétence majeure :
+ils ont eu d'autres rôles avant.</i>
 
 34
-00:01:59,081 --> 00:02:02,160
-*C'est dur pour les gens qui voient
-des acteurs jouer de comprendre*
+00:02:09,008 --> 00:02:12,288
+<i>- Quand on dessine quelque chose,
+tout ce qu'on a, c'est ... un dessin.</i>
 
 35
-00:02:03,006 --> 00:02:07,057
-*que les acteurs ont une compétence majeure :
-ils ont eu d'autres rôles avant.*
+00:02:12,288 --> 00:02:13,886
+<i>Et on doit y insérer
+un personnage.</i>
 
 36
-00:02:08,074 --> 00:02:09,074
-[[-"Hello."]]
-
-37
-00:02:09,008 --> 00:02:11,008
-*- Quand on dessine quelque chose,
-tout ce qu'on a, c'est ... un dessin.*
-
-38
-00:02:11,008 --> 00:02:12,016
-*Et on doit se mettre
-dans la peau du personnage.*
-
-39
-00:02:13,007 --> 00:02:14,080
+00:02:14,056 --> 00:02:15,510
 Prenons le cas de Daffy Duck.
 
-40
-00:02:15,043 --> 00:02:16,100
+37
+00:02:15,673 --> 00:02:17,670
 Quand il est apparu
-pour la première fois,
+pour la première fois ...
 
-41
+38
 00:02:20,046 --> 00:02:22,070
-Daffy était plus ou moins fou.
+... Daffy était
+plus ou moins fou.
 
-42
-00:02:22,150 --> 00:02:24,013
-[[-"Gosh what a screwy duck."]]
-
-43
-00:02:25,007 --> 00:02:27,061
+39
+00:02:25,687 --> 00:02:27,874
 Mais durant 15 ans,
 il s'est transformé,
 
-44
-00:02:28,024 --> 00:02:31,047
-partant de celui qui rigole,
+40
+00:02:27,874 --> 00:02:31,247
+allant de celui qui rigole,
 jusqu'à devenir le dindon de la farce.
 
-45
-00:02:35,077 --> 00:02:38,122
+41
+00:02:35,747 --> 00:02:39,292
 Ce Daffy est moins fou, mais c'est
 plus facile de comprendre ce qu'il veut.
 
-46
-00:02:39,022 --> 00:02:40,040
+42
+00:02:39,382 --> 00:02:40,607
 Il veut de l'argent.
 
-47
-00:02:40,007 --> 00:02:41,026
+43
+00:02:40,607 --> 00:02:41,886
 Il veut être une star.
 
-48
-00:02:42,000 --> 00:02:43,002
-En résumé, il veut connaitre la gloire.
+44
+00:02:41,930 --> 00:02:43,692
+En bref, il veut connaitre la gloire.
 
-49
-00:02:43,009 --> 00:02:44,018
-[[-"This looks like a job for...]]
+45
+00:02:43,942 --> 00:02:45,858
+<i>- C'est un travail pour ...</i>
 
-50
-00:02:48,003 --> 00:02:50,087
-[[-"...The Masked Avenger!"]]
+46
+00:02:48,003 --> 00:02:50,497
+<i>le Vengeur Masqué !</i>
 
-51
-00:02:50,087 --> 00:02:54,100
-En fait, tous les personnages de Chuck Jones
+47
+00:02:51,277 --> 00:02:54,690
+Tous les personnages de Chuck Jones
 ont des désirs très précis.
 
-52
-00:02:55,002 --> 00:02:56,008
+48
+00:02:54,942 --> 00:02:56,458
 Celui-ci veut une maison.
 
-53
-00:02:57,000 --> 00:02:58,005
-Celui-là veut révasser.
+49
+00:02:57,000 --> 00:02:58,675
+Celui-là veut rêvasser.
 
-54
+50
 00:02:59,319 --> 00:03:01,500
 Lui veut juste quelqu'un à aimer.
 
-55
+51
 00:03:02,000 --> 00:03:06,000
-[[-"Ah my little darling.
-It is love at first sight, is it not?"]]
+<i>- Ah ma chérie.
+C'est l'Amour au 1er regard, n'est-ce pas ?</i>
 
-56
-00:03:06,003 --> 00:03:08,032
+52
+00:03:06,123 --> 00:03:08,522
 Remarquez que chaque désir
 est très simple.
 
-57
-00:03:08,059 --> 00:03:10,130
+53
+00:03:08,689 --> 00:03:11,630
 Et plus simple est le désir,
 plus vivant est le personnage.
 
-58
-00:03:14,005 --> 00:03:15,039
+54
+00:03:13,345 --> 00:03:15,589
 Une fois que vous savez
 ce que veut le personnage,
 
-59
-00:03:15,009 --> 00:03:16,013
+55
+00:03:15,589 --> 00:03:17,713
 vous pouvez vous poser
 la questions suivante :
 
-60
-00:03:17,004 --> 00:03:19,005
+56
+00:03:17,713 --> 00:03:19,835
 Comment cet individu se déplace-t-il ?
 
+57
+00:03:20,180 --> 00:03:23,226
+<i>- Chaque action est dictée
+par ce qui est en nous.</i>
+
+58
+00:03:23,226 --> 00:03:26,110
+<i>On doit pouvoir penser
+de la même manière que le personnage.</i>
+
+59
+00:03:26,525 --> 00:03:29,623
+<i>Si on ne devine pas ce qu'il se passe
+grâce aux mouvements du personnage,</i>
+
+60
+00:03:29,623 --> 00:03:31,278
+<i>ce n'est pas de l'animation.</i>
+
 61
-00:03:20,000 --> 00:03:23,076
-*- Chaque action est dictée
-par ce qui est en soi.*
+00:03:34,737 --> 00:03:36,273
+<i>Le dialogue aide bien sûr ...</i>
 
 62
-00:03:23,076 --> 00:03:25,130
-*On doit être capable de penser
-de la même manière que le personnage.*
+00:03:36,273 --> 00:03:39,000
+<i>mais ce n'est pas ce qui permet
+à la scène de fonctionner.</i>
 
 63
-00:03:26,005 --> 00:03:29,043
-*Si on ne peux pas deviner ce qu'il se passe
-grâce aux mouvements du personnage,*
+00:03:39,000 --> 00:03:41,642
+<i>L'histoire doit se raconter
+d'elle-même grâce à l'image.</i>
 
 64
-00:03:29,009 --> 00:03:29,107
-*ce n'est pas de l'animation.*
-
-65
-00:03:30,088 --> 00:03:33,100
-[[-"I am a snake and
-you have charmed me, no?"]]
-
-66
-00:03:34,007 --> 00:03:35,013
-*Le dialogue aide bien sûr ...*
-
-67
-00:03:36,003 --> 00:03:37,010
-*mais le dialogue n'est pas ce qui permet
-à la scène de fonctionner.*
-
-68
-00:03:39,000 --> 00:03:41,042
-*L'histoire doit se raconter
-d'elle-même grâce à l'image.*
-
-69
-00:03:43,000 --> 00:03:45,004
+00:03:42,930 --> 00:03:45,054
 Disons que vous savez
 ce que veut le personnage,
 
-70
-00:03:45,004 --> 00:03:46,090
-et que vous savez comment il agit
+65
+00:03:45,054 --> 00:03:47,080
+et comment il agit
 pour atteindre son but.
 
-71
-00:03:47,000 --> 00:03:48,044
+66
+00:03:47,380 --> 00:03:48,764
 Qu'en est-il de l'humour ?
 
-72
-00:03:48,044 --> 00:03:49,110
+67
+00:03:48,764 --> 00:03:50,550
 Ce qui se passe entre l'hypothèse ...
 
-73
-00:03:52,000 --> 00:03:53,005
+68
+00:03:52,000 --> 00:03:53,375
 et la réalité des faits ?
 
-74
-00:03:53,005 --> 00:03:56,194
+69
+00:03:53,450 --> 00:03:56,689
 Et bien maintenant, l'hypothèse
 inclut la personnalité du personnage.
 
-75
-00:03:56,239 --> 00:03:59,300
+70
+00:03:56,689 --> 00:03:59,880
 Par exemple, nous savons que Daffy
 va toujours vers l'affrontement,
 
-76
-00:04:01,001 --> 00:04:03,052
+71
+00:04:01,001 --> 00:04:03,342
 car cela fait partie
 de son désir de gloire.
 
-77
-00:04:05,000 --> 00:04:06,000
-[[-"Take over."]]
+72
+00:04:05,884 --> 00:04:08,713
+De même, on sait que la machine
+du Coyote ne marchera pas,
 
-78
-00:04:06,004 --> 00:04:07,013
-De même, nous savons que la machine
-du Coyote ne marchera pas, 
-
-79
-00:04:08,005 --> 00:04:10,031
+73
+00:04:08,905 --> 00:04:10,881
 donc Jones fait cette blague
-hors-champ ...
+hors-champ,
 
-80
-00:04:10,076 --> 00:04:11,100
+74
+00:04:10,881 --> 00:04:12,715
 ... ce qui la rend
 plus drôle encore.
 
-81
-00:04:18,007 --> 00:04:19,091
+75
+00:04:18,577 --> 00:04:20,681
 Mais il y a un risque
 à cette approche.
 
-82
-00:04:20,064 --> 00:04:23,122
+76
+00:04:20,854 --> 00:04:23,912
 Si on reste focalisé sur des blagues
-avec toujours les mêmes personnages
+avec les mêmes personnages
 
-83
-00:04:24,022 --> 00:04:25,100
+77
+00:04:23,912 --> 00:04:26,860
 à la personnalité bien définie,
-on peut facilement tomber dans un schéma tout fait.
+on tombe dans un schéma tout fait.
 
-84
-00:04:26,004 --> 00:04:28,096
-*- Parfois je me sens triste
-pour le Coyote.*
+78
+00:04:26,904 --> 00:04:29,576
+<i>- Parfois je me sens triste
+pour le Coyote.</i>
 
-85
-00:04:30,000 --> 00:04:32,004
-*Parfois j'espère qu'il va l'attraper.*
+79
+00:04:30,390 --> 00:04:32,634
+<i>Parfois j'espère qu'il va l'attraper.</i>
 
-86
-00:04:38,000 --> 00:04:40,008
-*S'il l'attrape, il n'y aura plus
-de [[Beeep-Beeep.]]*
+80
+00:04:38,000 --> 00:04:40,858
+<i>S'il l'attrape, il n'y aura plus
+de Bip-Bip</i>
 
-87
-00:04:41,007 --> 00:04:42,014
-*Vous n'aimeriez pas ça,
-pas vrai ?*
+81
+00:04:41,007 --> 00:04:43,064
+<i>Vous n'aimeriez pas ça,
+pas vrai ?</i>
 
-88
-00:04:43,008 --> 00:04:45,008
+82
+00:04:43,418 --> 00:04:46,188
 Donc pour éviter ce problème,
 Jones a fait quelque chose.
 
-89
-00:04:46,000 --> 00:04:48,063
+83
+00:04:46,190 --> 00:04:48,403
 C'est la chose qui définit
 le mieux son oeuvre.
 
-90
-00:04:48,063 --> 00:04:51,095
+84
+00:04:48,443 --> 00:04:52,165
 C'est un mot qu'il utilise, et que d'autres
 utilisent pour le qualifier.
 
-91
-00:04:52,006 --> 00:04:52,015
-[[-"Beep Beep!"]]
+85
+00:04:53,486 --> 00:04:56,741
+<i>- Cela ressort comme un exemple
+du genre de discipline</i>
 
-92
-00:04:53,006 --> 00:04:56,057
-*- Cela ressort comme un exemple
-de discipline*
+86
+00:04:56,741 --> 00:04:59,058
+<i>que Chuck Jones aimait
+s'appliquer à lui-même.</i>
 
-93
-00:04:57,011 --> 00:04:59,058
-*que Chuck Jones aimait
-s'appliquer à lui-même.*
+87
+00:04:59,258 --> 00:05:02,500
+<i>- C'est un facteur vital dans toutes
+les comédies et les tragédies.</i>
 
-94
-00:04:59,058 --> 00:05:01,150
-*C'est un facteur vital dans toutes
-les comédies et les tragédies."
+88
+00:05:02,618 --> 00:05:04,212
+<i>Quelles sont vos 'disciplines' ?</i>
 
-95
-00:05:02,008 --> 00:05:03,012
-[[*- Quelles sont vos disciplines ?*]]
-
-96
-00:05:04,002 --> 00:05:07,048
+89
+00:05:04,403 --> 00:05:08,019
 La discipline. Les défis et restrictions
 que vous vous imposez.
 
-97
-00:05:07,009 --> 00:05:09,010
+90
+00:05:08,129 --> 00:05:10,320
 Comme créer un personnage
 sans bouche.
 
-98
-00:05:11,003 --> 00:05:12,003
+91
+00:05:11,003 --> 00:05:12,503
 Ou sans visage.
 
-99
-00:05:13,053 --> 00:05:14,130
-[[Ou n'utiliser aucun dialogue
-à part ceci :]]
+92
+00:05:13,173 --> 00:05:15,750
+Ou en utilisant aucun dialogue
+à part ceci :
 
-100
-00:05:17,000 --> 00:05:21,000
-[[-"Hello my baby, hello my honey,
-hello my ragtime gal."]]
-
-101
-00:05:21,004 --> 00:05:23,032
+93
+00:05:21,600 --> 00:05:23,668
 Parce que l'animation
 permet de tout faire,
 
-102
-00:05:23,068 --> 00:05:25,084
+94
+00:05:23,668 --> 00:05:25,654
 il faut réfléchir
 à ce qu'on ne fera PAS.
 
-103
-00:05:26,003 --> 00:05:27,010
+95
+00:05:25,833 --> 00:05:28,040
 Et dans le cas de Jones,
 il avait beaucoup de règles
 
-104
-00:05:28,002 --> 00:05:30,010
-sur le monde, sur les personnages,
-et sur leur comportement.
+96
+00:05:28,040 --> 00:05:30,660
+sur le monde, les personnages,
+et leur comportement.
 
-105
-00:05:30,003 --> 00:05:32,010
+97
+00:05:30,683 --> 00:05:33,150
 Par exemple, Bugs Bunny
 ne cherche jamais le combat.
 
-106
-00:05:33,003 --> 00:05:34,032
+98
+00:05:33,150 --> 00:05:34,922
 Quelqu'un doit le provoquer ...
 
+99
+00:05:39,933 --> 00:05:41,590
+... et là, il contre-attaque.
+
+100
+00:05:44,000 --> 00:05:47,715
+<i>- Bugs Bunny n'est pas juste
+un lapin fou.</i>
+
+101
+00:05:47,770 --> 00:05:50,956
+<i>Quelqu'un essaie toujours de lui faire
+du mal; alors il se venge.</i>
+
+102
+00:05:51,295 --> 00:05:53,675
+<i>- Il doit être provoqué.
+Et nous l'avons appris.</i>
+
+103
+00:05:53,675 --> 00:05:55,780
+<i>Il est vraiment capital
+qu'il soit provoqué.</i>
+
+104
+00:05:55,780 --> 00:05:58,075
+<i>Parce qu'autrement,
+il passerait pour une brute.</i>
+
+105
+00:05:58,483 --> 00:06:01,550
+<i>- Tu réalises que c'est
+une déclaration de guerre ?"</i>
+
+106
+00:06:01,900 --> 00:06:05,499
+Une restriction similaire est apparue,
+concernant l'expression des personnages.
+
 107
-00:05:34,059 --> 00:05:38,130
-[[-"Kill the wabbit! Kill the wabbit!
-Kill the wabbit!"]]
+00:06:05,499 --> 00:06:09,340
+Au début, ils avaient tendance à faire
+des tonnes d'expressions faciales.
 
 108
-00:05:39,003 --> 00:05:40,010
-... pour qu'il tape en retour.
-
-109
-00:05:41,003 --> 00:05:42,080
-[[-"Kill the wabbit?"]]
-
-110
-00:05:44,000 --> 00:05:47,005
-*- Bugs Bunny n'est pas juste
-un lapin fou.*
-
-111
-00:05:48,000 --> 00:05:51,036
-*Quelqu'un essaie toujours de lui faire
-du mal. Alors il se venge.*
-
-112
-00:05:51,005 --> 00:05:52,014
-*Il ne répond qu'après une provocation.
-Et nous l'avons appris.*
-
-113
-00:05:53,005 --> 00:05:54,010
-*Il est vraiment capital
-qu'il soit provoqué.*
-
-114
-00:05:55,002 --> 00:05:56,085
-*Parce qu'autrement,
-il passerait pour une brute.*
-
-115
-00:05:58,003 --> 00:06:01,060
-[[-"Of course you realize 
-this means war."]]
-
-116
-00:06:02,000 --> 00:06:05,139
-Une restricion similaire est apparue, concernant
-la façon des personnages de s'exprimer.
-
-117
-00:06:05,139 --> 00:06:08,200
-[[Au début, ils avaient tendance à faire
-des tonnes d'expressions faciales.]]
-
-118
-00:06:12,003 --> 00:06:14,005
+00:06:12,003 --> 00:06:14,805
 Mais avec le temps,
 il y en a eu de moins en moins.
 
-119
-00:06:14,009 --> 00:06:17,013
-*- En particulier dans ses derniers films,
-Chuck tenait vraiment*
+109
+00:06:15,099 --> 00:06:18,665
+<i>- En particulier dans ses derniers films,
+Chuck tenait vraiment</i>
 
-120
-00:06:19,005 --> 00:06:22,012
-*à utiliser les plus petits
-gestes et expressions faciales possibles,*
+110
+00:06:18,665 --> 00:06:23,402
+<i>à utiliser les plus petits
+gestes et expressions faciales possibles,</i>
 
-121
-00:06:24,000 --> 00:06:26,003
-*pour déclencher des rires.*
+111
+00:06:23,460 --> 00:06:26,103
+<i>pour déclencher des rires.</i>
 
-122
-00:06:32,028 --> 00:06:34,045
-*[[-]] Les expressions faciales de Chuck
+112
+00:06:31,918 --> 00:06:34,955
+*- Les expressions faciales de Chuck
 étaient les meilleures..."
 
-123
-00:06:34,045 --> 00:06:36,080
-*... parce qu'elles étaient minimalistes.*
+113
+00:06:34,955 --> 00:06:36,920
+<i>... parce que c'était un minimaliste.</i>
 
-124
-00:06:42,919 --> 00:06:44,610
-*[[- ]]"L'humour a toujours
-les 2 mêmes sources."
+114
+00:06:42,579 --> 00:06:44,701
+<i>- L'humour a toujours
+les 2 mêmes sources.</i>
 
-125
-00:06:44,061 --> 00:06:47,086
-*"Je pense que l'humour vient
-du comportement humain et de la logique.*
+115
+00:06:44,701 --> 00:06:47,976
+<i>Je pense que l'humour vient
+du comportement humain et de la logique.</i>
 
-126
-00:06:48,009 --> 00:06:49,014
-*Si ça n'est pas logique,
-ça ne sera pas drôle ...*
+116
+00:06:48,229 --> 00:06:50,404
+<i>Si ce n'est pas logique,
+ça ne sera pas drôle.</i>
 
-127
-00:06:50,004 --> 00:06:51,008
-*"... Et si ça ne vient pas
-d'un comportement humain ..."
+117
+00:06:50,404 --> 00:06:53,948
+<i>Si ça ne vient pas d'un comportement humain,
+comment savoir si c'est drôle ou pas ?</i>
 
-128
-00:06:51,899 --> 00:06:52,954
-*"... Comment savoir si c'est drôle ou pas ?*
-
-129
-00:06:53,008 --> 00:06:55,010
+118
+00:06:54,078 --> 00:06:56,930
 Voyez-le de cette façon,
 ça, c'est un comportement humain :
 
-130
-00:06:56,003 --> 00:06:57,010
-[[-"Ha ha! Now!"]]
+119
+00:07:00,679 --> 00:07:01,930
+Ça, c'était logique.
 
-131
-00:07:00,679 --> 00:07:01,800
-[[Ca, c'est logique :]]
+120
+00:07:02,252 --> 00:07:04,547
+Cette logique, on l'améliore
+au fil du temps.
 
-132
-00:07:02,002 --> 00:07:04,037
-Cette logique, c'est une chose à laquelle
-on devient meilleur au fil du temps.
-
-133
-00:07:06,085 --> 00:07:07,120
+121
+00:07:06,295 --> 00:07:08,310
 Mais concernant le comportement humain ?
 
-134
-00:07:08,003 --> 00:07:10,003
+122
+00:07:08,383 --> 00:07:10,383
 Comment en améliorer sa compréhension ?
 
-135
-00:07:11,000 --> 00:07:12,689
+123
+00:07:11,250 --> 00:07:13,239
 La vérité : il y a qu'une seule façon.
 
-136
-00:07:12,689 --> 00:07:14,300
+124
+00:07:13,239 --> 00:07:15,240
 Et ce n'est pas en regardant des films.
 
-137
-00:07:19,000 --> 00:07:21,006
-*- Quand tu parles à Chuck,
-il t'encourage tout le temps"
+125
+00:07:18,660 --> 00:07:21,326
+<i>- Quand tu parles à Chuck,
+il t'encourage tout le temps</i>
 
-138
-00:07:21,009 --> 00:07:24,012
+126
+00:07:21,326 --> 00:07:25,142
 *à aller à la source :
 à étudier la vie, les arts ..."
 
-139
-00:07:25,004 --> 00:07:29,013
-*... et ensuite d'appliquer ça à l'animation. 
-Ce n'est pas seulement animer des visages drôles.*
+127
+00:07:25,354 --> 00:07:29,943
+<i>... et ensuite d'appliquer ça à l'animation. 
+Ce n'est pas seulement animer des visages drôles.</i>
 
-140
-00:07:34,005 --> 00:07:36,574
+128
+00:07:33,615 --> 00:07:36,634
 Jones pensait que regarder des films,
 ce n'était pas suffisant.
 
-141
-00:07:36,607 --> 00:07:37,615
+129
+00:07:36,634 --> 00:07:39,045
 Il faut avoir des centres
 d'intérêts extérieurs.
 
-142
-00:07:38,007 --> 00:07:39,015
+130
+00:07:39,097 --> 00:07:40,795
 Il faut étudier la vraie vie.
 
-143
-00:07:40,006 --> 00:07:41,013
+131
+00:07:40,966 --> 00:07:42,733
 Plus que tout, il encourageait ceci :
 
-144
-00:07:43,000 --> 00:07:45,002
-*- Lire. Lire tout.*
+132
+00:07:43,000 --> 00:07:44,842
+<i>- Lire. Lire tout.</i>
 
-145
-00:07:45,005 --> 00:07:46,013
-*Ca n'apporte rien de bon
-de dessiner ...*
+133
+00:07:44,995 --> 00:07:47,104
+<i>Ca n'apporte rien de bon
+de dessiner ...</i>
 
-146
-00:07:47,004 --> 00:07:48,008
-*... à moins d'avoir quelque chose
-d'intéressant à dessiner.*
+134
+00:07:47,104 --> 00:07:49,008
+<i>... à moins d'avoir
+quelque chose à dessiner.</i>
 
-147
-00:07:48,009 --> 00:07:49,015
-*Le seul endroit où vous pouvez
-trouver quelque chose à dessiner ...*
+135
+00:07:49,008 --> 00:07:52,225
+<i>Le seul endroit où trouver quelque chose
+à dessiner, c'est dans votre tête.</i>
 
-148
-00:07:50,005 --> 00:07:51,005
-*... c'est dans votre tête.*
+136
+00:07:52,292 --> 00:07:54,185
+<i>Et la seule façon
+d'exercer l'esprit ...</i>
 
-149
-00:07:51,509 --> 00:07:53,592
-*Et la seule façon
-d'exercer l'esprit ...*
+137
+00:07:54,185 --> 00:07:56,081
+<i> ... est d'y amener
+de nouvelles idées ...</i>
 
-150
-00:07:54,005 --> 00:07:55,011
-* ... est d'y amener
-de nouvelles idées ...*
+138
+00:07:56,081 --> 00:07:57,955
+<i>... afin que l'esprit soit surpris ...</i>
 
-151
-00:07:56,002 --> 00:07:57,005
-*... afin que l'esprit soit surpris ..."
+139
+00:08:01,648 --> 00:08:03,867
+<i>... et se dire :
+"Mince, je ne savais pas ça !"</i>
 
-152
-00:08:01,008 --> 00:08:02,017
-*... et qu'il se dise
-"Mince, je ne savais pas ça !"*
+140
+00:08:03,908 --> 00:08:05,563
+<i>C'est la meilleure chose au monde,</i>
 
-153
-00:08:03,008 --> 00:08:04,013
-*C'est la meilleure chose au monde, "
+141
+00:08:05,563 --> 00:08:08,636
+<i>ce "Mince, je ne savais pas ça !".
+Et voilà, vous voyez ?</i>
 
-154
-00:08:05,003 --> 00:08:08,016
-*ce "Mince, je ne savais pas ça !"
-[[And there you are, you know ?]]*
-
-155
-00:08:09,043 --> 00:08:11,065
+142
+00:08:08,973 --> 00:08:11,275
 Et voilà.
 Ce n'est pas seulement des gags.
 
-156
-00:08:12,003 --> 00:08:13,005
+143
+00:08:11,743 --> 00:08:13,115
 Ou des personnages.
 
-157
-00:08:13,009 --> 00:08:14,012
+144
+00:08:13,479 --> 00:08:14,942
 Ou de la discipline.
 
-158
-00:08:15,071 --> 00:08:17,130
+145
+00:08:15,221 --> 00:08:18,660
 C'est surtout l'étude du monde réel,
 et l'apprentissage de nouvelles choses.
 
-159
-00:08:18,699 --> 00:08:21,099
+146
+00:08:18,729 --> 00:08:21,229
 Et l'inclusion de ces connaissances
 dans son travail.
 
-160
-00:08:21,699 --> 00:08:23,399
+147
+00:08:21,329 --> 00:08:23,289
 En d'autres mots, l'inspiration.
 
-161
-00:08:25,094 --> 00:08:26,131
+148
+00:08:25,654 --> 00:08:27,941
 Et le truc génial
 avec ce genre d'inspiration ?
 
-162
-00:08:27,005 --> 00:08:30,013
-*- On peut la trouver n'importe où.
-Absolument n'importe où.*
+149
+00:08:28,115 --> 00:08:32,043
+<i>- On peut la trouver n'importe où.
+Absolument n'importe où.</i>
