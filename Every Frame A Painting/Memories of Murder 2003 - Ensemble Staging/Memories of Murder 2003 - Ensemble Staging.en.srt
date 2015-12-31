@@ -1,0 +1,420 @@
+1
+00:00:05,286 --> 00:00:08,736
+Hi, my name is Tony,
+and this is Every Frame a Painting.
+
+2
+00:00:10,956 --> 00:00:14,362
+There's a quote that I love
+from Alexander Mackendrick. He said :
+
+3
+00:00:14,362 --> 00:00:18,094
+<i>"What a film director really directs
+is the audience attention ...</i>
+
+4
+00:00:21,964 --> 00:00:24,043
+<i>... Directing is a matter of emphasis ...</i>
+
+5
+00:00:25,084 --> 00:00:27,073
+<i>... You emphasize what is important ...</i>
+
+6
+00:00:29,773 --> 00:00:32,198
+<i>... by under-emphasizing
+what is less so."</i>
+
+7
+00:00:36,191 --> 00:00:39,963
+These days, most directors create emphasis
+by cutting from close-up ...
+
+8
+00:00:40,195 --> 00:00:41,226
+... to close up ...
+
+9
+00:00:41,405 --> 00:00:42,358
+... to close up.
+
+10
+00:00:42,858 --> 00:00:45,935
+But too much coverage is exhausting,
+especially for the actors.
+
+11
+00:00:46,228 --> 00:00:49,071
+<i>- And say, oh, so now,
+you're gonne be a mechanic,</i>
+
+12
+00:00:49,071 --> 00:00:53,981
+<i>so you should master close, close, closer,
+over, over, over ...</i>
+
+13
+00:00:54,735 --> 00:00:57,417
+<i>I go hard lining, and say "Look,
+I'm not gonna do that.",</i>
+
+14
+00:00:57,417 --> 00:01:01,277
+<i>because you already got
+everything you need to tell the audience</i>
+
+15
+00:01:01,277 --> 00:01:03,770
+<i>what they need to know
+about what's happening here.</i>
+
+16
+00:01:04,043 --> 00:01:07,597
+So today, let's consider a different option.
+Instead of standard coverage,
+
+17
+00:01:07,597 --> 00:01:09,784
+let's put all the actors
+in the same frame,
+
+18
+00:01:09,784 --> 00:01:11,256
+and let them perform together.
+
+19
+00:01:11,529 --> 00:01:14,344
+In other words, let's talk about
+'ensemble staging'.
+
+20
+00:01:20,970 --> 00:01:24,723
+Ensemble staging is all about
+creating emphasis without using a cut
+
+21
+00:01:25,437 --> 00:01:29,458
+The first thing to remember is that
+we naturally look at whoever is speaking ...
+
+22
+00:01:31,566 --> 00:01:33,342
+and whoever is being spoken to.
+
+23
+00:01:34,304 --> 00:01:36,541
+This is often combined with
+a second technique :
+
+24
+00:01:36,647 --> 00:01:39,509
+if someone is more important, 
+put them closer to the light,
+
+25
+00:01:40,041 --> 00:01:41,756
+or closer to the lens.
+
+26
+00:01:43,295 --> 00:01:46,614
+If you want someone to be less noticeable,
+move them further away,
+
+27
+00:01:47,053 --> 00:01:48,594
+maybe out of focus.
+
+28
+00:01:54,188 --> 00:01:57,813
+Of course, attention is relative.
+Sometimes, you can get the audience
+
+29
+00:01:57,813 --> 00:02:00,238
+to look at something,
+even when it's out of focus.
+
+30
+00:02:03,802 --> 00:02:05,278
+By having it move.
+
+31
+00:02:07,711 --> 00:02:10,469
+We're especially aware
+when somebody moves their hands ...
+
+32
+00:02:11,681 --> 00:02:13,185
+or moves their eyes.
+
+33
+00:02:14,454 --> 00:02:18,756
+You can also guide the audience by putting
+something close to the center of the frame.
+
+34
+00:02:21,995 --> 00:02:24,459
+In fact, this is one of the film's
+running jokes.
+
+35
+00:02:24,714 --> 00:02:26,866
+Characters in the middle of the shot ...
+
+36
+00:02:28,591 --> 00:02:30,522
+... who keep attacking the suspects.
+
+37
+00:02:33,811 --> 00:02:36,738
+Which brings us to #5 :
+the body position of the actors.
+
+38
+00:02:37,244 --> 00:02:40,060
+How are the characters turned
+in relation to the lens ?
+
+39
+00:02:40,238 --> 00:02:43,072
+Do we see their whole face ...
+or 3/4 ?
+
+40
+00:02:43,945 --> 00:02:48,211
+Is it a profile ... or another angle
+where we don't see the face at all ?
+
+41
+00:02:49,066 --> 00:02:52,864
+When you have multiple actors in a shot,
+it's important to have some variation.
+
+42
+00:02:53,130 --> 00:02:56,821
+The audience doesn't need to look at
+a character right now : turn him around.
+
+43
+00:02:57,328 --> 00:02:59,808
+Notice how by doing this,
+you're creating contrast.
+
+44
+00:03:00,109 --> 00:03:03,970
+The 3 cops on the right face each other,
+while detective Seo looks elsewhere.
+
+45
+00:03:04,660 --> 00:03:08,667
+In fact, for the first half-hour, he's
+constantly placed away from the main group,
+
+46
+00:03:08,750 --> 00:03:11,583
+looking at documents
+that everyone else is ignoring.
+
+47
+00:03:12,731 --> 00:03:14,253
+This bring us to #7 :
+
+48
+00:03:16,353 --> 00:03:18,243
+Subtly moving the camera.
+
+49
+00:03:19,353 --> 00:03:22,753
+Here watch out the shot
+narrow our focus from 4 characters ...
+
+50
+00:03:26,386 --> 00:03:29,514
+... down to 2.
+While here, our attention moves
+
+51
+00:03:29,514 --> 00:03:34,959
+from one side of the argument, to the other,
+fore-settling on the eventual winner.
+
+52
+00:03:38,193 --> 00:03:41,687
+And last of all, don't forget that
+human beings are social creatures :
+
+53
+00:03:41,859 --> 00:03:44,318
+We look where other people are looking.
+
+54
+00:03:49,754 --> 00:03:54,030
+So with all that, let's consider why Bong Joon-ho
+would stage something as an ensemble.
+
+55
+00:03:54,563 --> 00:03:56,817
+This is my favourite shot
+in the entire film.
+
+56
+00:04:01,113 --> 00:04:04,532
+At first we think it's one story,
+an argument between two cops.
+
+57
+00:04:05,011 --> 00:04:08,151
+And Bong seems to do very little.
+He just lets our attention move
+
+58
+00:04:08,151 --> 00:04:11,428
+from detective Park ...
+to detective Seo.
+
+59
+00:04:15,792 --> 00:04:18,499
+But in the center of frame,
+something catches our eye,
+
+60
+00:04:18,499 --> 00:04:21,563
+and we realize another character,
+detective Cho, is making out
+
+61
+00:04:21,563 --> 00:04:23,124
+with the hostess in the back.
+
+62
+00:04:23,903 --> 00:04:26,930
+So now we have 2 stories :
+foreground & background.
+
+63
+00:04:27,146 --> 00:04:30,466
+And Bong plays them against each other,
+to contrast the serious ...
+
+64
+00:04:34,984 --> 00:04:38,965
+... with the silly. As the scene builds,
+he slowly pushes the camera in,
+
+65
+00:04:39,095 --> 00:04:42,447
+which hides the 2 women,
+and focus our attention on the main pair.
+
+66
+00:04:46,016 --> 00:04:48,800
+And he lets the actors use their hands
+to tell the story,
+
+67
+00:04:48,819 --> 00:04:51,589
+especially when the argument
+reaches his breaking point.
+
+68
+00:04:57,200 --> 00:04:59,554
+But suddenly, the chief enters the scene.
+
+69
+00:05:02,422 --> 00:05:05,469
+This is the moment when
+the ensemble staging pays off.
+
+70
+00:05:05,719 --> 00:05:09,582
+We have an unexpected third story, and
+it interrupts both of the others.
+
+71
+00:05:17,873 --> 00:05:18,976
+With a joke.
+
+72
+00:05:20,363 --> 00:05:22,979
+From now on, the rest of the scene
+is the third story,
+
+73
+00:05:22,979 --> 00:05:26,060
+as the chief outlines his plan
+to catch the serial killer.
+
+74
+00:05:30,741 --> 00:05:34,410
+But why do this in one shot ?
+I think it underscores the theme.
+
+75
+00:05:37,141 --> 00:05:41,094
+The first story is a petty argument.
+The second story is just lust.
+
+76
+00:05:42,074 --> 00:05:45,166
+None of these cops is doing work,
+they're all being selfish.
+
+77
+00:05:45,406 --> 00:05:49,548
+It's not until the third story that
+they think about the victims and the case.
+
+78
+00:05:53,330 --> 00:05:56,367
+The chief literally provides
+the moral center of the frame.
+
+79
+00:05:56,601 --> 00:05:58,827
+And if Bong had shot this scene
+with coverage,
+
+80
+00:05:58,847 --> 00:06:01,692
+we wouldn't see the connection
+between the first story ...
+
+81
+00:06:03,892 --> 00:06:06,439
+... and the second.
+And from both stories ...
+
+82
+00:06:09,676 --> 00:06:10,674
+... to the third.
+
+83
+00:06:10,920 --> 00:06:14,019
+This is the kind of directing that is
+unbelievably rare today,
+
+84
+00:06:14,019 --> 00:06:16,995
+and it shows the value of
+playing a scene as an ensemble,
+
+85
+00:06:16,995 --> 00:06:19,372
+rather than cutting
+from one face to another.
+
+86
+00:06:19,642 --> 00:06:24,239
+<i>- Because sometimes, I just want to stay
+in that particular place, with the actors,</i>
+
+87
+00:06:24,239 --> 00:06:29,008
+<i>and let the actors settle it,
+and not let you help me tell the story</i>
+
+88
+00:06:29,008 --> 00:06:32,191
+<i>by getting closer to my face.
+Just let me do it.</i>
