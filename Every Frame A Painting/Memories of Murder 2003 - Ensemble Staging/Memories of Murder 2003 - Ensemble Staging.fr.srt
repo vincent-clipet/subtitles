@@ -14,27 +14,27 @@ que j'adore. Elle dit :
 c'est l'attention des spectateurs.</i>
 
 4
-00:00:21,964 --> 00:00:24,043
-*La réalisation est une question
-d'accentuation ...*
+00:00:21,964 --> 00:00:24,323
+<i>La réalisation est une question
+d'accentuation ...</i>
 
 5
-00:00:25,084 --> 00:00:27,073
+00:00:25,084 --> 00:00:27,443
 <i>... On met l'accent
 sur ce qui est important ...</i>
 
 6
 00:00:29,773 --> 00:00:32,198
-*"... en ignorant
-ce qui ne l'est pas."*
+<i>"... en ignorant
+ce qui ne l'est pas."</i>
 
 7
-00:00:36,191 --> 00:00:39,963
+00:00:36,081 --> 00:00:40,053
 De nos jours, la plupart des réalisateurs
 accentuent en coupant d'un gros plan ...
 
 8
-00:00:40,195 --> 00:00:41,226
+00:00:40,195 --> 00:00:41,306
 ... à un gros plan ...
 
 9
@@ -42,13 +42,13 @@ accentuent en coupant d'un gros plan ...
 ... à un gros plan.
 
 10
-00:00:42,858 --> 00:00:45,935
+00:00:42,858 --> 00:00:46,075
 Mais trop de couverture est fatiguant,
-en particulier pour les acteurs.
+surtout pour les acteurs.
 
 11
 00:00:46,228 --> 00:00:49,071
-<i>- Dison que maintenant,
+<i>- Disons que maintenant,
 tu joues un mécanicien,</i>
 
 12
@@ -57,42 +57,42 @@ tu joues un mécanicien,</i>
 dans des plans de + en + rapprochés ...</i>
 
 13
-00:00:54,735 --> 00:00:57,417
-<i>Je le (le réalisateur) regarde en face, et dit
+00:00:54,185 --> 00:00:57,657
+<i>Je regarde le réalisateur en face, et dit
 "Ecoute, je vais pas faire ça,</i>
 
 14
-00:00:57,417 --> 00:01:01,277
+00:00:57,657 --> 00:01:01,097
 <i>parce que tu as déjà tout ce qu'il faut
-pour transmettre à l'audience</i>
+pour transmettre au public</i>
 
 15
-00:01:01,277 --> 00:01:03,770
-<i>ce qu'ils ont besoin de savoir
+00:01:01,097 --> 00:01:03,950
+<i>ce qu'il a besoin de savoir
 sur ce qui est en train de se passer."</i>
 
 16
-00:01:04,043 --> 00:01:07,597
+00:01:04,043 --> 00:01:07,687
 Donc aujourd'hui, considérons une autre option
 Au lieu de couverture standard,
 
 17
-00:01:07,597 --> 00:01:09,784
+00:01:07,687 --> 00:01:09,784
 mettons tous les acteurs
 dans le même cadre,
 
 18
 00:01:09,784 --> 00:01:11,256
 et laissons-les jouer
-tous ensemble.
+ensemble.
 
 19
-00:01:11,529 --> 00:01:14,344
+00:01:11,529 --> 00:01:14,514
 En d'autres mots, parlons de
 'mise en scène d'ensemble'.
 
 20
-00:01:20,970 --> 00:01:24,723
+00:01:20,810 --> 00:01:24,913
 Le coeur de la mise en scène d'ensemble
 est l'accentuation sans changement de plan.
 
@@ -129,12 +129,12 @@ mettez-le plus loin,
 peut-être même hors-focus.
 
 28
-00:01:54,188 --> 00:01:57,813
+00:01:54,028 --> 00:01:57,813
 Bien sûr, la concentration est relative.
 Parfois, vous pouvez forcer le public
 
 29
-00:01:57,813 --> 00:02:00,238
+00:01:57,813 --> 00:02:00,608
 à observer quelque chose,
 même si celle-ci est hors-focus.
 
@@ -143,8 +143,8 @@ même si celle-ci est hors-focus.
 En la déplaçant.
 
 31
-00:02:07,711 --> 00:02:10,469
-Nous sommes particulièrement attentifs
+00:02:07,611 --> 00:02:10,769
+On est particulièrement attentif
 quand quelqu'un bouge ses mains ...
 
 32
@@ -157,12 +157,12 @@ On peut aussi guider le public en plaçant
 quelque chose près du centre du cadre.
 
 34
-00:02:21,995 --> 00:02:24,459
+00:02:21,775 --> 00:02:24,459
 D'ailleurs, c'est l'une des blagues
 récurrentes du film.
 
 35
-00:02:24,714 --> 00:02:26,866
+00:02:24,714 --> 00:02:26,636
 Les personnages au milieu du cadre ...
 
 36
@@ -175,7 +175,7 @@ Ce qui nous amène au #5 :
 la position corporelle des acteurs.
 
 38
-00:02:37,244 --> 00:02:40,060
+00:02:37,114 --> 00:02:40,100
 Comment sont placés les personnages
 par rapport à l'objectif ?
 
@@ -190,8 +190,8 @@ Est-ce un profil ? ... ou un autre angle
 où on ne voit pas leur visage du tout ?
 
 41
-00:02:49,066 --> 00:02:52,864
-Quand il y a plusieurs acteurs dans un plan,
+00:02:48,956 --> 00:02:53,014
+Quand il y a plusieurs acteurs sur un plan,
 c'est important d'avoir un peu de variété.
 
 42
@@ -200,19 +200,19 @@ Les spectateurs n'ont pas besoin de regarder
 un personnage : retournez-le.
 
 43
-00:02:57,328 --> 00:02:59,808
+00:02:57,228 --> 00:02:59,948
 Remarquez comment, de cette manière,
 on crée du contraste.
 
 44
-00:03:00,109 --> 00:03:03,970
+00:03:00,029 --> 00:03:04,180
 Les 3 policiers sur la droite se regardent,
 alors que le détective Seo regarde ailleurs.
 
 45
 00:03:04,660 --> 00:03:08,667
 A vrai dire, pendant la première 1/2 heure,
-il est constamment placé à l'écart du groupe,
+il est constamment à l'écart du groupe,
 
 46
 00:03:08,750 --> 00:03:11,583
@@ -228,9 +228,9 @@ Cela nous amène au #7 :
 déplacer subtilmement la caméra.
 
 49
-00:03:19,353 --> 00:03:22,753
+00:03:19,233 --> 00:03:23,013
 Ici, regardez comment le plan restreint
-notre focalisation de ces 4 personnages ...
+notre vision de ces 4 personnages ...
 
 50
 00:03:26,386 --> 00:03:29,514
@@ -253,8 +253,8 @@ nous suivons le regard des autres.
 
 54
 00:03:49,754 --> 00:03:54,030
-Donc avec tout ça, analysons pourquoi
-Bong Joon-ho choisit une mise en scène d'ensemble.
+Donc avec tout ça, voyons pourquoi Bong Joon-ho
+choisit une mise en scène d'ensemble.
 
 55
 00:03:54,563 --> 00:03:56,817
@@ -263,31 +263,31 @@ de tout le film.
 
 56
 00:04:01,113 --> 00:04:04,532
-Au départ, on pense que ce n'est qu'une seule
-histoire, une dispute entre 2 policiers.
+Au début, ce n'est qu'une seule histoire,
+une dispute entre 2 policiers.
 
 57
-00:04:05,011 --> 00:04:08,151
-Et Bong semble assez peu présent. Il laisse
-simplement notre attention se déplacer ...
+00:04:04,811 --> 00:04:08,261
+Et Bong semble peu présent. Il laisse
+juste notre attention se déplacer ...
 
 58
-00:04:08,151 --> 00:04:11,428
+00:04:08,261 --> 00:04:11,428
 du détective Park ...
 au détective Seo.
 
 59
-00:04:15,792 --> 00:04:18,499
+00:04:15,692 --> 00:04:18,499
 Mais au milieu du cadre,,
 quelque chose attire notre oeil,
 
 60
-00:04:18,499 --> 00:04:21,563
+00:04:18,499 --> 00:04:21,143
 et on réalise qu'un autre personnage,
 le détective Cho,
 
 61
-00:04:21,563 --> 00:04:23,124
+00:04:21,143 --> 00:04:23,274
 s'amuse avec l'hôtesse
 derrière le fauteuil.
 
@@ -302,124 +302,128 @@ Et Bong les fait cohabiter,
 pour contraster le sérieux ...
 
 64
-00:04:34,984 --> 00:04:38,965
-... avec le ridicule. Au fur et à mesure,
-que la scène avance, il avance légèrement la caméra,
+00:04:34,984 --> 00:04:36,295
+... avec le ridicule.
 
 65
-00:04:39,095 --> 00:04:42,447
+00:04:36,355 --> 00:04:39,315
+Pendant que la scène avance,
+il avance légèrement la caméra,
+
+66
+00:04:39,315 --> 00:04:42,947
 ce qui cache les 2 femmes, et focalise
 notre attention sur le duo principal.
 
-66
-00:04:46,016 --> 00:04:48,800
+67
+00:04:45,556 --> 00:04:48,900
 Et il laisse les acteurs utiliser
 leurs mains pour raconter l'histoire,
 
-67
-00:04:48,819 --> 00:04:51,589
+68
+00:04:48,900 --> 00:04:51,879
 particulièrement quand la dispute
 atteint son point de rupture.
 
-68
+69
 00:04:57,200 --> 00:04:59,554
 Mais soudain, le chef
 entre dans la scène.
 
-69
-00:05:02,422 --> 00:05:05,469
+70
+00:05:02,252 --> 00:05:05,619
 Et c'est à ce moment que la
 mise en scène d'ensemble porte ses fruits.
 
-70
+71
 00:05:05,719 --> 00:05:09,582
 Voilà une 3ème histoire inattendue,
 et celle-ci interrompt les 2 autres.
 
-71
+72
 00:05:17,873 --> 00:05:18,976
 Avec un gag.
 
-72
-00:05:20,363 --> 00:05:22,979
-A partir de là, le reste de la scène
+73
+00:05:20,103 --> 00:05:23,079
+A partir d'ici, le reste de la scène
 concerne la 3ème histoire,
 
-73
-00:05:22,979 --> 00:05:26,060
+74
+00:05:23,079 --> 00:05:26,310
 alors que le chef explique son plan
 pour attraper le serial killer.
 
-74
+75
 00:05:30,741 --> 00:05:34,410
-Mais pourquoi faire ça dans 1 seul plan  ?
+Mais pourquoi faire ça dans 1 seul plan ?
 Je pense que ça souligne le thème.
 
-75
+76
 00:05:37,141 --> 00:05:41,094
 La 1ère histoire est une dispute insignifiante.
 La 2ème, c'est juste du désir.
 
-76
+77
 00:05:42,074 --> 00:05:45,166
 Aucun de ces enquêteurs ne travaille,
 ils sont tous égoïstes.
 
-77
-00:05:45,406 --> 00:05:49,548
-Ce n'est que lors du début de la 3ème histoire
-qu'ils pensent aux victimes et à leur affaire.
-
 78
+00:05:45,346 --> 00:05:49,818
+Ce n'est que lors de la 3ème histoire
+qu'ils pensent aux victimes et à l'affaire.
+
+79
 00:05:53,330 --> 00:05:56,367
 Le chef est littéralement 
 le centre moral du cadre.
 
-79
-00:05:56,601 --> 00:05:58,827
+80
+00:05:56,481 --> 00:05:58,887
 Et si Bong avait filmé la scène
 de façon standard,
 
-80
-00:05:58,847 --> 00:06:01,692
+81
+00:05:58,887 --> 00:06:01,692
 on ne verrait pas le lien
 entre la 1ère histoire ...
 
-81
-00:06:03,892 --> 00:06:06,439
+82
+00:06:03,892 --> 00:06:06,699
 ... et la 2ème.
 Ni le lien de ces 2 histoires ...
 
-82
-00:06:09,676 --> 00:06:10,674
+83
+00:06:09,576 --> 00:06:10,714
 ... à la 3ème.
 
-83
+84
 00:06:10,920 --> 00:06:14,019
-C'est le genre de réalisation qui est
+Ce genre de réalisation est
 incroyablement rare de nos jours,
 
-84
+85
 00:06:14,019 --> 00:06:16,995
-et qui montre l'intérêt de jouer
+et montre l'intérêt de jouer
 une scène comme un ensemble,
 
-85
+86
 00:06:16,995 --> 00:06:19,372
 plutôt que de couper
 d'un visage à l'autre.
 
-86
-00:06:19,642 --> 00:06:24,239
-<i>- Parfois, je veux juste rester dans cet
-endroit spécifique, avec les autres acteurs,</i>
-
 87
-00:06:24,239 --> 00:06:29,008
-<i>et les laisser gérer le truc, sans
-que tu (le réalisateur) m'aide à raconter l'histoire</i>
+00:06:19,642 --> 00:06:24,239
+<i>- Je veux juste rester dans cet endroit
+spécifique, avec les autres acteurs,</i>
 
 88
-00:06:29,008 --> 00:06:32,191
-<i>en faisant un énorme gros-plan de mon visage.
-Juste, laisse moi gérer ça.</i>
+00:06:24,239 --> 00:06:28,828
+<i>et les laisser gérer le truc, sans
+que tu m'aides à raconter l'histoire</i>
+
+89
+00:06:28,828 --> 00:06:32,421
+<i>en faisant un énorme gros-plan de
+mon visage. Juste, laisse moi gérer ça.</i>
