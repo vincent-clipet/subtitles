@@ -1,0 +1,420 @@
+1
+00:00:10,170 --> 00:00:13,000
+Bonjour, je suis Tony, et voici
+'Every Frame is a Painting'.
+
+2
+00:00:13,000 --> 00:00:16,589
+Aujourd'hui je vais changer les choses
+et parler de résolution de problèmes.
+
+3
+00:00:16,589 --> 00:00:19,170
+L'une des raisons
+pour lesquelles j'aime faire des films
+
+4
+00:00:19,170 --> 00:00:22,490
+est qu'il faut parfois trouver
+une solution à un problème particulier.
+
+5
+00:00:22,490 --> 00:00:25,360
+Par exemple, comment montrer
+un message texte dans un film ?
+
+6
+00:00:31,240 --> 00:00:34,110
+C'est une question intéressante.
+Le texte est plutôt visuel,
+
+7
+00:00:34,110 --> 00:00:36,480
+donc en théorie,
+ça ne devrait pas être difficile.
+
+8
+00:00:36,480 --> 00:00:39,840
+Et pourtant, chaque fois qu'un cinéaste
+fait un insert sur un téléphone ...
+
+9
+00:00:41,280 --> 00:00:42,850
+... on peut entendre le public bâiller.
+
+10
+00:00:42,850 --> 00:00:45,690
+Beaucoup de films s'arrangent
+pour que les personnages n'écrivent pas,
+
+11
+00:00:45,690 --> 00:00:48,070
+ou qu'ils lisent les messages
+à haute voix comme des idiots.
+
+12
+00:00:48,070 --> 00:00:51,590
+Ou pire, ils inventent une raison pour 
+que les téléphones ne marchent pas.
+
+13
+00:00:54,070 --> 00:00:57,440
+Mais ces 4-5 dernières années,
+ça a évolué. Les cinéastes ont commencé
+
+14
+00:00:57,440 --> 00:01:01,230
+à adopter une nouvelle convention :
+le message directement sur l'écran.
+
+15
+00:01:01,370 --> 00:01:03,440
+Cela a explosé en seulement
+quelques années.
+
+16
+00:01:03,520 --> 00:01:06,360
+Je l'ai d'abord remarqué
+dans la version BBC de 'Sherlock'.
+
+17
+00:01:10,000 --> 00:01:13,310
+Mais après avoir consulté Twitter,
+on a trouvé des exemples plus vieux
+
+18
+00:01:13,310 --> 00:01:15,670
+dans les feuilletons TV,
+les films pour ados,
+
+19
+00:01:15,990 --> 00:01:18,969
+et dans des films
+sud-coréens et japonais.
+
+20
+00:01:19,149 --> 00:01:22,229
+Peu importe où vous l'avez vu en 1er,
+c'est un bon exemple pour montrer
+
+21
+00:01:22,229 --> 00:01:24,382
+que la forme d'un film 
+est toujours en évolution.
+
+22
+00:01:24,382 --> 00:01:26,815
+Donc pourquoi les cinéastes
+adoptent cette méthode ?
+
+23
+00:01:28,000 --> 00:01:29,899
+Je pense qu'il y a
+3 raisons très simples.
+
+24
+00:01:29,899 --> 00:01:33,140
+1) le budget. Si l'envoi
+de messages est au cœur de l'histoire,
+
+25
+00:01:33,140 --> 00:01:37,050
+le réalisateur peut économiser du budget
+en ne filmant pas 60 plans de téléphones.
+
+26
+00:01:37,050 --> 00:01:40,200
+Tout ce dont vous avez besoin,
+c'est AfterEffects, et ce gars :
+
+27
+00:01:42,000 --> 00:01:45,360
+2) c'est artistiquement efficace.
+Un champ/contre-champ est lent,
+
+28
+00:01:45,360 --> 00:01:48,819
+car le téléphone doit rester
+assez longtemps pour qu'on puisse le lire.
+
+29
+00:01:48,819 --> 00:01:51,540
+Parfois dans d'énormes,
+et ridicules polices d'écriture.
+
+30
+00:01:51,660 --> 00:01:53,950
+Le texte sur l'écran résout
+pas mal de problèmes.
+
+31
+00:01:53,950 --> 00:01:57,140
+Il permet de combiner action
+et réaction dans le même plan.
+
+32
+00:01:57,200 --> 00:02:01,430
+Et surtout, il nous donne une vision continue
+sur l'acteur, ce qui est une bonne chose.
+
+33
+00:02:02,709 --> 00:02:06,150
+Mais, il y a un autre point à noter :
+3) un design élégant.
+
+34
+00:02:06,270 --> 00:02:10,429
+Et c'est là où 'Sherlock' est décisif.
+Le texte est beau, en lui-même.
+
+35
+00:02:10,429 --> 00:02:12,620
+Vous remarquerez :
+pas de bulle autour du texte,
+
+36
+00:02:12,620 --> 00:02:14,979
+car la bulle est la première chose 
+qui se démodera.
+
+37
+00:02:14,979 --> 00:02:17,730
+La police est restée consistante 
+dans chaque saison de la série.
+
+38
+00:02:17,730 --> 00:02:20,370
+Le texte est blanc, et non
+multicolore selon le personnage.
+
+39
+00:02:20,370 --> 00:02:23,480
+On ne dit pas qui l'envoie ou le reçoit,
+ce qui est bien, car le public
+
+40
+00:02:23,480 --> 00:02:26,570
+doit le déduire selon le message,
+ce qui augmente notre implication.
+
+41
+00:02:26,570 --> 00:02:29,910
+Les mots apparaissent près du téléphone
+mais ils flottent indépendamment.
+
+42
+00:02:29,910 --> 00:02:33,050
+Comparé à ce film où les messages
+bougent 'attachés' à l'appareil.
+
+43
+00:02:33,050 --> 00:02:34,440
+Attendez non ! A la personne.
+
+44
+00:02:34,440 --> 00:02:36,200
+Ah non, à l'appareil.
+Décidez-vous !
+
+45
+00:02:36,200 --> 00:02:38,969
+Donc qui sait ? Ça deviendra peut-être
+une nouvelle convention,
+
+46
+00:02:38,969 --> 00:02:40,829
+ou peut-être que c'est juste un tremplin.
+
+47
+00:02:40,920 --> 00:02:43,680
+Même si Sherlock semble avoir réglé
+le problème des messages,
+
+48
+00:02:43,680 --> 00:02:44,989
+nous avons un autre problème.
+
+49
+00:02:45,049 --> 00:02:47,790
+Beaucoup ont essayé, mais
+nous n'avons toujours pas
+
+50
+00:02:47,790 --> 00:02:49,930
+LA vraie bonne idée
+pour montrer Internet.
+
+51
+00:02:50,090 --> 00:02:52,740
+Certaines méthodes
+sont assez complexes ...
+
+52
+00:02:53,500 --> 00:02:55,450
+D'autres sont plutôt inefficaces...
+
+53
+00:02:56,240 --> 00:02:58,140
+Et d'autres ... Et bien ....
+
+54
+00:02:59,390 --> 00:03:03,150
+Perso, je suis un grand fan d'une nouvelle idée :
+le film 'bureau d'ordinateur',
+
+55
+00:03:03,150 --> 00:03:05,610
+où toute l'action prend place
+directement à l'écran.
+
+56
+00:03:06,670 --> 00:03:09,459
+C'est mon ressenti, mais je trouve
+ces films élégants,
+
+57
+00:03:09,459 --> 00:03:12,820
+similaires à la façon dont je reçois
+des informations quotidiennement.
+
+58
+00:03:13,070 --> 00:03:15,000
+Certains ont une résonance
+émotionnelle.
+
+59
+00:03:15,800 --> 00:03:17,320
+Certains sont mystérieux.
+
+60
+00:03:17,540 --> 00:03:19,900
+Et certains sont
+merveilleusement expérimentaux.
+
+61
+00:03:25,150 --> 00:03:28,550
+Mais si vous voulez être à la pointe,
+il y a un seul endroit où aller :
+
+62
+00:03:28,590 --> 00:03:30,590
+<i>- Un ticket pour Tokyo, s'il vous plaît.</i>
+
+63
+00:03:35,750 --> 00:03:38,640
+Là-bas, durant les 2 dernières décennies,
+l'animation a amené
+
+64
+00:03:38,640 --> 00:03:41,530
+des idées folles et atypiques
+pour montrer le monde 'online',
+
+65
+00:03:41,730 --> 00:03:43,990
+Des messages super-plats et flottants ...
+
+66
+00:03:44,380 --> 00:03:46,739
+des messages
+sous la forme d'intertitres ...
+
+67
+00:03:47,380 --> 00:03:50,440
+ou branchés dans un monde 'online'
+vert et séparé du nôtre.
+
+68
+00:03:50,770 --> 00:03:53,089
+Et il y a un tas d'autres
+fascinantes possibilités,
+
+69
+00:03:53,089 --> 00:03:55,270
+qui pourraient (ou non)
+marcher dans d'autres films,
+
+70
+00:03:55,270 --> 00:03:57,690
+mais sont très intéressantes
+à prendre en considération.
+
+71
+00:03:57,790 --> 00:04:00,599
+Même des réalisateurs asiatiques
+de films 'live' ont essayé.
+
+72
+00:04:00,599 --> 00:04:02,900
+Des pièces physiques
+où les gens discutent ...
+
+73
+00:04:03,410 --> 00:04:05,510
+Un monde animé à l'intérieur
+du téléphone ...
+
+74
+00:04:07,120 --> 00:04:10,220
+Ce sont des expérimentations,
+et certaines sont des échecs évidents.
+
+75
+00:04:10,220 --> 00:04:12,460
+Mais c'est une bonne chose,
+car les gens essayent !
+
+76
+00:04:12,460 --> 00:04:15,370
+Et pour une fois, c'est un terrain
+inexploré. Vous et moi avons
+
+77
+00:04:15,370 --> 00:04:18,739
+la même chance de trouver une solution
+que le prochain film Hollywoodien.
+
+78
+00:04:19,059 --> 00:04:21,979
+Pour un truc dans ce genre,
+le manque de budget est un avantage.
+
+79
+00:04:21,989 --> 00:04:24,640
+Souvenez-vous : pas cher,
+efficace, élégant.
+
+80
+00:04:24,839 --> 00:04:26,700
+Pour ma part, la solution
+est déjà là.
+
+81
+00:04:29,550 --> 00:04:31,530
+Et oui, Sherlock l'a
+peut-être trouvée.
+
+82
+00:04:32,500 --> 00:04:35,620
+Mais en attendant, je pense
+qu'il est bien d'apprécier un pas
+
+83
+00:04:35,620 --> 00:04:39,509
+dans la bonne direction. C'est la preuve
+que la forme d'un film n'est pas figée.
+
+84
+00:04:39,509 --> 00:04:43,169
+Les gens innovent continuellement.
+Et - pour l'instant en tout cas -
+
+85
+00:04:43,169 --> 00:04:45,729
+j'y vois un gros problème
+qu'on n'a pas encore résolu.
+
+86
+00:04:45,749 --> 00:04:49,130
+Et un grand terrain de jeu pour
+quiconque voudrait tenter sa chance.

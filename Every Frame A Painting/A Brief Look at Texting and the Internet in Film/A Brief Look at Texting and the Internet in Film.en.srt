@@ -1,0 +1,417 @@
+1
+00:00:10,300 --> 00:00:12,830
+Hi my name is Tony and
+this is Every Frame a Painting.
+
+2
+00:00:12,830 --> 00:00:16,209
+Today I’m going to switch things up
+and talk about problem-solving.
+
+3
+00:00:16,209 --> 00:00:19,270
+One of the reasons I like filmmaking is
+that sometimes you have to design
+
+4
+00:00:19,270 --> 00:00:21,630
+a solution to a particular
+stumbling block.
+
+5
+00:00:21,630 --> 00:00:24,750
+For example, how do you show
+a text message in a film?
+
+6
+00:00:31,400 --> 00:00:34,610
+It’s an interesting conundrum.
+Texting is kinda visual, so in theory,
+
+7
+00:00:34,610 --> 00:00:36,230
+this shouldn’t be hard.
+
+8
+00:00:36,230 --> 00:00:38,600
+And yet every time a filmmaker
+cuts to an insert of a phone
+
+9
+00:00:41,600 --> 00:00:45,430
+you can hear the audience yawning. Many
+films make it so characters don’t text
+
+10
+00:00:45,430 --> 00:00:47,680
+or they read the messages
+out loud like idiots.
+
+11
+00:00:47,680 --> 00:00:51,300
+Or worse, they invent some reason
+for the phones not to work.
+
+12
+00:00:51,300 --> 00:00:54,070
+<i>--97% nationwide coverage and we
+find ourselves in the three percent</i>
+
+13
+00:00:54,070 --> 00:00:57,120
+But in the last four or five years,
+something’s happened. Filmmakers have
+
+14
+00:00:57,120 --> 00:01:01,510
+started adopting a new formal convention
+the onscreen text message.
+
+15
+00:01:01,510 --> 00:01:03,580
+It has exploded in just a few years.
+
+16
+00:01:03,580 --> 00:01:05,500
+I first noticed it on the
+BBC version of Sherlock.
+
+17
+00:01:10,000 --> 00:01:13,229
+But after consulting Twitter, we found
+earlier examples in soap operas
+
+18
+00:01:13,700 --> 00:01:15,670
+teen movies
+
+19
+00:01:16,500 --> 00:01:19,479
+and in films from South Korea and Japan.
+
+20
+00:01:19,479 --> 00:01:22,479
+Regardless of where you first saw it,
+this is a great example of how
+
+21
+00:01:22,479 --> 00:01:24,140
+film form is always evolving.
+
+22
+00:01:24,140 --> 00:01:26,899
+So why are filmmakers adopting this?
+
+23
+00:01:28,000 --> 00:01:29,899
+I think there’s 3 simple reasons.
+
+24
+00:01:29,899 --> 00:01:33,750
+First off, it saves money. If you have
+a story where texting is important,
+
+25
+00:01:33,750 --> 00:01:37,050
+the director can save a ton of money
+by not shooting 60 close-ups of phones.
+
+26
+00:01:37,050 --> 00:01:39,250
+All you need is AfterEffects & this guy:
+
+27
+00:01:39,250 --> 00:01:41,440
+<i>--Andrew Kramer here
+for Video Copilot.net</i>
+
+28
+00:01:42,000 --> 00:01:45,950
+Second, it’s artistically efficient.
+Shot-reverse shot is slow
+
+29
+00:01:45,950 --> 00:01:48,819
+because the phone has to be
+onscreen long enough to read it.
+
+30
+00:01:48,819 --> 00:01:50,890
+Sometimes in huge,
+ridiculous grandma font.
+
+31
+00:01:50,890 --> 00:01:54,670
+Onscreen texting solves a lot of this.
+It allows us to combine
+
+32
+00:01:54,670 --> 00:01:57,740
+action and reaction in the same frame.
+Best of all,
+
+33
+00:01:57,740 --> 00:02:01,000
+it gives us an uninterrupted view of the
+actor’s performance which is always nice
+
+34
+00:02:02,869 --> 00:02:06,150
+But there’s a third reason this has
+been noticed: elegant design.
+
+35
+00:02:06,150 --> 00:02:10,669
+And this is where Sherlock is definitive
+This is beautiful, in and of itself.
+
+36
+00:02:10,669 --> 00:02:12,840
+You’ll notice: there’s no bubble
+around the text, because
+
+37
+00:02:12,840 --> 00:02:14,819
+the bubble is the first thing
+that becomes outdated.
+
+38
+00:02:14,819 --> 00:02:18,380
+The font has stayed consistent for each
+season of the show. The color is white
+
+39
+00:02:18,380 --> 00:02:20,370
+instead of different colors for
+different characters.
+
+40
+00:02:20,370 --> 00:02:23,480
+We arent told who’s sending or receiving
+which is great because now the audience
+
+41
+00:02:23,480 --> 00:02:26,280
+has to infer based on the message, which
+increases our involvement.
+
+42
+00:02:26,280 --> 00:02:29,360
+The words appear next to the phone
+but they float independently.
+
+43
+00:02:29,360 --> 00:02:32,420
+Compare that to this film, where the
+messages move as if they’re attached
+
+44
+00:02:32,420 --> 00:02:34,400
+to the device.
+Wait no, to the person.
+
+45
+00:02:34,400 --> 00:02:36,200
+No, to the device.
+Make up your mind.
+
+46
+00:02:36,200 --> 00:02:38,239
+So who knows? Maybe this
+will be a new convention,
+
+47
+00:02:38,239 --> 00:02:40,239
+maybe it’s just a stepping stone.
+<i>--NO.</i>
+
+48
+00:02:41,000 --> 00:02:42,850
+But while Sherlock seems to have
+solved how to do text messages,
+
+49
+00:02:42,850 --> 00:02:44,459
+we have another issue.
+
+50
+00:02:44,459 --> 00:02:47,790
+Many many people have tried,
+but we still don’t have
+
+51
+00:02:47,790 --> 00:02:50,000
+that one really good way of
+depicting the internet.
+
+52
+00:02:50,000 --> 00:02:52,410
+Some methods are not exactly cheap.
+
+53
+00:02:53,500 --> 00:02:55,010
+Others are kinda inefficient.
+
+54
+00:02:57,010 --> 00:02:58,850
+And others... well, you know.
+
+55
+00:03:00,000 --> 00:03:02,610
+I am actually a big fan of one new
+development: the desktop film
+
+56
+00:03:02,610 --> 00:03:05,610
+where all of the action takes
+place directly on the screen.
+
+57
+00:03:05,610 --> 00:03:07,000
+<i>--Let me show you.</i>
+
+58
+00:03:07,000 --> 00:03:09,709
+I can’t speak for anyone else,
+but these films are actually pretty
+
+59
+00:03:09,709 --> 00:03:12,610
+similar to how I receive information
+on a daily basis.
+
+60
+00:03:13,500 --> 00:03:15,190
+Some have emotional resonance.
+
+61
+00:03:16,000 --> 00:03:17,190
+Some are mysterious.
+
+62
+00:03:18,190 --> 00:03:20,000
+And some are wonderfully experimental.
+
+63
+00:03:25,630 --> 00:03:28,450
+But if you want to explore the cutting
+edge, there’s only one place to go
+
+64
+00:03:28,450 --> 00:03:30,450
+<i>--One ticket to Tokyo, please</i>
+
+65
+00:03:35,920 --> 00:03:39,420
+Where for the last 2 decades, animation
+has been coming up with wild and crazy
+
+66
+00:03:39,420 --> 00:03:41,090
+ways to show the world online,
+
+67
+00:03:41,090 --> 00:03:43,500
+Whether they be Superflat and floating.
+
+68
+00:03:44,500 --> 00:03:46,969
+Or message board posts as intertitles
+
+69
+00:03:47,500 --> 00:03:50,010
+Or plugging into a separate
+green online world
+
+70
+00:03:51,010 --> 00:03:53,379
+And there's a bunch of other
+fascinating possibilities that
+
+71
+00:03:53,379 --> 00:03:55,060
+may or may not work in other films
+
+72
+00:03:55,060 --> 00:03:57,500
+but are really interesting
+just to consider.
+
+73
+00:03:58,000 --> 00:04:00,189
+Even live-action films from
+Asian directors have tried this.
+
+74
+00:04:00,189 --> 00:04:02,000
+Physical rooms where people chat.
+
+75
+00:04:03,500 --> 00:04:05,420
+An animated world within the cell phone.
+
+76
+00:04:07,420 --> 00:04:10,300
+All of these are experiments
+and some are honestly failures.
+
+77
+00:04:10,300 --> 00:04:12,250
+But that’s good,
+because people are trying.
+
+78
+00:04:12,250 --> 00:04:15,150
+And for once, this is a level playing
+field. You and I have
+
+79
+00:04:15,150 --> 00:04:17,459
+as much of a chance of figuring
+out the solution as the next
+
+80
+00:04:17,459 --> 00:04:21,649
+Hollywood film. For something
+like this, lack of money is an advantage
+
+81
+00:04:21,649 --> 00:04:24,300
+Remember: cheap, efficient, elegant.
+
+82
+00:04:25,699 --> 00:04:27,300
+For all I know, the solution
+is already out there.
+
+83
+00:04:27,300 --> 00:04:28,910
+<i>--A hacker</i>
+
+84
+00:04:29,910 --> 00:04:31,500
+Hell, Sherlock may have figured it out.
+
+85
+00:04:32,500 --> 00:04:35,910
+But in the meantime I think it’s
+nice to appreciate a small formal step
+
+86
+00:04:35,910 --> 00:04:39,509
+in the right direction. This is proof 
+that film form is not set in stone.
+
+87
+00:04:39,509 --> 00:04:43,169
+People don’t stop inventing this stuff.
+And right now, at least,
+
+88
+00:04:43,169 --> 00:04:47,139
+I see a big problem we haven’t solved
+yet. And a very level playing field
+
+89
+00:04:47,139 --> 00:04:49,300
+for anyone who wants to go for it.
