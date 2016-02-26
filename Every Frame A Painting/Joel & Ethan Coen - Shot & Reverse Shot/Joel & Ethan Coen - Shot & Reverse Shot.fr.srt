@@ -278,7 +278,7 @@ et tout ce qui l'entoure.
 59
 00:04:01,240 --> 00:04:04,310
 Et cela nous aide à connaître rapidement
-des personnages mineurs?
+des personnages mineurs.
 
 60
 00:04:04,630 --> 00:04:08,980
@@ -337,9 +337,9 @@ et c'est comme ça qu'ils trouvent
 des moments non-verbaux,
 
 72
-00:05:17,620 --> 00:05:19,810
+00:05:17,620 --> 00:05:19,930
 que les autres cinéastes
-ne cherchent même pas.
+ne recherchent même pas.
 
 73
 00:05:24,380 --> 00:05:26,300
