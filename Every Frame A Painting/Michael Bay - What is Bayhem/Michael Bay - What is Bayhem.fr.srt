@@ -6,19 +6,19 @@ Every Frame a Painting.
 2
 00:00:09,250 --> 00:00:13,087
 Et je sais déjà ce que vous pensez :
-pourquoi est ce que je parle de ce gars là ?
+pourquoi est-ce que je parle de ce gars là ?
 
 3
-00:00:13,137 --> 00:00:15,077
-- "Oh mon Dieu, vous êtes Michael Bay !"
+00:00:13,137 --> 00:00:15,070
+<i>- Oh mon Dieu, vous êtes Michael Bay !</i>
 
 4
-00:00:15,150 --> 00:00:16,800
-- "Oh mon Dieu, je suis Michael Bay !"
+00:00:15,070 --> 00:00:16,800
+<i>- Oh mon Dieu, je suis Michael Bay !</i>
 
 5
 00:00:16,860 --> 00:00:20,965
-Parce que je n'aime pas ses films, et pourtant,
+Parce que je n'aime pas ses films, mais
 je pense qu'il est crucial de les étudier.
 
 6
@@ -27,27 +27,27 @@ Pourquoi ?
 
 7
 00:00:21,986 --> 00:00:26,395
-- "Paul, vous avez commencé à regarder
-WrestleMania (catch américain) à la télévision ?"
+<i>- Paul, vous avez commencé à regarder
+WrestleMania (catch américain) à la télévision ?</i>
 
 8
 00:00:26,437 --> 00:00:27,350
-- "Et bien, je ..."
+<i>- Et bien, je ...</i>
 
 9
 00:00:27,373 --> 00:00:32,131
-- "Parce qu'il ne faut pas détourner le regard :
-ce sont les images qui nous parviennent chaque jour."
+<i>- Il ne faut pas détourner le regard :
+ce sont les images qui nous parviennent.</i>
 
 10
 00:00:32,181 --> 00:00:35,413
-"C'est ce que la télévision,
-ce qu'un collectif de gens,"
+<i>C'est ce que la télévision,
+ce qu'un collectif de gens,</i>
 
 11
 00:00:35,429 --> 00:00:40,438
-"notre société, veut voir
-à la télévision."
+<i>notre société, veut voir
+à la télévision.</i>
 
 12
 00:00:40,741 --> 00:00:43,507
@@ -65,16 +65,16 @@ Du spectacle !
 
 15
 00:00:47,051 --> 00:00:51,710
-C'est ce que les gens veulent. Les romains
-le savait, Louis XIV le savait.
+<i>- C'est ce que les gens veulent.
+Les romains le savait, Louis XIV le savait.</i>
 
 16
 00:00:51,728 --> 00:00:52,777
-1, 2, 3 ...
+<i>- 1, 2, 3 ...</i>
 
 17
 00:00:52,875 --> 00:00:54,875
-- "Boum ! Bayhem !"
+<i>Boum ! Bayhem !</i>
 
 18
 00:00:55,033 --> 00:00:58,890
@@ -114,607 +114,614 @@ Pourquoi ?
 25
 00:01:21,718 --> 00:01:25,295
 C'est en fait très simple. D'abord,
-il n'y a pas d'arrière-plan, hormis le ciel.
+il n'y a rien en fond, à part le ciel.
 
 26
-00:01:25,295 --> 00:01:28,635
+00:01:25,295 --> 00:01:28,583
 Sans arrière-plan, aucune parallaxe,
-et le plan ne semble pas vraiment bouger.
+et le plan semble rester statique.
 
 27
-00:01:28,643 --> 00:01:31,400
+00:01:28,583 --> 00:01:29,883
 Vous voyez la différence ?
-En plus, l'objectif est mauvais.
 
 28
-00:01:31,600 --> 00:01:35,177
-Bay filme fréquemment ce genre de plan
-avec un objectif à longue focale,
+00:01:30,423 --> 00:01:31,960
+En plus, l'objectif est mauvais.
 
 29
-00:01:35,188 --> 00:01:38,481
-qui compresse l'espace. Ce qui fait
-défiler l'arrière-plan très vite.
+00:01:31,970 --> 00:01:35,177
+Bay filme souvent ce genre de plan
+avec un objectif à longue focale,
 
 30
+00:01:35,188 --> 00:01:38,481
+qui compresse l'espace, ce qui fait
+défiler l'arrière-plan très vite.
+
+31
 00:01:38,512 --> 00:01:40,953
 Ensuite, l'acteur observe juste au loin
 et tourne sa tête,
 
-31
+32
 00:01:40,963 --> 00:01:44,272
-mais la clé de la version de M.Bay,
+mais la clé de la version de Bay,
 c'est que les acteurs bougent verticalement.
 
-32
-00:01:44,337 --> 00:01:45,090
+33
+00:01:44,337 --> 00:01:45,040
 Comme ici.
 
-33
-00:01:45,153 --> 00:01:46,042
+34
+00:01:45,093 --> 00:01:45,802
 Et ici.
 
-34
-00:01:46,081 --> 00:01:50,740
-Et enfin, la contre-plongée est là pour donner
-de l'échelle au plan, et le ralenti parachève le tout.
-
 35
-00:01:50,774 --> 00:01:54,630
-Donc, ce qu'on a ici dans le plan Bay,
-c'est plusieurs types de mouvements simultanés :
+00:01:45,921 --> 00:01:49,154
+Et enfin, la contre-plongée est là
+pour donner de l'échelle au plan,
 
 36
-00:01:54,670 --> 00:01:57,420
+00:01:49,154 --> 00:01:50,714
+et le ralenti couronne le tout.
+
+37
+00:01:50,774 --> 00:01:54,630
+Ce qu'on a ici dans le plan Bay, c'est
+plusieurs types de mouvements simultanés :
+
+38
+00:01:54,630 --> 00:01:57,380
 le mouvement de la caméra,
 le mouvement de l'arrière-plan,
 
-37
-00:01:57,445 --> 00:01:59,783
+39
+00:01:57,380 --> 00:01:59,718
 le mouvement des acteurs,
 l'expansion du temps.
 
-38
+40
 00:01:59,812 --> 00:02:03,596
 Puis ils sont debout et regardent
-hors-champ, ce qui crée un sentiment d'immobilité.
+hors-champ, ce qui crée une sorte d'immobilité.
 
-39
+41
 00:02:03,655 --> 00:02:08,161
 Bien qu'on regarde un seul et même point fixe
 du cadre, le plan paraît grandiose.
 
-40
+42
 00:02:11,180 --> 00:02:14,923
 Disséquez n'importe quel plan de Bay,
-et voilà + ou - ce que vous trouverez :
+et voilà en gros ce que vous trouverez :
 
-41
+43
 00:02:14,958 --> 00:02:17,976
 plusieurs couches de profondeurs,
 de la parallaxe, et du mouvement,
 
-42
+44
 00:02:17,976 --> 00:02:21,187
 appliqués aux personnages et aux décors,
 pour donner cette impression 'épique'.
 
-43
+45
 00:02:21,217 --> 00:02:23,722
 Aucune de ces techniques
 n'est particulièrement unique.
 
-44
+46
 00:02:23,771 --> 00:02:27,216
 En fait, la plupart des cinéastes créent
 naturellement de la profondeur
 
-45
-00:02:27,327 --> 00:02:29,317
+47
+00:02:27,227 --> 00:02:29,247
 dans leurs images,
 dès que la caméra bouge.
 
-46
+48
 00:02:29,332 --> 00:02:31,425
 Et le plan 'héroïque' est partout.
 
-47
+49
 00:02:33,338 --> 00:02:37,217
 Ce qui rend Bay unique, c'est le nombre
 de couches et la complexité du mouvement.
 
-48
+50
 00:02:37,247 --> 00:02:39,664
 Ça ne rend pas ses plans
 meilleurs, ça les rend juste
 
-49
+51
 00:02:39,664 --> 00:02:41,686
 plus compliqués que ceux
 de la concurrence.
 
-50
+52
 00:02:41,704 --> 00:02:44,580
 C'est pour ça que ses cadres
 ont toujours l'air remplis.
 
-51
+53
 00:02:44,604 --> 00:02:47,471
 Beaucoup de poussière, de fumée,
 et d'explosions entre les couches.
 
-52
+54
 00:02:48,135 --> 00:02:50,360
 Et aussi, des lampadaires.
 
-53
+55
 00:02:52,003 --> 00:02:53,638
 Beaucoup de lampadaires.
 
-54
+56
 00:02:54,740 --> 00:02:58,140
 Si on regarde dans 'Bad Boys', on peut
 observer cela dès l'introduction.
 
-55
+57
 00:02:58,173 --> 00:03:00,889
 Ici, la voiture se déplace dans un sens,
 l'avion dans un autre,
 
-56
+58
 00:03:00,896 --> 00:03:04,208
 les lampadaires servent d'échelle
 et la caméra utilise une longue focale.
 
-57
+59
 00:03:04,250 --> 00:03:07,461
 Plus tard dans le film, on revoit
 la même technique de composition.
 
-58
-00:03:07,596 --> 00:03:09,999
-Et puis l'explosion apparait ...
-
-59
-00:03:10,033 --> 00:03:13,492
-Dès qu'on a compris ça, il est beaucoup
-+ facile de déconstruire ses plans
-
 60
+00:03:07,596 --> 00:03:09,999
+Et quand l'explosion apparaît :
+
+61
+00:03:10,033 --> 00:03:13,492
+Quand on a compris ça, il est bien
+plus facile de déconstruire ses plans
+
+62
 00:03:13,522 --> 00:03:14,850
 et d'en voir les limites.
 
-61
+63
 00:03:14,867 --> 00:03:18,134
 Par exemple, Bay ne distingue pas
 où filmer - ou non - de cette façon.
 
-62
+64
 00:03:18,150 --> 00:03:20,251
 Il utilisera le même
 mouvement de caméra
 
-63
+65
 00:03:20,268 --> 00:03:22,870
 quand le personnage raconte
 quelque chose d'important ...
 
-64
+66
 00:03:22,896 --> 00:03:25,286
-- "Vous avez de l'argent ici, aux Etats-Unis ?"
+<i>- Vous avez de l'argent ici, aux Etats-Unis ?</i>
 
-65
+67
 00:03:25,336 --> 00:03:26,773
 ... ou n'importe quoi d'autre.
 
-66
-00:03:26,789 --> 00:03:30,045
-- "Qu'est-ce que je vous avais dit ?!
-Vous aviez entendu ce que j'avais dit ?"
-
-67
-00:03:30,045 --> 00:03:33,297
-- "Moi j'ai entendu ce que j'ai dit,
-parce que j'étais là quand je l'ai dit !"
-
 68
-00:03:33,420 --> 00:03:37,912
+00:03:26,789 --> 00:03:30,045
+- <i>Qu'est-ce que je vous avais dit ?!
+Vous aviez entendu ce que j'avais dit ?</i>
+
+69
+00:03:30,045 --> 00:03:33,297
+<i>Moi j'ai entendu ce que j'ai dit,
+parce que j'étais là quand je l'ai dit !</i>
+
+70
+00:03:33,370 --> 00:03:37,862
 Chaque plan est conçu pour un maximum
 d'impact visuel, et peu importe si ça colle.
 
-69
-00:03:40,492 --> 00:03:43,390
+71
+00:03:40,402 --> 00:03:43,400
 Mais le style Bay amène aussi
 des idées visuells fascinantes.
 
-70
-00:03:43,426 --> 00:03:46,082
+72
+00:03:43,400 --> 00:03:46,082
 Comment faire paraître quelque chose
 comme étant énorme ?
 
-71
+73
 00:03:46,082 --> 00:03:49,411
 Et bien, vous mettez plein de choses
 de tailles différentes dans le même plan,
 
-72
+74
 00:03:49,426 --> 00:03:51,607
 et vous déplacez la caméra
 pour mettre le tout en valeur.
 
-73
+75
 00:03:51,607 --> 00:03:54,656
 C'est une technique que 'Jurassic Park'
 employait très bien aussi.
 
-74
+76
 00:03:58,290 --> 00:04:00,931
 Une autre chose très importante
 est l'espace hors-champ.
 
-75
-00:04:00,969 --> 00:04:04,207
+77
+00:04:00,969 --> 00:04:04,192
 Remarquez ici, l'acteur ne regarde pas
 les avions de l'arrière-plan.
 
-76
-00:04:04,232 --> 00:04:07,222
-Cela montre qu'il y en a encore plus
-qu'on ne peut pas voir dans le cadre.
-
-77
-00:04:07,222 --> 00:04:10,799
-Le plan semble déjà grandiose, mais
-il suggère une échelle encore + grande.
-
 78
-00:04:10,838 --> 00:04:13,612
-Comment un réalisateur en arrive-t-il
-à créer de telles images ?
+00:04:04,192 --> 00:04:07,222
+Ça montre qu'il y en a encore plus
+qu'on ne voit pas dans le cadre.
 
 79
+00:04:07,222 --> 00:04:10,799
+Le plan est déjà grandiose, mais
+il suggère une échelle encore plus grande.
+
+80
+00:04:10,838 --> 00:04:13,612
+Comment un réalisateur en vient
+à créer ce genre d'images ?
+
+81
 00:04:13,638 --> 00:04:16,684
 Dans le case de Michael Bay, étudions
 l'un de ses films préférés.
 
-80
+82
 00:04:22,908 --> 00:04:25,942
 Il y a une interview du
 NY Times où il regarde 'West Side Story'
 
-81
+83
 00:04:25,961 --> 00:04:28,798
 et raconte pourquoi
 ce plan est génial
 
-82
-00:04:28,819 --> 00:04:30,411
+84
+00:04:28,819 --> 00:04:30,251
 et ce cut également.
 
-83
-00:04:30,470 --> 00:04:33,840
-Il ne peut expliquer pourquoi ils sont géniaux
+85
+00:04:30,440 --> 00:04:33,840
+Il ne peut expliquer en quoi ils sont géniaux
 hormis qu'ils sont "dynamiques".
 
-84
+86
 00:04:33,840 --> 00:04:36,827
-Mais je pense que c'est juste ça :
-si on met des plans de West Side Story
+Je pense que c'est juste ça :
+en mettant des plans de 'West Side Story'
 
-85
+87
 00:04:36,869 --> 00:04:39,832
 côte-à-côte avec son travail,
 on peut voir les points communs.
 
-86
-00:04:40,013 --> 00:04:43,112
-Je pense que le but de Bay est de créer
+88
+00:04:40,013 --> 00:04:43,026
+Je pense que son but est de créer
 ce qu'il pense être des bons plans
 
-87
-00:04:43,136 --> 00:04:45,445
-et les relier entre eux via
-ce qu'il pense être des bons cuts.
-
-88
-00:04:45,468 --> 00:04:48,628
-Si Howard Hawks a défini un bon film comme
-3 bonnes scènes et aucune mauvaise,
-
 89
-00:04:48,629 --> 00:04:50,556
+00:04:43,026 --> 00:04:45,445
+et les relier via ce qu'il pense
+être des bons cuts.
+
+90
+00:04:45,468 --> 00:04:48,838
+Si Howard Hawks a défini un bon film comme
+3 bonnes scènes et 0 mauvaise,
+
+91
+00:04:48,838 --> 00:04:50,756
 Michael Bay semble penser
 qu'un bon film,
 
-90
-00:04:50,586 --> 00:04:53,372
+92
+00:04:50,756 --> 00:04:53,322
 c'est 3000 plans dynamiques
 et aucun plan statique.
 
-91
+93
 00:04:56,739 --> 00:05:01,054
 En dehors de West Side Story, sa plus grosse
-influence est en fait les autres blockbusters.
+influence est les autres blockbusters.
 
-92
+94
 00:05:01,054 --> 00:05:04,584
 Il emprunte fréquemment le même vocabulaire
 basique, et d'autres séquences.
 
-93
-00:05:04,607 --> 00:05:06,815
+95
+00:05:04,607 --> 00:05:06,235
 Donc quelques chose comme ça ...
 
-94
+96
 00:05:08,137 --> 00:05:10,338
 ... deviens ceci.
 
-95
+97
 00:05:11,090 --> 00:05:14,515
-Vous remarquerez que les plans rapprochés
+On remarque que les plans rapprochés
 du personnage le sont encore plus.
 
-96
+98
 00:05:14,521 --> 00:05:17,337
 Et les plans larges, eux-aussi,
 deviennent encore plus larges.
 
-97
-00:05:17,360 --> 00:05:22,068
-A tout ça s'ajoute + de couches de mouvements,
+99
+00:05:17,360 --> 00:05:21,758
+A tout ça s'ajoute plus de couches de mouvements,
 mais le vocabulaire de base reste le même.
 
-98
+100
 00:05:27,036 --> 00:05:29,346
 Et il n'emprunte pas
 seulement aux autres.
 
-99
+101
 00:05:29,360 --> 00:05:31,829
 Bay cannibalise son travail
 tout autant.
 
-100
+102
 00:05:31,853 --> 00:05:33,870
 Et ceci ...
 
-101
+103
 00:05:34,233 --> 00:05:36,657
 ... devient cela.
 
-102
-00:05:40,024 --> 00:05:42,608
-Vous remarquerez chaque mouvement
+104
+00:05:40,024 --> 00:05:42,638
+On remarquer que chaque mouvement
 dans le plan original,
 
-103
-00:05:42,618 --> 00:05:45,256
-par exemple, la caméra tourne dans le sens
-inverse des aiguilles,
-
-104
-00:05:45,264 --> 00:05:47,523
-alors que la bombe tourne dans le sens
-des aiguilles ;
-
 105
-00:05:47,553 --> 00:05:50,323
-la version 'Transformers', c'est juste
-le niveau au dessus.
+00:05:42,638 --> 00:05:44,896
+par exemple, la caméra qui tourne
+sur la gauche,
 
 106
-00:05:51,795 --> 00:05:53,617
-Donc qu'est ce que le 'Bayhem' ?
+00:05:44,896 --> 00:05:46,855
+alors que la bombe tourne
+vers la droite ;
 
 107
-00:05:53,629 --> 00:05:56,280
-C'est l'usage du mouvement,
-de la composition et du montage cut
+00:05:46,883 --> 00:05:49,703
+la version 'Transformers', c'est juste
+le niveau au-dessus.
 
 108
-00:05:56,280 --> 00:05:58,257
+00:05:51,795 --> 00:05:53,439
+Donc qu'est ce que le 'Bayhem' ?
+
+109
+00:05:53,439 --> 00:05:56,310
+C'est l'usage du mouvement,
+de la composition et du montage rapide
+
+110
+00:05:56,310 --> 00:05:58,257
 pour créer une sensation
 d'échelle épique.
 
-109
-00:05:58,258 --> 00:06:02,504
-Chaque plan semble grandiose, tout en impliquant
+111
+00:05:58,258 --> 00:06:02,364
+Chaque plan semble grandiose, et implique
 des choses encore plus grandioses hors-champ.
 
-110
-00:06:02,504 --> 00:06:06,094
-Chaque plan accumule de multiples couches de mouvement,
-soit en très longue focale, soit en très courte.
-
-111
-00:06:06,094 --> 00:06:10,098
-Chaque plan montre beaucoup de choses pendant un très court instant,
-et puis repart avec ce sentiment de grandeur.
-
 112
-00:06:10,099 --> 00:06:13,471
+00:06:02,364 --> 00:06:06,034
+Il accumule des couches de mouvement,
+en focale très longue, ou très courte.
+
+113
+00:06:06,034 --> 00:06:09,579
+Il montre un tas de choses durant
+un très court instant, et puis repart ..
+
+114
+00:06:09,639 --> 00:06:13,481
 On ressent le mouvement général, mais impossible
 de saisir quoi que ce soit de concret.
 
-113
-00:06:13,471 --> 00:06:16,920
+115
+00:06:13,481 --> 00:06:17,000
 Et pourtant, il faut un paquet de gens
 et d'unification pour construire ça.
 
-114
+116
 00:06:17,069 --> 00:06:20,880
-Mais c'est seulement une variation
+Mais c'est juste une variation
 du vocabulaire général des scènes d'action.
 
-115
-00:06:21,017 --> 00:06:25,395
-Les plans individuels sont juste + sales,
-+ tremblants, + complexes, et avec + de couches.
+117
+00:06:21,017 --> 00:06:25,185
+Les plans sont juste + sales, + tremblants,
++ complexes, et avec + de couches.
 
-116
-00:06:25,405 --> 00:06:28,619
+118
+00:06:25,315 --> 00:06:28,599
 Puis on cut ça trop vite pour que
 le cerveau puisse enregistrer les images,
 
-117
-00:06:28,649 --> 00:06:30,929
+119
+00:06:28,599 --> 00:06:30,989
 mais pas trop vite, pour que
 les yeux puissent suivre.
 
-118
-00:06:30,954 --> 00:06:34,480
-Rien de révolutionnaire, c'est juste
-des techniques du passé en + 'sale'.
-
-119
-00:06:36,725 --> 00:06:39,687
-Si vous voulez voir une version
-+ extrême d'idées similaires,
-
 120
-00:06:39,703 --> 00:06:41,912
-vous pouvez regarder les
-derniers films de Tony Scott.
+00:06:30,989 --> 00:06:34,520
+Rien de révolutionnaire, c'est juste
+des techniques du passé en plus 'sale'.
 
 121
-00:06:41,912 --> 00:06:45,482
-Et si vous voulez voir une version moins
-désordonnée, tournez-vous vers l'animation.
+00:06:36,785 --> 00:06:39,787
+Si vous voulez voir une version
+plus extrême d'idées similaires,
 
 122
-00:06:45,494 --> 00:06:47,450
-Quelqu'un comme Glen Keane.
+00:06:39,787 --> 00:06:41,766
+regardez les derniers films
+de Tony Scott.
 
 123
-00:06:47,461 --> 00:06:50,994
-C'est beaucoup + lisible ce que Bay fait,
-mais l'idée de base est la même :
+00:06:42,076 --> 00:06:45,412
+Et pour une version moins désordonnée,
+tournez-vous vers l'animation.
 
 124
-00:06:50,995 --> 00:06:54,370
-personnages, environnements,
-plusieurs couches, un balayage de la caméra.
+00:06:45,412 --> 00:06:47,068
+Quelqu'un comme Glen Keane.
 
 125
-00:06:54,401 --> 00:06:56,401
-Le monde semble gigantesque.
+00:06:47,181 --> 00:06:50,684
+C'est bien plus lisible ce que Bay fait,
+mais l'idée de base est la même :
 
 126
-00:06:58,773 --> 00:07:02,869
+00:06:50,775 --> 00:06:53,730
+personnages, environnements,
+plusieurs couches, un travelling.
+
+127
+00:06:53,791 --> 00:06:55,491
+Le monde semble gigantesque.
+
+128
+00:06:58,773 --> 00:07:02,829
 L'une des mes adaptations préférée du style
 de Michael Bay est sa version 'réduite'.
 
-127
-00:07:02,875 --> 00:07:07,051
-Ironiquement, le Bayhem - qui semble venir
-d'un gosse qui fait exploser son train miniature -
-
-128
-00:07:07,067 --> 00:07:09,923
-est en fait plutôt sympa à regarder
-quand il est 'diminiué'.
-
 129
+00:07:02,875 --> 00:07:06,871
+Ironiquement, le Bayhem - qui semble venir
+d'un gosse explosant son train miniature -
+
+130
+00:07:06,871 --> 00:07:09,487
+est plutôt sympa à regarder
+quand il est 'miniaturisé'.
+
+131
 00:07:09,923 --> 00:07:13,523
 Au lieu de faire exploser le monde,
 pourquoi pas une petite ville anglaise ?
 
-130
+132
 00:07:21,310 --> 00:07:24,813
 Mais au final, je pense que la popularité
 de ce style est très importante.
 
-131
-00:07:24,819 --> 00:07:27,273
+133
+00:07:24,819 --> 00:07:27,113
 Qu'on l'aime ou non,
 l'aspect intéressant ici
 
-132
-00:07:27,274 --> 00:07:29,497
+134
+00:07:27,113 --> 00:07:29,406
 est que nous sommes
 visuellement sophistiqués,
 
-133
-00:07:29,497 --> 00:07:31,403
+135
+00:07:29,406 --> 00:07:31,312
 mais totalement visuellement illettrés.
 
-134
-00:07:31,403 --> 00:07:35,209
-Nous pouvons traiter les infos visuelles
-à une vitesse qui n'était pas courante autrefois,
+136
+00:07:31,403 --> 00:07:34,909
+On peut traiter les infos visuelles
+à une vitesse peu courante autrefois,
 
-135
-00:07:35,209 --> 00:07:37,764
+137
+00:07:34,909 --> 00:07:37,474
 mais réfléchir à ce qu'une
 image signifie vraiment ...
 
-136
-00:07:39,084 --> 00:07:40,314
+138
+00:07:39,084 --> 00:07:40,114
 ... pas vraiment.
 
-137
-00:07:40,384 --> 00:07:41,942
+139
+00:07:40,134 --> 00:07:41,592
 Et comme disait Werner Herzog :
 
-138
-00:07:41,958 --> 00:07:45,577
-- "Vous ne détournerez plus les yeux.
-C'est qui risque de nous arriver."
+140
+00:07:41,598 --> 00:07:45,217
+<i>- Vous ne détournerez plus les yeux.
+C'est ce qui risque de nous arriver.</i>
 
-139
+141
 00:07:45,600 --> 00:07:48,854
 Cela peut sembler un peu étrange,
 mais celui qui y perd le plus ici,
 
-140
-00:07:48,855 --> 00:07:52,450
+142
+00:07:48,855 --> 00:07:52,280
 c'est en fait Michael Bay.
 Il est l'esclave de son propre regard.
 
-141
-00:07:52,459 --> 00:07:55,204
+143
+00:07:52,459 --> 00:07:54,884
 Il a le besoin de rendre
 chaque image dynamique,
 
-142
-00:07:55,230 --> 00:07:57,998
+144
+00:07:54,884 --> 00:07:57,372
 même si cela va à l'encontre
 du thème de son film.
 
-143
-00:07:58,023 --> 00:08:03,958
-- "Certaines personnes ne reconnaissent pas une bonne chose,
-même quand elle se présente juste devant elles."
-
-144
-00:08:05,091 --> 00:08:08,114
-- "Ce sont vraiment les choses simples
-dans la vie qu..."
-
 145
-00:08:08,115 --> 00:08:10,216
-Oui, les chose simples.
-Une grand maison,
+00:07:58,023 --> 00:08:02,598
+<i>- Certains ne reconnaissent pas une bonne chose,
+même quand elle se présente juste devant eux.</i>
 
 146
+00:08:05,461 --> 00:08:08,104
+<i>- Ce sont vraiment les choses simples
+dans la vie qu...</i>
+
+147
+00:08:08,225 --> 00:08:10,216
+Oui, les chose simples.
+Une grande maison,
+
+148
 00:08:10,225 --> 00:08:12,526
 un quai, une vue sur la mer,
 et un bateau.
 
-147
-00:08:12,541 --> 00:08:16,853
-Que se passe-t-il quand 2 cinéastes
-touchent exactement à la même situation ?
-
-148
-00:08:17,108 --> 00:08:20,514
-- "Merde, Norm, tu sais,
-on s'en sort plutôt bien."
-
 149
-00:08:23,072 --> 00:08:25,576
-- "Je t'aime, Margie."
+00:08:12,541 --> 00:08:16,223
+Que se passe-t-il quand 2 cinéastes
+abordent exactement la même situation ?
 
 150
-00:08:25,600 --> 00:08:27,956
-- "Je t'aime, Norm."
+00:08:17,108 --> 00:08:19,604
+- <i>Merde, Norm, tu sais,
+on s'en sort plutôt bien.</i>
+
+151
+00:08:23,072 --> 00:08:24,606
+<i>- Je t'aime, Margie.</i>
+
+152
+00:08:25,600 --> 00:08:27,456
+<i>- Je t'aime, Norm.</i>
