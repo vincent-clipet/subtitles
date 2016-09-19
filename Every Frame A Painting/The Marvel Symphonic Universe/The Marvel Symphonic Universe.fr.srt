@@ -1,0 +1,639 @@
+1
+00:00:01,653 --> 00:00:03,723
+Quelque part, à Vancouver
+
+2
+00:00:04,547 --> 00:00:06,107
+J'ai une question pour vous :
+
+3
+00:00:06,319 --> 00:00:09,939
+de tête, pouvez-vous chanter
+un thème de Star Wars ?
+
+4
+00:00:28,669 --> 00:00:30,479
+Et de James Bond ?
+
+5
+00:00:41,079 --> 00:00:42,229
+Harry Potter ?
+
+6
+00:00:56,735 --> 00:01:01,045
+Dernière question : pouvez-vous chanter
+n'importe quel thème d'un film Marvel ?
+
+7
+00:01:04,506 --> 00:01:07,506
+<i>- Je suis l'un des plus grands
+fans de Marvel que je connaisse,</i>
+
+8
+00:01:07,764 --> 00:01:11,104
+<i>mais aucune musique ne me vient en tête.
+Hmm ...</i>
+
+9
+00:01:16,173 --> 00:01:18,353
+<i>- No
+- No ...</i>
+
+10
+00:01:19,089 --> 00:01:21,549
+<i>- Je devrais savoir ça ...
+Mais non ...</i>
+
+11
+00:01:22,282 --> 00:01:25,242
+<i>- Merde ...
+Hum ....</i>
+
+12
+00:01:27,558 --> 00:01:30,868
+<i>- Je ne savais même pas que ces films
+avaient des thèmes principaux ...</i>
+
+13
+00:01:31,200 --> 00:01:32,310
+Pourquoi ?
+
+14
+00:01:33,310 --> 00:01:35,340
+L'univers Marvel
+est maintenant la franchise
+
+15
+00:01:35,340 --> 00:01:37,970
+ayant généré le plus de revenus
+dans l'histoire du cinéma.
+
+16
+00:01:38,086 --> 00:01:42,006
+Plus que Star Wars. Plus que James Bond.
+Plus qu'Harry Potter.
+
+17
+00:01:42,962 --> 00:01:45,662
+Donc quel est l'élément manquant
+dans leur musique ?
+
+18
+00:01:56,624 --> 00:02:00,764
+Le premier problème est que leurs musiques
+ne provoquent aucune réponse émotionnelle.
+
+19
+00:02:01,024 --> 00:02:03,404
+Regardez cette scène d'<i>Iron Man</i> :
+
+20
+00:02:04,643 --> 00:02:07,983
+<i>- Onzième jour, test n°37,
+configuration 2.0 </i>
+
+21
+00:02:08,140 --> 00:02:11,060
+<i>Pour l'instant, faute de mieux,
+le débile gère la sécurité incendie.</i>
+
+22
+00:02:11,062 --> 00:02:14,902
+<i>Si tu m'arroses encore et que j'ai pas pris feu,
+je te refourgue à la fac du coin.</i>
+
+23
+00:02:15,226 --> 00:02:16,616
+<i>On y va en douceur ...</i>
+
+24
+00:02:17,186 --> 00:02:18,586
+On l'entend difficilement.
+
+25
+00:02:18,708 --> 00:02:23,178
+On réessaye, mais cette fois
+uniquement avec la musique isolée :
+
+26
+00:02:37,514 --> 00:02:40,164
+Avez-vous eu une réaction émotionnelle
+à cette musique ?
+
+27
+00:02:40,867 --> 00:02:44,007
+Donc qu'est-ce qui arrive à cette scène
+si on l'enlève complètement ?
+
+28
+00:02:44,601 --> 00:02:47,821
+<i>- Onzième jour, test n°37,
+configuration 2.0 </i>
+
+29
+00:02:47,941 --> 00:02:50,961
+<i>Pour l'instant, faute de mieux,
+le débile gère la sécurité incendie.</i>
+
+30
+00:02:50,961 --> 00:02:54,861
+<i>Si tu m'arroses encore et que j'ai pas pris feu,
+je te refourgue à la fac du coin.</i>
+
+31
+00:02:55,142 --> 00:02:56,472
+<i>On y va en douceur ...</i>
+
+32
+00:02:57,198 --> 00:03:00,228
+La scène fonctionne plutôt bien,
+et n'a pas besoin d'autres sons.
+
+33
+00:03:00,228 --> 00:03:02,618
+Et c'est en partie pour ça
+qu'on oublie la musique.
+
+34
+00:03:02,658 --> 00:03:06,608
+C'est comme le son d'un climatiseur :
+après un moment, il s'efface.
+
+35
+00:03:07,431 --> 00:03:10,601
+Un autre soucis est que la musique
+est trop prévisible.
+
+36
+00:03:10,671 --> 00:03:12,621
+Ce qu'on voit est ce qu'on entend.
+
+37
+00:03:12,775 --> 00:03:15,415
+Si ce qu'on voit est drôle,
+la musique est drôle :
+
+38
+00:03:29,461 --> 00:03:33,731
+Si ce qu'on voit est triste,
+on a une note haute jouée sur des cordes :
+
+39
+00:03:45,024 --> 00:03:47,734
+C'est une façon peu risquée
+de mettre un film en musique,
+
+40
+00:03:47,734 --> 00:03:49,674
+car toutes les émotions sont prévisibles.
+
+41
+00:03:49,737 --> 00:03:52,007
+La musique raconte la même chose
+que les images.
+
+42
+00:03:52,059 --> 00:03:54,139
+Si quelqu'un a peur,
+on entend :
+
+43
+00:04:01,082 --> 00:04:03,772
+C'est la seconde raison
+qui rend la musique oubliable.
+
+44
+00:04:03,873 --> 00:04:06,043
+Elle ne défie jamais nos attentes ...
+
+45
+00:04:07,086 --> 00:04:10,136
+Mais parfois, les films Marvel
+ont de la musique mémorable,
+
+46
+00:04:10,561 --> 00:04:13,121
+mais les réalisateurs
+ne nous laissent pas l'écouter.
+
+47
+00:04:13,341 --> 00:04:16,831
+A la place, ils la recouvrent
+avec d'autres sons, comme ici :
+
+48
+00:04:21,106 --> 00:04:24,386
+<i>- Après avoir été réformé à cause
+de son mauvais état de santé,</i>
+
+49
+00:04:24,386 --> 00:04:29,286
+<i>Steven Rogers fut choisi pour un programme
+unique dans l'histoire militaire des U.S.A.</i>
+
+50
+00:04:30,628 --> 00:04:35,648
+<i>Un programme qui fit de lui
+le premier super-soldat de l'humanité.</i>
+
+51
+00:04:37,348 --> 00:04:40,108
+Le narrateur nous raconte des choses
+qu'on sait déjà,
+
+52
+00:04:40,468 --> 00:04:42,928
+et il nous détourne
+de l'émotion de la scène.
+
+53
+00:04:43,351 --> 00:04:46,621
+A quoi ressemble cette scène
+sans cette distraction ?
+
+54
+00:05:14,486 --> 00:05:16,076
+Avez-vous senti la différence ?
+
+55
+00:05:17,562 --> 00:05:21,162
+La musique est incroyablement subjective,
+et subit des effets de mode.
+
+56
+00:05:21,221 --> 00:05:24,421
+Et durant les 20 dernières années,
+il y a eu un changement culturel.
+
+57
+00:05:24,530 --> 00:05:28,780
+De nos jours, beaucoup de cinéastes pensent
+que la musique ne devrait pas être remarquée.
+
+58
+00:05:29,143 --> 00:05:31,953
+<i>- C'est une chose contemporaine,
+que j'entends fréquemment :</i>
+
+59
+00:05:31,953 --> 00:05:36,713
+<i>elle n'est pas censée être remarquée.
+Mais pourquoi ?</i>
+
+60
+00:05:37,232 --> 00:05:40,852
+<i>J'ai grandi avec les films d'Hitchcock
+et les musiques de Bernard Herrmann,</i>
+
+61
+00:05:40,852 --> 00:05:42,382
+<i>et je remarquais chaque note.</i>
+
+62
+00:05:42,603 --> 00:05:48,653
+<i>Je trouve ça un peu déroutant que ça devienne
+la norme pour la musique de film.</i>
+
+63
+00:05:49,101 --> 00:05:53,101
+Mais il reste une chose dont on n'a pas
+encore parlé, mais qui est très importante.
+
+64
+00:05:53,256 --> 00:05:57,346
+De nos jours, la composition de musique
+de blockbuster suit un certain processus.
+
+65
+00:05:57,488 --> 00:06:01,488
+Et ce processus commence
+par un élément controversé :
+
+66
+00:06:02,150 --> 00:06:07,170
+<i>- Danny, plus tôt vous avez grogné
+quand quelqu'un a parlé de musique temporaire.</i>
+
+67
+00:06:07,419 --> 00:06:10,249
+<i>- Pour moi; la musique temporaire est ...</i>
+
+68
+00:06:10,807 --> 00:06:12,747
+<i>... le fléau de mon existence.</i>
+
+69
+00:06:12,947 --> 00:06:16,947
+<i>C'est à moi de faire oublier au réalisateur
+ce qu'il a entendu sur la piste temporaire.</i>
+
+70
+00:06:16,947 --> 00:06:20,247
+<i>Je ne l'écoute qu'une fois,
+jamais deux ni plus.</i>
+
+71
+00:06:20,654 --> 00:06:24,174
+<i>Si il est accro à cette piste,
+ça va rendre mon travail plus difficile ...</i>
+
+72
+00:06:24,455 --> 00:06:25,825
+Revenons un peu en arrière :
+
+73
+00:06:25,843 --> 00:06:29,643
+la musique temporaire, c'est quand
+vous prenez de la musique d'un autre film,
+
+74
+00:06:29,643 --> 00:06:32,333
+temporairement, pour avancer
+sur le montage du film.
+
+75
+00:06:32,403 --> 00:06:33,193
+Comme ça :
+
+76
+00:06:56,030 --> 00:07:00,450
+La musique temporaire est toujours vouée
+à être remplacée par les morceaux du compositeur.
+
+77
+00:07:00,708 --> 00:07:05,828
+Mais parfois, le réalisateur/producteur demande
+au compositeur "d'imiter" la piste temporaire :
+
+78
+00:07:19,114 --> 00:07:22,804
+<i>Warner Bros reconnait et regrette
+qu'une partie des musiques de '300' étaient,</i>
+
+79
+00:07:22,804 --> 00:07:26,214
+<i>sans notre connaissance ou participation,
+dérivée de la musique composée</i>
+
+80
+00:07:26,214 --> 00:07:28,894
+<i>par Elliot Goldenthal,
+pour le film 'Titus'.</i>
+
+81
+00:07:29,032 --> 00:07:30,942
+<i>Warner Bros a un grand respect
+pour Elliot,</i>
+
+82
+00:07:30,942 --> 00:07:33,882
+<i>et nous sommes fiers d'annoncer
+la résolution amiable de ce conflit.</i>
+
+83
+00:07:33,882 --> 00:07:35,212
+<i>- Déclaration officielle,
+03/08/2007</i>
+
+84
+00:07:35,284 --> 00:07:38,834
+A ma connaissance, c'est la seule fois
+où un studio s'est excusé publiquement
+
+85
+00:07:38,839 --> 00:07:40,999
+d'avoir imité une musique temporaire.
+
+86
+00:07:41,271 --> 00:07:44,321
+Mais l'effet bien plus pervers est que
+la plupart des blockbusters
+
+87
+00:07:44,321 --> 00:07:47,401
+utilisent d'autres blockbusters
+comme source de musique temporaire.
+
+88
+00:07:47,401 --> 00:07:51,511
+Donc ils sonnent tous un peu pareil, mais
+en restant dans les limites de la légalité.
+
+89
+00:08:34,005 --> 00:08:36,635
+Et avec le gain en popularité
+de la franchise Marvel,
+
+90
+00:08:36,635 --> 00:08:40,725
+d'autres films semblent avoir utilisé
+des musiques Marvel comme pistes temporaires :
+
+91
+00:09:08,382 --> 00:09:11,412
+Nous voulons souligner :
+on ne blâme pas les compositeurs.
+
+92
+00:09:11,725 --> 00:09:15,345
+On n'en arrive pas à un tel point
+sans que tout le système ne soit en cause.
+
+93
+00:09:43,221 --> 00:09:45,761
+Avant que la musique temporaire
+ne devienne populaire,
+
+94
+00:09:45,761 --> 00:09:49,821
+les réalisateurs citaient d'autres musiques,
+pour exprimer leur vision au compositeur.
+
+95
+00:09:49,877 --> 00:09:52,897
+Mais ce qui a tout changé,
+c'est le montage non-linéaire moderne,
+
+96
+00:09:52,897 --> 00:09:56,267
+qui permet au réalisateur de mettre
+leur musique préférée dans le film,
+
+97
+00:09:56,267 --> 00:09:58,817
+et demander ensuite au monteur
+de s'adapter à celle-ci.
+
+98
+00:10:01,992 --> 00:10:06,042
+Maintenant, le réalisateur montre la musique
+temporaire et dit : "Fais la même chose."
+
+99
+00:10:06,042 --> 00:10:10,212
+Et pas parce que ce morceau est le bon choix,
+mais juste parce qu'ils l'ont déjà entendu.
+
+100
+00:10:10,271 --> 00:10:12,771
+<i>- Encore, encore, 
+pendant des heures et des heures ...</i>
+
+101
+00:10:12,771 --> 00:10:16,131
+<i>Ils montent une nouvelle version,
+et ne veulent pas revenir en arrière.</i>
+
+102
+00:10:16,131 --> 00:10:18,691
+<i>Le lendemain, une autre version,
+mais la même musique.</i>
+
+103
+00:10:18,691 --> 00:10:21,051
+<i>Et a un moment, la musique
+est "collée" aux images.</i>
+
+104
+00:10:21,051 --> 00:10:23,851
+<i>- Ils ont passé un an avec cette musique
+avant qu'on arrive.</i>
+
+105
+00:10:23,981 --> 00:10:28,161
+<i>- D'ailleurs, bien souvent, quand on retire
+cette musique temporaire,</i>
+
+106
+00:10:28,291 --> 00:10:30,471
+<i>le montage est mauvais.</i>
+
+107
+00:10:30,641 --> 00:10:34,541
+<i>Car ils montent en utilisant
+le mauvais morceau. C'est très frustrant ...</i>
+
+108
+00:10:34,797 --> 00:10:38,027
+Une partie de la frustration vient
+de la réutilisation par les réalisateurs
+
+109
+00:10:38,027 --> 00:10:40,477
+de choses qui ont fonctionné
+dans tous les autres films.
+
+110
+00:10:40,477 --> 00:10:42,897
+On se retrouve avec
+le plus petit dénominateur commun.
+
+111
+00:10:43,095 --> 00:10:44,625
+Vous vous souvenez de ça ?
+
+112
+00:10:47,949 --> 00:10:49,379
+Essayons différemment.
+
+113
+00:10:50,005 --> 00:10:55,165
+Plus tôt dans le film, Thor convainc ses amis
+de violer la loi, mais se fait bannir.
+
+114
+00:10:55,496 --> 00:10:58,696
+Maintenant, ce sont eux qui violent la loi
+pour le retrouver lui.
+
+115
+00:10:58,826 --> 00:11:01,746
+Il n'a pas demandé leur aide,
+ils le font de leur plein gré.
+
+116
+00:11:01,921 --> 00:11:04,761
+Et si on "entendait" ce sentiment
+dans la musique ?
+
+117
+00:11:21,807 --> 00:11:25,817
+On ne dit pas que c'est le "bon" choix,
+mais ça vaut la peine d'essayer,
+
+118
+00:11:25,907 --> 00:11:28,377
+car ça rend la scène
+plus riche émotionnellement.
+
+119
+00:11:28,636 --> 00:11:31,756
+Et tous les choix que vous pouvez entendre
+dans les films Marvel :
+
+120
+00:11:31,756 --> 00:11:37,326
+le bruit de fond ; entendre ce qu'on voit ;
+l'ajout d'un narrateur, la musique temporaire ...
+
+121
+00:11:37,687 --> 00:11:42,447
+tous ces choix émergent du même désir :
+conserver des "valeurs sûres".
+
+122
+00:11:44,256 --> 00:11:48,166
+Ce n'est pas de la mauvaise musique,
+c'est juste fade et inoffensif.
+
+123
+00:11:48,857 --> 00:11:53,407
+Et à cause de ce sacrifice en richesse
+émotionnelle pour ces "valeurs sûres",
+
+124
+00:11:53,642 --> 00:11:55,352
+le résultat final est là :
+
+125
+00:12:03,409 --> 00:12:08,439
+<i>- Ouh ... Marvel ? Non.
+Oh ! Attends ! ...</i>
+
+126
+00:12:10,608 --> 00:12:13,328
+Donc que manque-t-il
+à la musique des films Marvel ?
+
+127
+00:12:13,899 --> 00:12:15,209
+Le risque.
+
+128
+00:12:15,880 --> 00:12:19,320
+Le genre de risque qui crée
+une connexion émotionnelle avec le public,
+
+129
+00:12:19,320 --> 00:12:21,470
+pour qu'ils portent la musique en eux.
+
+130
+00:12:22,028 --> 00:12:24,538
+Les gens ne se souviennent
+pas des choix sûrs ...
+
+131
+00:12:24,865 --> 00:12:27,865
+Seule la musique osée et originale
+peut accomplir ça.
+
+132
+00:12:32,621 --> 00:12:35,411
+Mais cela étant dit,
+on a quand même trouvé
+
+133
+00:12:35,411 --> 00:12:38,401
+un thème Marvel qui a entraîné
+cette réaction ...
