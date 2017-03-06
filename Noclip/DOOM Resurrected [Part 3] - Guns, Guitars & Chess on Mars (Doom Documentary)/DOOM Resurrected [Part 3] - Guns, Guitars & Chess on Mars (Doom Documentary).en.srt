@@ -1,0 +1,1480 @@
+1
+00:00:13,279 --> 00:00:17,259
+Since Doom mastered the template of the first person shooter over two decades ago,
+
+2
+00:00:17,260 --> 00:00:20,740
+we've been subjected to over 20 years of design iteration.
+
+3
+00:00:21,160 --> 00:00:25,280
+That doesn't exactly leave much in the way of new ground for the genre to stomp on.
+
+4
+00:00:25,579 --> 00:00:29,719
+So what do you do when you're asked to recreate a feel of a game that came out over 20 years ago,
+
+5
+00:00:29,980 --> 00:00:34,500
+While you're expected to have it sell in an incredibly unforgiving first person shooter marketplace?
+
+6
+00:00:35,100 --> 00:00:37,760
+The three pillars of Doom 2016's gameplay are:
+
+7
+00:00:37,759 --> 00:00:38,419
+monsters,
+
+8
+00:00:38,420 --> 00:00:39,079
+guns,
+
+9
+00:00:39,079 --> 00:00:40,059
+and level design.
+
+10
+00:00:40,060 --> 00:00:43,780
+And today, we're going to take the time to look at how each one was crafted.
+
+11
+00:00:43,979 --> 00:00:47,979
+But there's another aspect of Doom that provides the fuel for your psychotic rampage,
+
+12
+00:00:47,979 --> 00:00:51,899
+It's extraordinary soundtrack by talented producer Mick Gordan
+
+13
+00:00:51,899 --> 00:00:54,619
+So we should probably have a quick chat with him too.
+
+14
+00:00:54,780 --> 00:00:58,219
+Today we get technical and dive into the design of Doom 2016.
+
+15
+00:00:58,219 --> 00:01:03,640
+It's combat chess, glory kills, curious level design, and furious soundtrack.
+
+16
+00:01:07,359 --> 00:01:08,959
+My name is Gerry Keehan.
+
+17
+00:01:08,959 --> 00:01:13,780
+I'm the lead level designer on the Doom project and the lead level designer here at Id
+
+18
+00:01:13,819 --> 00:01:18,659
+I joined the team back in 2003 during the development of Doom 3.
+
+19
+00:01:18,879 --> 00:01:22,140
+You remember delta 3? The teleportation level?
+
+20
+00:01:22,140 --> 00:01:22,640
+"Yes"
+
+21
+00:01:22,640 --> 00:01:24,579
+Yeah, that was one of mine.
+
+22
+00:01:24,859 --> 00:01:27,140
+Some of the alpha labs levels, delta labs.
+
+23
+00:01:27,140 --> 00:01:31,260
+The only ones I didn't really touch were the hell maps.
+
+24
+00:01:31,739 --> 00:01:33,239
+That was another designer.
+
+25
+00:01:33,500 --> 00:01:37,180
+"What was it like trying to re-imagine a game like Doom?"
+
+26
+00:01:37,680 --> 00:01:42,800
+"Because you worked on the old UAC and there was a vision of what that thing was."
+
+27
+00:01:43,180 --> 00:01:48,140
+"What was it like 12 years later, almost like going back to remodel your old home?"
+
+28
+00:01:48,840 --> 00:01:51,719
+I think about this, like how did we get here.
+
+29
+00:01:51,980 --> 00:01:57,300
+The fondness of Doom 1, right? and fans, you have a huge fan base.
+
+30
+00:01:57,780 --> 00:02:00,099
+What does a Doom 1 game look like today?
+
+31
+00:02:00,640 --> 00:02:04,840
+Some of the things about doom 3 -  graphically fantastic
+
+32
+00:02:05,180 --> 00:02:08,879
+Doom 3 had accolades for how good It looked.
+
+33
+00:02:09,240 --> 00:02:13,400
+There was controversy, maybe even devision with the fan base
+
+34
+00:02:13,439 --> 00:02:18,840
+of horror verses fast paced, and it's like can you match those two together?
+
+35
+00:02:19,840 --> 00:02:25,539
+Can you do an awesome visual experience but bring back what was Doom 1 to people?
+
+36
+00:02:25,580 --> 00:02:28,960
+Well it was fast, it was fun, it was fearsome, it was crazy.
+
+37
+00:02:28,960 --> 00:02:33,460
+It was not like anything anyone else had played ever before.
+
+38
+00:02:34,379 --> 00:02:37,159
+then what does that look like, what game do we need to make?
+
+39
+00:02:37,379 --> 00:02:39,659
+That at it's core drove us.
+
+40
+00:02:40,180 --> 00:02:46,080
+[Danny] Gerry said the direction the team eventually went in didn't look anything like what we expect from most single player campaigns.
+
+41
+00:02:46,080 --> 00:02:50,580
+In fact it found it's roots in a multiplayer mode his team was originally testing
+
+42
+00:02:50,580 --> 00:02:54,200
+Before that part of the game was out sourced to Certain Affinity.
+
+43
+00:02:54,199 --> 00:02:56,479
+[Gerry] Ultimately, the layouts, the spaces
+
+44
+00:02:56,860 --> 00:02:59,720
+really is an evolution of that multiplayer idea.
+
+45
+00:03:00,099 --> 00:03:01,780
+The dance, the movement around the space.
+
+46
+00:03:02,400 --> 00:03:08,659
+The balance was striking a believable place to a multiplayer layout
+
+47
+00:03:08,939 --> 00:03:16,500
+So in res-ops for example, you get to what we call the Imp room.
+
+48
+00:03:16,500 --> 00:03:18,740
+What It looked like originaly was a box with some crates
+
+49
+00:03:19,919 --> 00:03:24,559
+And from there it goes to "Well we're going to start to do multi-tiers"
+
+50
+00:03:24,599 --> 00:03:30,039
+Because we went forward in a lot of levels and made progress in some of the hell maps
+
+51
+00:03:30,039 --> 00:03:34,759
+and places were there was a lot more verticality and over and under.
+
+52
+00:03:35,400 --> 00:03:40,700
+So then we revisit those boxes and say "Okay, how do we make this place just as fun"
+
+53
+00:03:40,699 --> 00:03:45,179
+But you have to tailor them back because you only have Imps for example or Hell Soldiers or whatever.
+
+54
+00:03:45,259 --> 00:03:52,459
+And so you have to go "Okay, well we need to make the space fit the combat we are going for and the type of AI we have"
+
+55
+00:03:53,120 --> 00:03:56,460
+[Danny] From talking to the team there are a number of terms they all seem to use.
+
+56
+00:03:56,460 --> 00:03:59,020
+They talk about "steering into ideas",
+
+57
+00:03:59,020 --> 00:04:00,700
+"Going where the fun is".
+
+58
+00:04:00,699 --> 00:04:05,939
+But the term I heard more than anything else refers to the driving force behind Doom's gameplay.
+
+59
+00:04:05,939 --> 00:04:11,400
+From it's level design to the movements to how you are rewarded with health and ammunition for using glory kills.
+
+60
+00:04:11,659 --> 00:04:12,919
+Three simple words.
+
+61
+00:04:13,139 --> 00:04:13,659
+Push
+
+62
+00:04:13,659 --> 00:04:14,539
+Push Forward
+
+63
+00:04:14,539 --> 00:04:15,259
+Push Forward Combat
+
+64
+00:04:15,419 --> 00:04:17,180
+[Gerry] You think about multiplayer, you're not backing up.
+
+65
+00:04:17,620 --> 00:04:20,680
+You're going forward to the next location.
+
+66
+00:04:21,600 --> 00:04:24,620
+"I see the ledge, that place is an advantage, I'm going to go there."
+
+67
+00:04:24,939 --> 00:04:28,719
+So that was in the mind of just about everyone.
+
+68
+00:04:29,839 --> 00:04:34,839
+The push forward idea was that we don't want to be scared and backing into a corner.
+
+69
+00:04:34,839 --> 00:04:39,419
+Thats kind of the picture, not necessarily that you would be, but stay away from that.
+
+70
+00:04:39,420 --> 00:04:45,980
+So how do we make sure of that? In things like the glory kills, that played into it beautifully.
+
+71
+00:04:46,220 --> 00:04:49,880
+Getting loot and health from the bodies.
+
+72
+00:04:49,879 --> 00:04:52,680
+It's like "Oh! go that way and get that stuff!"
+
+73
+00:04:52,680 --> 00:04:55,720
+because normally you end up with less health in an egagement
+
+74
+00:04:55,720 --> 00:04:58,080
+so it's just like go forward and do it again.
+
+75
+00:04:58,079 --> 00:05:03,959
+We basically used that as "Move forward because you are going to do more damage moving forward than you will going back."
+
+76
+00:05:04,279 --> 00:05:07,799
+It was one of the things that when we first started showing the game
+
+77
+00:05:08,740 --> 00:05:10,340
+at E3 or Quakecon or whatever.
+
+78
+00:05:10,860 --> 00:05:13,379
+People would comment on the glory kill and they were like
+
+79
+00:05:13,759 --> 00:05:17,039
+"Screw these glory kills man, they're going to slow down the gameplay"
+
+80
+00:05:17,540 --> 00:05:21,560
+And it's one of the things where you can't say it, you can't say "No no no"
+
+81
+00:05:22,319 --> 00:05:26,399
+But people are so used to the sync interactions in a lot of games.
+
+82
+00:05:26,879 --> 00:05:33,879
+I think that one of the best parts of the way the animatic played out and the way that they were implemented
+
+83
+00:05:33,879 --> 00:05:35,659
+like, right from the get go,
+
+84
+00:05:35,779 --> 00:05:38,899
+Is that you never felt like they were in the way.
+
+85
+00:05:39,500 --> 00:05:45,100
+They happen quick, and so much of the animation takes place after the actual syncing
+
+86
+00:05:46,459 --> 00:05:56,839
+that you get the beauty of the animation that you would normally have if it's like a quick time event or a totally synced event
+
+87
+00:05:57,319 --> 00:05:59,699
+But we take the player out of the sync so fast
+
+88
+00:06:00,079 --> 00:06:03,659
+You can be turning and they guy can be continuing his animation over here
+
+89
+00:06:04,060 --> 00:06:07,240
+So it never feels in the way
+
+90
+00:06:08,360 --> 00:06:10,819
+[Gerry] The design of the levels really played into that a lot.
+
+91
+00:06:11,019 --> 00:06:15,519
+One thing we wrestled with was locking you into a room and making you do it.
+
+92
+00:06:15,740 --> 00:06:17,300
+We tried to make it as fun as we could.
+
+93
+00:06:17,300 --> 00:06:21,600
+[Danny] "Was there a time where this wasn't the case, where you could just like barrel through levels?"
+
+94
+00:06:21,879 --> 00:06:25,959
+There were a few places like that and it does present problems
+
+95
+00:06:25,959 --> 00:06:28,560
+like what happens when I drag all of this AI into another room.
+
+96
+00:06:29,800 --> 00:06:32,439
+And then you end up where you're backed in and can't do anything.
+
+97
+00:06:33,100 --> 00:06:37,280
+So there was a concerted effort to try and pace those things out properly
+
+98
+00:06:37,620 --> 00:06:41,759
+We did have to lock the doors and not let you out until you deal with the situation
+
+99
+00:06:42,120 --> 00:06:44,840
+You can't have all the AI in the level chasing you through it
+
+100
+00:06:45,839 --> 00:06:50,259
+because if you put an AI on the screen, it's costly, it costs something.
+
+101
+00:06:51,680 --> 00:06:54,980
+[Danny] So the team steered into it, pushing forward at all limits
+
+102
+00:06:54,980 --> 00:06:57,879
+Into danger, utilizing choke points and open areas.
+
+103
+00:06:58,300 --> 00:07:05,800
+But the system was limited, as the demons were capable of traversing the environment with abilities far greater than most first person characters.
+
+104
+00:07:05,800 --> 00:07:11,560
+So they steered into that as well, and leveled the field by giving the player the ability to mantle.
+
+105
+00:07:11,560 --> 00:07:14,379
+[Gerry] The mantling came as a result of moving fast through the world.
+
+106
+00:07:14,779 --> 00:07:18,439
+We wanted it to be fast, because that was a core element of Doom, you felt fast.
+
+107
+00:07:18,620 --> 00:07:23,019
+Whether you were or not, but you felt fast, and that was what we want
+
+108
+00:07:23,459 --> 00:07:25,959
+When you go back you remember Doom 1, It was fast.
+
+109
+00:07:25,959 --> 00:07:31,560
+So that was like "Ok that's going to be our top billing, that's going to be one of our top core elements of the game."
+
+110
+00:07:31,779 --> 00:07:36,199
+So we wanted to kind of blow the lid off of level design.
+
+111
+00:07:36,199 --> 00:07:40,920
+in terms of "Well It's going to be this corridor shooter it's going to be whatever" like pigeonhole it into something.
+
+112
+00:07:40,920 --> 00:07:44,160
+We used it. We said "Now we have this awesome mantling ability"
+
+113
+00:07:45,220 --> 00:07:46,260
+"Lets just use it everywhere."
+
+114
+00:07:46,420 --> 00:07:51,060
+"Lets build levels. Secrets? Sure! I can mantle to get to the secret."
+
+115
+00:07:51,560 --> 00:07:54,459
+[Danny] While much of the game's combat is centered around these closed off areas,
+
+116
+00:07:54,459 --> 00:07:57,379
+there are some interesting set pieces that break up the flow.
+
+117
+00:07:57,379 --> 00:08:02,399
+The Argent Tower level, with its long bridge, was designed not only to teach the player how to double jump,
+
+118
+00:08:02,399 --> 00:08:04,879
+but also to teach them where to mantle.
+
+119
+00:08:04,879 --> 00:08:07,360
+There's an old trick frequently used in level design.
+
+120
+00:08:07,439 --> 00:08:08,879
+"Light leads the way"
+
+121
+00:08:08,879 --> 00:08:11,920
+If you're ever looking for the exit in an area of a FPS,
+
+122
+00:08:11,920 --> 00:08:15,540
+it's usually telegraphed by some sort of eye catching light source.
+
+123
+00:08:15,759 --> 00:08:21,519
+Doom's mantling system used a similar trick, by highlighting climbable surfaces with green LEDs
+
+124
+00:08:21,519 --> 00:08:26,560
+But sticking big green indicators all over the levels was a difficult challenge to overcome.
+
+125
+00:08:26,759 --> 00:08:33,379
+[Garry] That was a tough thing for us because, again, we're very art heavy, we love the quality and look of things
+
+126
+00:08:33,539 --> 00:08:38,019
+and you could almost not put anything in the levels that didn't look gaudy.
+
+127
+00:08:38,220 --> 00:08:43,800
+When you do that it was like "Well, how do we distinguish the ledge grabbable surfaces from the non-ledge grabbable surfaces"
+
+128
+00:08:44,039 --> 00:08:48,620
+and green lights ultimately payed off.
+
+129
+00:08:48,620 --> 00:08:51,759
+and it came through in a lot of the prototype maps, just like "we'll just put green lights here"
+
+130
+00:08:52,779 --> 00:08:54,659
+And so we were like "Well why not just do that?"
+
+131
+00:08:54,659 --> 00:08:57,579
+And it works for the most part, because for most people green is good, green is go.
+
+132
+00:08:57,919 --> 00:09:04,919
+So it's more of a phycological thing and so we tried to do it as naturally as possible so it wasn't too gaudy.
+
+133
+00:09:11,559 --> 00:09:14,819
+[Danny] Many first person shooters involve you taking on waves and waves of enemies.
+
+134
+00:09:14,820 --> 00:09:19,040
+Think Call of Duty, Battlefield, or Id's canceled Doom 4
+
+135
+00:09:19,460 --> 00:09:24,840
+You take on waves of similar looking enemies utilizing cover and pushing forward once an area is clear.
+
+136
+00:09:25,059 --> 00:09:27,959
+On the face of it that sounds like most FPS games, right?
+
+137
+00:09:28,220 --> 00:09:29,259
+But Doom works a bit different.
+
+138
+00:09:29,679 --> 00:09:33,000
+Doom is a game where you enter areas only to be surrounded by enemies.
+
+139
+00:09:33,259 --> 00:09:36,500
+At the start that's just Imps, lets represent those as pawns.
+
+140
+00:09:36,500 --> 00:09:39,820
+But as you progress through the levels, the game introduces new enemy types,
+
+141
+00:09:39,820 --> 00:09:42,020
+which combine with the ones you've already mastered.
+
+142
+00:09:42,340 --> 00:09:44,660
+The Summoner, who darts across the map in an instant.
+
+143
+00:09:44,659 --> 00:09:47,179
+The Hell Knight, who jumps around in close quarters.
+
+144
+00:09:47,179 --> 00:09:49,479
+The Pinky, who charges in straight lines.
+
+145
+00:09:49,659 --> 00:09:52,039
+What this creates is a form of combat chess,
+
+146
+00:09:52,039 --> 00:09:56,939
+where the player is in an enclosed combat arena with increasingly varied enemies to battle.
+
+147
+00:09:56,940 --> 00:10:00,040
+The further you get, the more demons you're tasked with slaying.
+
+148
+00:10:00,419 --> 00:10:05,659
+But against such increasingly challenging odd, how is the player expected to survive?
+
+149
+00:10:05,659 --> 00:10:10,419
+The player's massive load-out of guns, what's know as a hyperspace arsenal.
+
+150
+00:10:10,899 --> 00:10:13,439
+The weapons in Doom are rooted in the earlier games,
+
+151
+00:10:13,440 --> 00:10:17,500
+But with the ability to modify them to create entirely new ways of firing.
+
+152
+00:10:17,500 --> 00:10:21,419
+The team put month of work into creating a variety of modifications for each weapon.
+
+153
+00:10:21,419 --> 00:10:25,860
+The standard rocket launcher, for instance, had mods that allowed for remote detonation,
+
+154
+00:10:26,080 --> 00:10:27,100
+Locking on to enemies,
+
+155
+00:10:27,320 --> 00:10:29,140
+Charging for more explosive rockets,
+
+156
+00:10:29,799 --> 00:10:31,799
+And the ability to fire swarms.
+
+157
+00:10:34,080 --> 00:10:35,840
+Not every modification made the cut
+
+158
+00:10:36,159 --> 00:10:39,059
+but the ones that did created a thrilling arsenal of weapondry
+
+159
+00:10:39,059 --> 00:10:42,219
+That are as varied as the demons they are made to destroy.
+
+160
+00:10:42,379 --> 00:10:43,519
+[Hugo] The Imp is just amazing
+
+161
+00:10:43,519 --> 00:10:46,360
+He's the character you can just keep fighting again and again.
+
+162
+00:10:46,360 --> 00:10:50,659
+You get a room full of Imps in our levels with they way these guys set this stuff up
+
+163
+00:10:50,659 --> 00:10:52,519
+and you're just going to get good results.
+
+164
+00:10:52,820 --> 00:10:55,540
+Well they were the easiest, honestly. They were the hardest and the easiest.
+
+165
+00:10:55,539 --> 00:10:56,459
+Because they are a staple.
+
+166
+00:10:56,460 --> 00:11:01,320
+Consequently, they were the most robust, the largest amount of animations went into them.
+
+167
+00:11:01,320 --> 00:11:03,500
+So really we could put them anywhere
+
+168
+00:11:03,860 --> 00:11:06,779
+So we weren't limited in the design of the levels with the Imps.
+
+169
+00:11:06,779 --> 00:11:08,860
+They could go anywhere. They could do anything.
+
+170
+00:11:09,200 --> 00:11:10,660
+Probably, some of my favorites
+
+171
+00:11:10,659 --> 00:11:13,439
+Probably the Pinky. I love that he's this freight train.
+
+172
+00:11:13,440 --> 00:11:17,260
+There are times where I am in the last level of the game or any level of the game
+
+173
+00:11:17,620 --> 00:11:21,159
+and you're doing the dance and feeling like a rockstar and you're kicking major ass
+
+174
+00:11:21,159 --> 00:11:24,240
+and he just plows you from the side, just like  *freight train noise*
+
+175
+00:11:24,240 --> 00:11:25,779
+and you're like "Holy shit" ya know?
+
+176
+00:11:26,039 --> 00:11:31,719
+[Gary] He has again a limited animation set, but his role was he didn't have a ranged attack or anything like that.
+
+177
+00:11:32,179 --> 00:11:36,819
+He basically B lines it for you and you step aside, shoot him in the back because he has armor in the front now.
+
+178
+00:11:37,440 --> 00:11:41,320
+And we thought It was a fun game mechanic to be like "oh, okay if I figure out..."
+
+179
+00:11:41,639 --> 00:11:44,439
+"I could waste a whole bunch of ammo and get him from the front"
+
+180
+00:11:44,440 --> 00:11:46,920
+"or I could- wow if I actually do my double jump"
+
+181
+00:11:47,639 --> 00:11:52,039
+Because you have the double jump by the time he's introduced and you can double jump over him
+
+182
+00:11:52,039 --> 00:11:54,639
+or to the side of him and get him when he comes by.
+
+183
+00:11:54,639 --> 00:11:58,519
+I love that about him, I think he perfectly complements the dance.
+
+184
+00:11:58,679 --> 00:12:01,519
+And that's what it is. As you play through the game
+
+185
+00:12:01,519 --> 00:12:04,720
+You're playing chess, combat chess, the combat puzzle that you have to solve
+
+186
+00:12:04,720 --> 00:12:09,080
+and your tools and the amount of chess pieces on the board increase
+
+187
+00:12:09,080 --> 00:12:12,940
+and the size of the chess board and the type of chess board increases as you progress through the game.
+
+188
+00:12:13,080 --> 00:12:15,680
+The thing about the Barron is that he is the largest AI we have.
+
+189
+00:12:16,039 --> 00:12:18,679
+So his leaps are naturally going to be larger
+
+190
+00:12:19,320 --> 00:12:22,900
+All his movement is much broader and bigger.
+
+191
+00:12:23,080 --> 00:12:24,580
+So the space has to accommodate that
+
+192
+00:12:24,580 --> 00:12:28,180
+The Revenant is probably my favorite because he's so straight metal.
+
+193
+00:12:28,179 --> 00:12:30,659
+I mean he belongs on the cover of an Iron maiden album.
+
+194
+00:12:31,840 --> 00:12:36,160
+I like that he looks insane, because there's humor in everything.
+
+195
+00:12:36,620 --> 00:12:40,200
+I have a hard time, as you can tell. I try not to take things to seriously.
+
+196
+00:12:40,500 --> 00:12:45,899
+And I like to focus on the emotional response that you'll get from the consumer
+
+197
+00:12:45,899 --> 00:12:51,579
+Like when I show you something- I put a product in your hand, I put a new phone In your hand, we sit in a car.
+
+198
+00:12:51,860 --> 00:12:55,779
+You watch a movie that we worked on or play a game that we made.
+
+199
+00:12:56,179 --> 00:12:57,059
+What are you doing?
+
+200
+00:12:57,059 --> 00:12:58,659
+I want to see. Are you going like this?
+
+201
+00:12:58,659 --> 00:12:59,179
+*gasps*
+
+202
+00:12:59,179 --> 00:13:01,979
+Well maybe we're making that type of game and we want you to be scared.
+
+203
+00:13:01,980 --> 00:13:04,740
+Are you smiling the whole time? Because that's how you should be on Doom.
+
+204
+00:13:05,340 --> 00:13:09,920
+Totally we wanted you to smile. We didn't want you to shriek or cover your eyes. Smile.
+
+205
+00:13:10,419 --> 00:13:14,019
+So when we showed it at Quake-con and you see the the Revenant, the Revenant just makes you smile.
+
+206
+00:13:14,240 --> 00:13:15,659
+Because he looks ridiculous.
+
+207
+00:13:16,000 --> 00:13:18,500
+He's loosing his mind, he's never not screaming.
+
+208
+00:13:18,860 --> 00:13:20,300
+It's just hilarious.
+
+209
+00:13:21,000 --> 00:13:24,940
+And he makes everybody smile.  To be honest
+
+210
+00:13:25,820 --> 00:13:28,280
+it is why we get away with the level of violence that we do.
+
+211
+00:13:28,279 --> 00:13:30,519
+Because it's kind of all okay
+
+212
+00:13:30,519 --> 00:13:32,840
+"It's all in good fun! I'm just gonna rip his arms off."
+
+213
+00:13:32,840 --> 00:13:35,360
+Ya know, like this is fun, we're having fun!
+
+214
+00:13:36,000 --> 00:13:40,279
+Because if it's just a little bit mean spirited, I think it's
+
+215
+00:13:40,860 --> 00:13:43,019
+tonally gets a little more harsh
+
+216
+00:13:43,019 --> 00:13:45,379
+and mean spirited and we didn't want that.
+
+217
+00:13:45,820 --> 00:13:47,440
+"Popcorn horror", that's what we called it.
+
+218
+00:13:47,440 --> 00:13:49,380
+"Popcorn horror: horror for the whole family"
+
+219
+00:13:54,659 --> 00:14:21,839
+⛧ Rip &amp; Tear - Mick Gordon ⛧
+
+220
+00:14:22,000 --> 00:14:25,200
+While the music in many games complements and underscores the action,
+
+221
+00:14:25,200 --> 00:14:27,820
+the music in Doom is really front and center,
+
+222
+00:14:28,000 --> 00:14:31,000
+like a death metal orchestra playing to your every footstep.
+
+223
+00:14:31,299 --> 00:14:37,459
+As someone who loves music, but has absolutely no idea how the creative process for writing music even begins,
+
+224
+00:14:37,720 --> 00:14:42,660
+I was excited to have the opportunity to sit down and talk to the game's composer, Mick Gordon.
+
+225
+00:14:42,659 --> 00:14:45,759
+He had just arrived back at his home in Melbourne Australia,
+
+226
+00:14:45,759 --> 00:14:49,120
+after appearing on stage at The Game Awards the previous week.
+
+227
+00:14:49,120 --> 00:14:52,639
+The first question I had for him was "How do you even start to craft a soundtrack"
+
+228
+00:14:52,639 --> 00:14:54,439
+"for a game that is still in development?"
+
+229
+00:14:54,740 --> 00:14:57,720
+[Mick] The start of each project you spent this big time kind of
+
+230
+00:14:58,820 --> 00:15:01,860
+coming up some sort of joint creative language.
+
+231
+00:15:01,860 --> 00:15:07,300
+Where you're both able to use similar words and you both understand the same meaning behind those words.
+
+232
+00:15:07,899 --> 00:15:10,240
+If there's any ambiguity behind the conversation,
+
+233
+00:15:10,559 --> 00:15:15,859
+18 months later when you've got no time left, you're going to run into all sorts of trouble.
+
+234
+00:15:15,860 --> 00:15:19,320
+So it's important at the start of every project, we always spend that time
+
+235
+00:15:19,320 --> 00:15:23,040
+discovering each other's creative boundaries and what each person means.
+
+236
+00:15:23,039 --> 00:15:26,699
+So when somebody says "Hey lets make it really heavy", what does that actually mean?
+
+237
+00:15:26,700 --> 00:15:30,540
+Because heavy to them might mean something comepleatly different to someone else for example.
+
+238
+00:15:30,679 --> 00:15:34,059
+I always try to on every single project to have some in studio time.
+
+239
+00:15:34,360 --> 00:15:38,919
+When I visited the Id studios in Dallas, It was incredible!
+
+240
+00:15:38,919 --> 00:15:40,659
+I mean, you've been there.
+
+241
+00:15:40,659 --> 00:15:44,019
+The glass cabinet that greets you when you enter the office is amazing,
+
+242
+00:15:44,019 --> 00:15:49,840
+It's full of all those clay sculptures and things that they used 20 years ago to make the demons back then.
+
+243
+00:15:49,840 --> 00:15:53,580
+[Danny] It must be quite intimidating to try and re-imagine such an iconic sountrack
+
+244
+00:15:53,580 --> 00:15:57,379
+What was your creative process sort of starting this whole venture?
+
+245
+00:15:57,600 --> 00:16:01,399
+[Mick] Yeah, whenever you're working on a huge franchise like Doom its important to put that
+
+246
+00:16:02,120 --> 00:16:04,340
+that legacy on a high pedestal.
+
+247
+00:16:04,340 --> 00:16:06,019
+It really is, I'm a big believer in that.
+
+248
+00:16:06,019 --> 00:16:10,799
+I'm not a big believer in pushing everything aside from the past and then trying to create something new.
+
+249
+00:16:11,039 --> 00:16:16,219
+I think it's really important to pay a really strong tribute to that legacy that has come before.
+
+250
+00:16:16,679 --> 00:16:21,939
+That being said, If you focus on that too much, you're going to get very laser focused and become intimidated
+
+251
+00:16:21,940 --> 00:16:24,960
+and scared and loose your confidence with the work that you're doing.
+
+252
+00:16:25,659 --> 00:16:29,439
+So one of the first things we kind of did was actually just cross out the word Doom.
+
+253
+00:16:29,440 --> 00:16:34,200
+I just starting ignoring that word and said "what is this game all about?"
+
+254
+00:16:34,200 --> 00:16:36,640
+It is very much a modern first person shooter, don't get me wrong,
+
+255
+00:16:36,639 --> 00:16:41,059
+But it's futuristic, it's a futuristic science fiction, it very is.
+
+256
+00:16:41,200 --> 00:16:43,840
+It's set far far far off into the future.
+
+257
+00:16:44,120 --> 00:16:46,200
+There's obviously the invasion, the hellish invasion.
+
+258
+00:16:46,200 --> 00:16:48,600
+What does that actually mean? What does hell mean?
+
+259
+00:16:48,600 --> 00:16:51,860
+What has hell meant to different civilizations and people in the past?
+
+260
+00:16:51,860 --> 00:16:54,240
+Where does that come from? What does hell mean today?
+
+261
+00:16:54,639 --> 00:16:58,059
+How is hell being illustrated by Hugo and the team in this game?
+
+262
+00:16:58,600 --> 00:17:01,860
+What does Mars mean? What does Mars mean in terms of isolation?
+
+263
+00:17:01,860 --> 00:17:05,180
+Being away from Earth, planet Earth, Home essentially.
+
+264
+00:17:05,819 --> 00:17:10,500
+What does that mean? Being the only human left on a barren planet?
+
+265
+00:17:10,839 --> 00:17:14,399
+What does it mean to be scared of demons? Are you scared of demons ?
+
+266
+00:17:15,039 --> 00:17:21,500
+And through that process of looking at every single facet of Doom we kind of stumbled on this idea that
+
+267
+00:17:22,220 --> 00:17:25,339
+you're the enemy of the demons in the game.
+
+268
+00:17:25,480 --> 00:17:29,099
+Once we started looking at it from that angle it started to make a lot more sense and we were able to get away
+
+269
+00:17:29,099 --> 00:17:33,779
+from that Doom hang up in the past and find something that was new and original for today.
+
+270
+00:17:34,180 --> 00:17:36,820
+When I visited the Id offices and I chatted to Hugo and Martin
+
+271
+00:17:36,819 --> 00:17:40,139
+one of the big, big, things that everybody talked about was that they realy didn't want
+
+272
+00:17:40,140 --> 00:17:42,780
+heavy metal in the game, they didn't want it to feel like a heavy metal thing.
+
+273
+00:17:43,180 --> 00:17:48,019
+And I totally understood that at that point too because they didn't want it to feel like some cliche corny thing.
+
+274
+00:17:48,920 --> 00:17:50,860
+They didn't want it to feel like Bill and Ted basically.
+
+275
+00:17:50,859 --> 00:17:53,599
+That was everybody fear, to feel like a Bill and Ted game.
+
+276
+00:17:54,240 --> 00:17:57,099
+So we spent the first couple of months just experimenting with synthesizers
+
+277
+00:17:57,099 --> 00:18:00,319
+and coming up with different synth sounds and seeing how far we could push synths.
+
+278
+00:18:00,640 --> 00:18:03,720
+And we did things like take synths and ran them through guitar pedals and stuff like that
+
+279
+00:18:03,720 --> 00:18:06,900
+to try and make them really aggressive and angry and play the role of a guitar
+
+280
+00:18:06,900 --> 00:18:10,300
+But it had a different sound and had a different sort of vibe about it.
+
+281
+00:18:11,380 --> 00:18:16,040
+And a lot of that stuff was heard in the original Quakecon demo that was behind closed doors,
+
+282
+00:18:16,259 --> 00:18:19,180
+but some of that stuff ended up showing up in the E3 Demo as well.
+
+283
+00:18:20,259 --> 00:18:25,339
+After that E3 demo the reaction from fans was "It's kinda cool, but it didn't feel like Doom"
+
+284
+00:18:25,920 --> 00:18:29,779
+And after that E3 showing we started incorporating a little bit more guitar elements
+
+285
+00:18:29,779 --> 00:18:34,920
+And once we started with 5% it started to feel really good and started to feel more like a doom game.
+
+286
+00:18:35,339 --> 00:18:37,359
+We started adding 10% and then 15%
+
+287
+00:18:37,480 --> 00:18:41,640
+and by the time we finished we had a pretty guitar chunky soundtrack in the end
+
+288
+00:18:42,019 --> 00:18:44,180
+The music in Doom- Its pretty front and center,
+
+289
+00:18:44,180 --> 00:18:47,920
+It's not like some sort of track that's playing in the background
+
+290
+00:18:47,920 --> 00:18:52,340
+A lot of the time it's not so much complementing the player as it is driving the player.
+
+291
+00:18:52,700 --> 00:18:55,240
+[Mick] I'm a really big fan of 90's video game music.
+
+292
+00:18:55,240 --> 00:18:58,259
+To me some of the best music that we have in the industry came from that period.
+
+293
+00:18:58,519 --> 00:19:06,259
+The stuff that went into the original Killer Instinct and the original Doom and Banjo Kazooie and Perfect Dark
+
+294
+00:19:06,259 --> 00:19:07,799
+and these sort of great games from that period.
+
+295
+00:19:07,799 --> 00:19:13,460
+One thing that all of those games really shared in common was that the music was really front and center.
+
+296
+00:19:13,460 --> 00:19:17,740
+You really knew the music back to front, you could sing those melodies back to front.
+
+297
+00:19:18,319 --> 00:19:21,720
+And I feel as we've progressed through the years a lot of things have progressed,
+
+298
+00:19:21,720 --> 00:19:24,600
+but music is not one of those things. Music has been pushed to the background.
+
+299
+00:19:24,980 --> 00:19:28,000
+So with this because doom is obviously a big franchise from the 90s
+
+300
+00:19:28,000 --> 00:19:32,279
+I kind of wanted to pay tribute to that regard as well where the music should sit up front and center.
+
+301
+00:19:32,559 --> 00:19:34,659
+The player should be aware of the music.
+
+302
+00:19:35,000 --> 00:19:37,599
+The music needs to play that sort of emotional pay off role.
+
+303
+00:19:37,599 --> 00:19:41,699
+It is the reward for doing well, it is the motivator. It tells them that
+
+304
+00:19:41,700 --> 00:19:46,180
+"Yes, you are OK, you are doing well, everybody's scared of you, you're the killer here."
+
+305
+00:19:47,319 --> 00:19:51,759
+And that's definitely something I try to do in a lot of my work is bring the music more up front.
+
+306
+00:19:51,759 --> 00:19:55,460
+Get people to remember music again, get people to enjoy video game music again.
+
+307
+00:19:55,900 --> 00:19:59,880
+[Danny] The soundtrack for doom is incredibly varied, and to be honest has quit a lot of music in it.
+
+308
+00:19:59,880 --> 00:20:04,780
+I asked Mick how exactly do you plan for all the various tracks that the game required?
+
+309
+00:20:05,000 --> 00:20:08,460
+So essentially you have the over all hierarchy
+
+310
+00:20:08,460 --> 00:20:12,819
+At number top you have Doom, so everything you do needs to sound like it's part of Doom
+
+311
+00:20:13,539 --> 00:20:18,559
+Underneath that we'd have 3 different areas that were lower in the hierarchy
+
+312
+00:20:18,579 --> 00:20:20,240
+One of those areas was UAC,
+
+313
+00:20:20,559 --> 00:20:22,240
+One of those areas was hell,
+
+314
+00:20:22,240 --> 00:20:27,059
+And one of those areas was kinda more industrial gritty lava based sort of stuff like the factory
+
+315
+00:20:27,059 --> 00:20:28,879
+so the sort ot thing you would hear at the start of the level.
+
+316
+00:20:28,880 --> 00:20:30,620
+so that's the beginning of the hierarchy
+
+317
+00:20:30,980 --> 00:20:34,680
+Under that you have all the different individual scenarios that happen.
+
+318
+00:20:34,680 --> 00:20:40,320
+So that spider mastermind for example, that's very much a boss battle so it's a bigger sort of track.
+
+319
+00:20:40,720 --> 00:20:45,279
+But it occurs in hell, so it has that sort of thing, that big part of it.
+
+320
+00:20:45,660 --> 00:20:47,960
+But It has that element of that industrial thing as well.
+
+321
+00:20:48,799 --> 00:20:52,240
+So we kind of start building within that hierarchy.
+
+322
+00:20:52,400 --> 00:20:58,720
+And then once you have that hierarchy decided upon, basically they'd sent me gameplay footage
+
+323
+00:20:58,920 --> 00:21:00,940
+And I'd sit there and throw it up on the television
+
+324
+00:21:01,200 --> 00:21:04,480
+and it's kind of weird, I'd throw the gameplay footage up on the television
+
+325
+00:21:04,480 --> 00:21:08,420
+and I'd grab a controller, and the controller's not even plugged in, it's a video, I can't play it
+
+326
+00:21:08,859 --> 00:21:12,359
+And I'd just sit there holding it, pretend I'm playing the videogame
+
+327
+00:21:12,880 --> 00:21:18,440
+Because that's my gaming space, I'm used to getting certain emotional reactions to video games in that space.
+
+328
+00:21:18,759 --> 00:21:21,940
+So while I'm watching the video and certain things happen within the video,
+
+329
+00:21:22,380 --> 00:21:27,740
+I get a feeling of where that music should probably be taking that situation, that scenario.
+
+330
+00:21:28,099 --> 00:21:32,299
+And I sit there with a little app on my Iphone and it's a little metronome app
+
+331
+00:21:32,299 --> 00:21:37,019
+and I just tap on that metronome, and that gives me a beats per minute that feels appropriate for that battle.
+
+332
+00:21:37,339 --> 00:21:41,919
+Then what I do is take that back into the studio, and by that point I've already got what the music need to do
+
+333
+00:21:41,920 --> 00:21:43,380
+and the tempo that it needs to be at.
+
+334
+00:21:43,859 --> 00:21:48,579
+At that point we also know where that situation is going to be occurring within the hierarchy.
+
+335
+00:21:49,059 --> 00:21:53,440
+So once we got all that information we can actually sit down and start building the track.
+
+336
+00:21:53,900 --> 00:21:57,900
+The reason I do it like that is because we got a framework you're able to actually work to.
+
+337
+00:21:57,900 --> 00:22:03,880
+If you just kind of went in raw or whatever without any idea, It's very difficult to come up with stuff
+
+338
+00:22:04,160 --> 00:22:06,259
+Usually we just kind of work on that stuff and send it over,
+
+339
+00:22:06,779 --> 00:22:09,559
+and then you don't hear it again until the game comes out.
+
+340
+00:22:10,359 --> 00:22:14,199
+I remember sitting here and I was working on something, I can't remember what it was,
+
+341
+00:22:14,420 --> 00:22:18,080
+but anyway it was a really late night and I was working up until 4 o'clock in the morning
+
+342
+00:22:18,380 --> 00:22:21,540
+and Doom just got released on all the digital outlets
+
+343
+00:22:21,579 --> 00:22:26,480
+and while I was working away I had a couple of twitch streamers up and they were playing through it.
+
+344
+00:22:26,799 --> 00:22:31,659
+And a that point you have no idea whether the music that you've done for the game is actually good or not.
+
+345
+00:22:31,900 --> 00:22:33,340
+You really have no idea.
+
+346
+00:22:33,599 --> 00:22:38,079
+It's all just a fly by the seat of the pants type of thing for the whole 18 months, you just rush rush rush.
+
+347
+00:22:38,500 --> 00:22:42,400
+And I remember watching one of these Twitch streamers, and he got up to the second level
+
+348
+00:22:42,400 --> 00:22:45,380
+and his head started bopping when the music came on
+
+349
+00:22:45,380 --> 00:22:49,880
+I was like "Ahhh! I think this thing might turn out okay, I think it might be alright."
+
+350
+00:22:53,579 --> 00:22:57,500
+[Danny] During my time on the project, talking to the people behind Doom 2016,
+
+351
+00:22:57,500 --> 00:23:02,299
+I feel like I have a much clearer understanding of the type of company Id Software is.
+
+352
+00:23:02,660 --> 00:23:07,540
+This isn't a massive studio with hundreds of employees pumping out games every year.
+
+353
+00:23:07,799 --> 00:23:11,440
+Nor is it a cocky indie start up, with ego's battling for attention
+
+354
+00:23:11,740 --> 00:23:13,940
+Id is a place where people work together closely.
+
+355
+00:23:14,259 --> 00:23:16,539
+Where talent, passion, and expertise is valued.
+
+356
+00:23:16,539 --> 00:23:21,839
+Where collaboration thrives, and the finger prints of every team member can be felt in the final creation.
+
+357
+00:23:22,099 --> 00:23:24,459
+This Doom meant a lot to a lot of people.
+
+358
+00:23:24,559 --> 00:23:27,919
+For fans it was phoenix from the nostalgic flames.
+
+359
+00:23:27,920 --> 00:23:30,300
+To critics, one of the best games of the year.
+
+360
+00:23:30,299 --> 00:23:33,200
+But to the people who work at Id, Doom was much more.
+
+361
+00:23:33,200 --> 00:23:38,539
+It was a battleground, one that they walked away from stronger, more unified, more confident than ever.
+
+362
+00:23:38,539 --> 00:23:42,180
+And for those of us who like to play games with Id Software written on the box,
+
+363
+00:23:42,259 --> 00:23:44,740
+That should be very exciting indeed.
+
+364
+00:23:45,680 --> 00:23:47,700
+Thank you so much for Watching Doom Resurrected.
+
+365
+00:23:47,819 --> 00:23:51,639
+If you'd like to support our work to tell more authentic stories about video games,
+
+366
+00:23:51,700 --> 00:23:53,920
+then please consider becoming a patreon.
+
+367
+00:23:54,079 --> 00:23:59,119
+We want to take a moment to thank everyone who has joined us in this journey so far in 2016
+
+368
+00:23:59,119 --> 00:24:03,519
+and we look forward to creating many many more video game documentaries next year.
+
+369
+00:24:03,759 --> 00:24:04,559
+See ya then!
+
+370
+00:24:22,160 --> 00:26:23,539
+⛧ BFG Division - Mick Gordon ⛧
+

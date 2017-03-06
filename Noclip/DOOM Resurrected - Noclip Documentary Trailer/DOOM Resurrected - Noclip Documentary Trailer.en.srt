@@ -1,0 +1,192 @@
+1
+00:00:00,000 --> 00:00:02,730
+It wasn't necessarily the earliest days
+
+2
+00:00:02,730 --> 00:00:04,379
+of id, but it was some pretty early days.
+
+3
+00:00:04,379 --> 00:00:06,160
+You know back working on Quake 2
+
+4
+00:00:06,160 --> 00:00:08,060
+back when the company was just
+
+5
+00:00:08,069 --> 00:00:09,599
+10 people or so
+
+6
+00:00:09,599 --> 00:00:12,990
+[new male voice] I started with it back in 91
+
+7
+00:00:12,990 --> 00:00:16,010
+working on Wolfenstein 3d
+
+8
+00:00:16,010 --> 00:00:18,020
+[new male voice] When I joined as an employee effectively that was
+
+9
+00:00:18,028 --> 00:00:19,559
+towards the end of Quake 3 you know
+
+10
+00:00:19,559 --> 00:00:21,689
+there was three or four programmers
+
+11
+00:00:21,689 --> 00:00:23,730
+at best. So we all did a lot
+
+12
+00:00:23,730 --> 00:00:25,980
+[First Voice] You'd ride up the elevators and get to
+
+13
+00:00:25,980 --> 00:00:27,480
+the sixth floor and there was a sign
+
+14
+00:00:27,480 --> 00:00:30,539
+out front that said "id Software - Suite 666"
+
+15
+00:00:30,539 --> 00:00:31,949
+It was what you would hope. Everybody loved
+
+16
+00:00:31,949 --> 00:00:33,570
+what they did. Pushing the envelope
+
+17
+00:00:33,570 --> 00:00:36,009
+in almost every single way
+
+18
+00:00:43,479 --> 00:00:46,039
+From a gameplay feel perspective we
+
+19
+00:00:46,049 --> 00:00:48,209
+reference DOOM 1 and DOOM 2
+
+20
+00:00:48,210 --> 00:00:50,009
+[new male voice] It had to be fast because that was a core element of
+
+21
+00:00:50,009 --> 00:00:51,149
+DOOM - you felt fast
+
+22
+00:00:51,149 --> 00:00:54,219
+You'd look at the sprites going *vomit* and like...
+
+23
+00:00:54,240 --> 00:00:55,469
+You know what I mean?
+
+24
+00:00:55,469 --> 00:00:57,149
+Like, have you seen the stuff that
+
+25
+00:00:57,149 --> 00:00:58,369
+goes on in DOOM?
+
+26
+00:00:58,369 --> 00:01:01,140
+We would play a game and  I'm thinking "We could do anything!"
+
+27
+00:01:01,140 --> 00:01:02,939
+It was DOOM but something else
+
+28
+00:01:02,939 --> 00:01:05,789
+[new male voice] Robert Zemeckis-y "Contact" kind of...
+
+29
+00:01:05,790 --> 00:01:08,580
+....the global impact of a hellish invasion
+
+30
+00:01:08,579 --> 00:01:10,289
+[new male voice] Very tough i have to say for me personally
+
+31
+00:01:10,290 --> 00:01:12,160
+very tough, tough time
+
+32
+00:01:12,180 --> 00:01:14,110
+A lot of money is spent when you make something and
+
+33
+00:01:14,129 --> 00:01:15,868
+then you decide to move away from it so
+
+34
+00:01:15,868 --> 00:01:17,879
+we have to do this...we have to do this
+
+35
+00:01:17,879 --> 00:01:20,179
+and it has been great!
+
+36
+00:01:21,379 --> 00:01:23,539
+Our asses were out there, but why not? I'd rather go down
+
+37
+00:01:23,540 --> 00:01:25,660
+swinging for the fences than bunting.
+
+38
+00:01:27,500 --> 00:01:29,760
+You can be really self-aware and make it work
+
+39
+00:01:29,760 --> 00:01:30,980
+[new male voice] Because you're expecting
+
+40
+00:01:30,989 --> 00:01:33,299
+the game to be like "Maybe it's a cult...
+
+41
+00:01:33,299 --> 00:01:35,299
+"...and it's a secret and no one knows"
+
+42
+00:01:35,299 --> 00:01:36,879
+But how about as soon as you walk in
+
+43
+00:01:36,900 --> 00:01:38,700
+it's playing on a fucking megaphone like
+
+44
+00:01:38,700 --> 00:01:41,280
+"We need volunteers for the Revenant"
+
+45
+00:01:41,280 --> 00:01:43,680
+"Program. We're going to turn people into Demons!"
+
+46
+00:02:18,020 --> 00:02:20,090
+When it finally went into the box
+
+47
+00:02:20,090 --> 00:02:21,680
+we were like "Don't breathe on it!"
+
+48
+00:02:21,680 --> 00:02:23,760
+"It works....don't even look at it!"
+

@@ -1,0 +1,2724 @@
+1
+00:00:00,000 --> 00:00:02,549
+I would say that the beginning of the
+
+2
+00:00:02,549 --> 00:00:04,798
+game maybe changed, like significantly
+
+3
+00:00:04,799 --> 00:00:07,560
+changed, 4 or 5 times. Yyou know that the
+
+4
+00:00:07,559 --> 00:00:10,199
+beginning of a game is always....
+
+5
+00:00:10,199 --> 00:00:12,178
+You could almost do an entire
+
+6
+00:00:12,179 --> 00:00:15,570
+documentary on just how DOOM started
+
+7
+00:00:21,100 --> 00:00:22,839
+they say that the first 15
+
+8
+00:00:22,859 --> 00:00:24,119
+minutes of the movie the audience is
+
+9
+00:00:24,118 --> 00:00:25,768
+very receptive. They're like okay what
+
+10
+00:00:25,768 --> 00:00:27,479
+world do you want me to go to.
+
+11
+00:00:27,480 --> 00:00:28,280
+Like let's go there
+
+12
+00:00:31,260 --> 00:00:34,560
+Take the idea that i am here to kill  demons and that's the story
+
+13
+00:00:37,109 --> 00:00:38,670
+it's making a statement it really is
+
+14
+00:00:38,670 --> 00:00:41,350
+about DOOM about what players want
+
+15
+00:00:43,189 --> 00:00:45,018
+And you're either on board with us or
+
+16
+00:00:45,020 --> 00:00:46,420
+you're not on board with us.
+
+17
+00:01:02,039 --> 00:01:03,479
+Opening levels come in all shapes and
+
+18
+00:01:03,479 --> 00:01:05,188
+sizes but most of them follow a
+
+19
+00:01:05,188 --> 00:01:07,169
+relatively tried-and-true template.
+
+20
+00:01:07,170 --> 00:01:09,570
+Introduce the story, teach the player how
+
+21
+00:01:09,569 --> 00:01:11,429
+to play and set the tone for the
+
+22
+00:01:11,430 --> 00:01:12,720
+adventure ahead.
+
+23
+00:01:12,719 --> 00:01:14,429
+Tirst impressions are critical for most
+
+24
+00:01:14,430 --> 00:01:15,930
+games. But for a game with the amount of
+
+25
+00:01:15,930 --> 00:01:18,090
+cultural baggage ias DOOM  this was even
+
+26
+00:01:18,090 --> 00:01:20,490
+more important. Not only was DOOM the
+
+27
+00:01:20,489 --> 00:01:22,798
+latest game is series that defined the
+
+28
+00:01:22,799 --> 00:01:24,868
+very genre it was in, but it was also
+
+29
+00:01:24,868 --> 00:01:27,688
+called "DOOM" - the four had been thrown out
+
+30
+00:01:27,688 --> 00:01:29,699
+along with the 1.0 version
+
+31
+00:01:29,700 --> 00:01:31,228
+and with so much of the development
+
+32
+00:01:31,228 --> 00:01:33,179
+focused on ensuring the game lived up to
+
+33
+00:01:33,179 --> 00:01:35,789
+its name, the story of DOOM always took
+
+34
+00:01:35,789 --> 00:01:38,009
+a backseat. In fact the story was
+
+35
+00:01:38,009 --> 00:01:39,719
+something the team struggled with for
+
+36
+00:01:39,719 --> 00:01:42,209
+the entirety of DOOM's development.
+
+37
+00:01:42,209 --> 00:01:43,679
+We struggled with the story, we
+
+38
+00:01:43,679 --> 00:01:45,240
+really did. It was the last thing to fall
+
+39
+00:01:45,239 --> 00:01:47,519
+in place because the game is going first.
+
+40
+00:01:47,519 --> 00:01:49,200
+all levels fall in place, secret fall into
+
+41
+00:01:49,200 --> 00:01:50,759
+place, got the glory kills got all the
+
+42
+00:01:50,759 --> 00:01:52,649
+stuff like "how the fuck are we  gonna put a story on this?"
+
+43
+00:01:52,649 --> 00:01:53,759
+You know what i mean?
+
+44
+00:01:53,759 --> 00:01:55,079
+And like I said it was getting in the way
+
+45
+00:01:55,079 --> 00:01:56,908
+because you stopped the player and
+
+46
+00:01:56,909 --> 00:01:58,530
+start trying to justify why he hates
+
+47
+00:01:58,530 --> 00:01:59,909
+demons and they get everybody loses
+
+48
+00:01:59,909 --> 00:02:02,340
+their shit. All stories they say the bad
+
+49
+00:02:02,340 --> 00:02:03,750
+guys have to take something away from
+
+50
+00:02:03,750 --> 00:02:05,609
+the good guy in order for the audience
+
+51
+00:02:05,609 --> 00:02:07,170
+to understand that the bad guy is bad.
+
+52
+00:02:07,170 --> 00:02:09,390
+They took away Robocop's life
+
+53
+00:02:09,389 --> 00:02:12,119
+essentially you know the the bad guy
+
+54
+00:02:12,120 --> 00:02:13,650
+takes away his ability to be with his
+
+55
+00:02:13,650 --> 00:02:15,810
+family. And you see that when he
+
+56
+00:02:15,810 --> 00:02:18,598
+murders them. So we were like oh the demons...
+
+57
+00:02:18,598 --> 00:02:21,780
+well...you land on Mars and then you
+
+58
+00:02:21,780 --> 00:02:23,310
+don't know it's demons yet and then you find
+
+59
+00:02:23,310 --> 00:02:24,810
+out its demons, and oh my god, and
+
+60
+00:02:24,810 --> 00:02:26,539
+somebody even asks  "What do you think they are?"
+
+61
+00:02:26,539 --> 00:02:30,199
+and they're like  "I think they're demons..."
+
+62
+00:02:30,209 --> 00:02:32,969
+That's what we did we laughed because
+
+63
+00:02:32,969 --> 00:02:34,530
+that is ridiculous you know?
+
+64
+00:02:34,530 --> 00:02:37,259
+Like who cares?
+
+65
+00:02:37,259 --> 00:02:39,389
+"They have pointy teeth, they might be vampires..."
+
+66
+00:02:40,800 --> 00:02:41,980
+We had versions that took
+
+67
+00:02:42,000 --> 00:02:44,699
+minutes to get to the killing the first
+
+68
+00:02:44,699 --> 00:02:46,768
+demon because kind of as a developer you
+
+69
+00:02:46,769 --> 00:02:49,408
+feel like we have to explain
+
+70
+00:02:49,408 --> 00:02:50,699
+stuff to the audience how are they going
+
+71
+00:02:50,699 --> 00:02:51,780
+to know what to do.
+
+72
+00:02:51,780 --> 00:02:53,519
+And even when run it
+
+73
+00:02:53,519 --> 00:02:55,200
+through people outside of the
+
+74
+00:02:55,199 --> 00:02:57,628
+studio that you get feedback like
+
+75
+00:02:57,628 --> 00:02:59,759
+"Well what's my justification for doing this?"
+
+76
+00:02:59,759 --> 00:03:02,068
+We actually even had
+
+77
+00:03:02,068 --> 00:03:03,780
+a focus tester ask
+
+78
+00:03:03,780 --> 00:03:05,780
+"Why do I want to kill demons? You need to tell my why"
+
+79
+00:03:05,789 --> 00:03:07,468
+Those are the easy ones, you're like...
+
+80
+00:03:07,468 --> 00:03:10,919
+It's a flippin demon! You'll want to kill it!
+
+81
+00:03:10,919 --> 00:03:13,078
+There was a tutorial level where a
+
+82
+00:03:13,079 --> 00:03:14,760
+guy stood in front of you and
+
+83
+00:03:14,759 --> 00:03:17,699
+told you what to do, how things worked
+
+84
+00:03:17,699 --> 00:03:18,958
+that was awful.
+
+85
+00:03:18,959 --> 00:03:21,539
+There's just so much stuff like Olivia
+
+86
+00:03:21,539 --> 00:03:23,250
+lecturing in front of you where she paced
+
+87
+00:03:23,250 --> 00:03:24,598
+back and forth and you're stuck in your
+
+88
+00:03:24,598 --> 00:03:26,938
+chair and then we we wanted it like
+
+89
+00:03:26,938 --> 00:03:28,530
+you'd find out they murdered
+
+90
+00:03:28,530 --> 00:03:29,938
+someone or that they took
+
+91
+00:03:29,938 --> 00:03:31,469
+something away from you, and all of it was
+
+92
+00:03:31,469 --> 00:03:33,239
+like oh my god like who cares?
+
+93
+00:03:33,239 --> 00:03:36,120
+Every time we did something in a more...
+
+94
+00:03:36,120 --> 00:03:37,650
+We added more exposition and we tried to
+
+95
+00:03:37,650 --> 00:03:39,269
+explain ourselves a little bit more we
+
+96
+00:03:39,269 --> 00:03:41,938
+tried to lead the
+
+97
+00:03:41,938 --> 00:03:43,949
+audience by the nose or by the
+
+98
+00:03:43,949 --> 00:03:45,810
+hands or something it never felt right.
+
+99
+00:03:45,810 --> 00:03:47,280
+There was a moment where we were working
+
+100
+00:03:47,280 --> 00:03:49,530
+on it where we kind came to the
+
+101
+00:03:49,530 --> 00:03:51,090
+thing like, somebody who knows
+
+102
+00:03:51,090 --> 00:03:53,459
+DOOM, they're coming to this with the
+
+103
+00:03:53,459 --> 00:03:55,799
+attitude "i'm here to kill demons".
+
+104
+00:03:55,799 --> 00:03:57,510
+The exact same thing that the player is
+
+105
+00:03:57,509 --> 00:03:58,739
+thinking, because there's always this
+
+106
+00:03:58,739 --> 00:04:00,870
+idea that in DOOM the player
+
+107
+00:04:00,870 --> 00:04:03,060
+feels like the DOOM marine
+
+108
+00:04:03,060 --> 00:04:05,310
+So lets take the idea that
+
+109
+00:04:05,310 --> 00:04:08,310
+"i'm here to kill demons" and that's the story.
+
+110
+00:04:08,310 --> 00:04:11,340
+The beginning of DOOM 2016 was
+
+111
+00:04:11,340 --> 00:04:14,400
+really informed by where we were
+
+112
+00:04:14,400 --> 00:04:16,590
+with the development of the entire
+
+113
+00:04:16,589 --> 00:04:18,388
+game. And again this is
+
+114
+00:04:18,389 --> 00:04:19,829
+pretty far in the development. We're
+
+115
+00:04:19,829 --> 00:04:21,810
+talking like probably in the last year
+
+116
+00:04:21,810 --> 00:04:24,019
+of development maybe even less maybe in
+
+117
+00:04:24,019 --> 00:04:25,479
+the last nine months or so.
+
+118
+00:04:25,480 --> 00:04:27,780
+The story of the first level of Doom is in fact the
+
+119
+00:04:27,779 --> 00:04:30,029
+story of the team finding the tone of
+
+120
+00:04:30,029 --> 00:04:32,250
+the game. The combat loop of DOOM had
+
+121
+00:04:32,250 --> 00:04:34,050
+been discovered relatively early on,
+
+122
+00:04:34,050 --> 00:04:35,728
+we'll talk more about that in the next video,
+
+123
+00:04:35,728 --> 00:04:37,918
+but the tone of the game, it's wonderful
+
+124
+00:04:37,918 --> 00:04:41,250
+self-aware narrative, that  came much later.
+
+125
+00:04:41,250 --> 00:04:42,779
+It all started with what many might
+
+126
+00:04:42,779 --> 00:04:45,239
+consider an entirely disposable part of
+
+127
+00:04:45,240 --> 00:04:47,400
+the package. When Hugo and external
+
+128
+00:04:47,399 --> 00:04:51,079
+writer Adam Gascoigne tried to write the Codex.
+
+129
+00:04:51,079 --> 00:04:52,719
+Adam Gascoigne came in to help
+
+130
+00:04:52,740 --> 00:04:54,870
+us out with the writing
+
+131
+00:04:54,870 --> 00:04:57,360
+and Adam would would pitch
+
+132
+00:04:57,360 --> 00:04:59,400
+We'd give him that direction and he'd do
+
+133
+00:04:59,399 --> 00:05:02,008
+some stuff. I wanted
+
+134
+00:05:02,009 --> 00:05:05,699
+the Codex to be like a like a nerd Bible
+
+135
+00:05:05,699 --> 00:05:07,228
+like basically what you're doing is
+
+136
+00:05:07,228 --> 00:05:09,149
+you're a comic con geek going around the
+
+137
+00:05:09,149 --> 00:05:10,888
+world filling it with pages. So by the
+
+138
+00:05:10,889 --> 00:05:12,329
+end you could sit there and go through
+
+139
+00:05:12,329 --> 00:05:14,409
+it till your heart's content
+
+140
+00:05:14,668 --> 00:05:17,218
+I love that stuff, on Pacific Rim there's
+
+141
+00:05:17,218 --> 00:05:18,060
+a forum
+
+142
+00:05:18,060 --> 00:05:20,310
+and you know what kind of metal Gipsy
+
+143
+00:05:20,310 --> 00:05:22,139
+Danger is made out of and who made his
+
+144
+00:05:22,139 --> 00:05:23,910
+engine you know the Gundam universe
+
+145
+00:05:23,910 --> 00:05:25,770
+they just nerd out about that stuff i love
+
+146
+00:05:25,769 --> 00:05:28,079
+that shit. I could read that shit for days
+
+147
+00:05:28,079 --> 00:05:30,209
+[Danny] The original codex was a guidebook to DOOM
+
+148
+00:05:30,209 --> 00:05:32,609
+A sacred scripture for all things
+
+149
+00:05:32,610 --> 00:05:35,520
+DOOM but according to Hugo it was too dry
+
+150
+00:05:35,519 --> 00:05:37,949
+even to his geekish sensibilities so
+
+151
+00:05:37,949 --> 00:05:40,168
+Hugo did what he did whenever he hit a
+
+152
+00:05:40,168 --> 00:05:41,519
+creative brick wall
+
+153
+00:05:41,519 --> 00:05:43,500
+he looked to other forms of art for
+
+154
+00:05:43,500 --> 00:05:45,569
+inspiration. And for Hugo and Marty
+
+155
+00:05:45,660 --> 00:05:49,400
+inspiration came from the strangest of places.
+
+156
+00:05:49,399 --> 00:05:51,739
+Hugo is great with movie
+
+157
+00:05:51,750 --> 00:05:54,209
+references and probably one of the
+
+158
+00:05:54,209 --> 00:05:57,659
+early ones where that self-awareness
+
+159
+00:05:57,660 --> 00:06:02,080
+began to really take shape was "The Last Boyscout"
+
+160
+00:06:02,079 --> 00:06:02,919
+It came out a time when
+
+161
+00:06:02,939 --> 00:06:04,709
+the whole concept of doing a buddy cop
+
+162
+00:06:04,709 --> 00:06:06,180
+movie action movie with Bruce Willis was
+
+163
+00:06:06,180 --> 00:06:08,340
+so cliche because he we already
+
+164
+00:06:08,339 --> 00:06:09,478
+had lethal weapons and die
+
+165
+00:06:09,478 --> 00:06:11,699
+hards. And the writer I believe is
+
+166
+00:06:11,699 --> 00:06:14,728
+Shane Black I think he did an amazing
+
+167
+00:06:14,728 --> 00:06:18,180
+job in that he knew it was cliche and he
+
+168
+00:06:18,180 --> 00:06:20,040
+let the audience know that they knew
+
+169
+00:06:20,040 --> 00:06:22,110
+And and they would make
+
+170
+00:06:22,110 --> 00:06:23,460
+these little comments and I remember as
+
+171
+00:06:23,459 --> 00:06:24,870
+a kid it just made it all okay
+
+172
+00:06:24,870 --> 00:06:27,840
+It was so smart. Being self-aware.
+
+173
+00:06:27,839 --> 00:06:29,879
+There was this wonderful scene where the bad guy
+
+174
+00:06:29,879 --> 00:06:32,250
+Milo walks in and he's like you know
+
+175
+00:06:32,250 --> 00:06:33,750
+"We should introduce ourselves" and Bruce Willis is
+
+176
+00:06:33,750 --> 00:06:35,250
+smoking a cigarette you know this was when
+
+177
+00:06:35,250 --> 00:06:36,329
+Bruce Willis was awesome!
+
+178
+00:06:36,329 --> 00:06:40,879
+And Bruce Willis says "So you're the bad guy right?"
+
+179
+00:06:40,879 --> 00:06:42,379
+he's like "I am the bad guy"
+
+180
+00:06:42,379 --> 00:06:45,500
+"So I guess I'm supposed to  be scared or something like that?"
+
+181
+00:06:45,500 --> 00:06:46,360
+and he's like
+
+182
+00:06:46,360 --> 00:06:49,139
+"Yea something like that. I'll quake in my boots in a minute"
+
+183
+00:06:49,139 --> 00:06:50,699
+And as a fan I was just like this is
+
+184
+00:06:50,699 --> 00:06:52,319
+awesome you know because i was totally
+
+185
+00:06:52,319 --> 00:06:54,418
+ready for some super cliche scene and he
+
+186
+00:06:54,418 --> 00:06:56,250
+just took the sauce right out of it.
+
+187
+00:06:56,250 --> 00:06:59,100
+And it's this great moment in a
+
+188
+00:06:59,100 --> 00:07:01,860
+massive Hollywood, you know movie at the
+
+189
+00:07:01,860 --> 00:07:03,720
+time it was one of the biggest
+
+190
+00:07:03,720 --> 00:07:04,830
+I think it was the most expensive
+
+191
+00:07:04,829 --> 00:07:06,659
+script ever optioned at that time.
+
+192
+00:07:06,660 --> 00:07:10,220
+It was such a good example and again
+
+193
+00:07:10,220 --> 00:07:11,960
+Hugo through it out there
+
+194
+00:07:11,959 --> 00:07:13,729
+Yea, you can be really self-aware and
+
+195
+00:07:13,730 --> 00:07:15,050
+and make it work
+
+196
+00:07:15,050 --> 00:07:17,240
+[Hugo] we were like "Everybody knows!"
+
+197
+00:07:17,240 --> 00:07:19,069
+We know, they know
+
+198
+00:07:19,069 --> 00:07:21,110
+everybody knows. So let's
+
+199
+00:07:21,110 --> 00:07:23,270
+play with that let's say, what if the
+
+200
+00:07:23,269 --> 00:07:26,689
+corporation was totally, because
+
+201
+00:07:26,689 --> 00:07:28,310
+you're expecting the game to be like
+
+202
+00:07:28,310 --> 00:07:30,889
+"Maybe it's a cult, and it's a secret"
+
+203
+00:07:30,889 --> 00:07:32,750
+"and no one knows" but how about as soon as
+
+204
+00:07:32,750 --> 00:07:34,399
+as you walk in it's playing on a fucking
+
+205
+00:07:34,399 --> 00:07:37,099
+megaphone like "we need volunteers for"
+
+206
+00:07:37,100 --> 00:07:38,780
+"the Revenant program we're going to turn"
+
+207
+00:07:38,779 --> 00:07:40,759
+"people into demons!"
+
+208
+00:07:42,439 --> 00:07:43,839
+And the idea was
+
+209
+00:07:43,839 --> 00:07:45,159
+The idea was hell had already taken over
+
+210
+00:07:45,160 --> 00:07:47,140
+so you don't like you're talking to somebody who's
+
+211
+00:07:47,149 --> 00:07:48,589
+like full-blown nuts about something
+
+212
+00:07:48,589 --> 00:07:50,000
+they got that glassy look in their eyes
+
+213
+00:07:50,000 --> 00:07:51,110
+and you're like "you're really scaring me with the"
+
+214
+00:07:51,110 --> 00:07:52,850
+"stuff you're saying right now" so it was
+
+215
+00:07:52,850 --> 00:07:54,800
+a little bit of a play on.
+
+216
+00:07:54,800 --> 00:07:57,710
+Just being so 'out and about' with your
+
+217
+00:07:57,709 --> 00:08:00,859
+crazy that seemed very liberating
+
+218
+00:08:00,860 --> 00:08:02,300
+for me and for everybody.
+
+219
+00:08:02,300 --> 00:08:03,889
+Adam comes back because he would stay
+
+220
+00:08:03,889 --> 00:08:06,620
+with us for a couple weeks at a time and
+
+221
+00:08:06,620 --> 00:08:08,240
+I pitched him. I was like
+
+222
+00:08:08,240 --> 00:08:10,550
+They know. You know?
+
+223
+00:08:10,550 --> 00:08:12,740
+And they're proud of it because let's
+
+224
+00:08:12,740 --> 00:08:14,240
+say the demons have already...
+
+225
+00:08:14,240 --> 00:08:15,740
+...because hell influences everybody
+
+226
+00:08:15,740 --> 00:08:17,240
+so they've already become members of
+
+227
+00:08:17,240 --> 00:08:19,790
+the cult and they're not even aware of
+
+228
+00:08:19,790 --> 00:08:21,080
+how crazy they are. We painted this
+
+229
+00:08:21,079 --> 00:08:23,329
+scene to sum up the way it was
+
+230
+00:08:23,329 --> 00:08:25,459
+is that they have board meetings about
+
+231
+00:08:25,459 --> 00:08:27,978
+human sacrifices to summon the gods
+
+232
+00:08:27,978 --> 00:08:30,259
+or who's gonna donate their
+
+233
+00:08:30,259 --> 00:08:32,450
+hearts to the summoning of
+
+234
+00:08:32,450 --> 00:08:34,310
+the next barron and that they have
+
+235
+00:08:34,309 --> 00:08:36,259
+interns applying for this stuff and
+
+236
+00:08:36,259 --> 00:08:38,389
+there's posters in the lunchroom
+
+237
+00:08:38,389 --> 00:08:40,788
+mancubus programs and
+
+238
+00:08:40,788 --> 00:08:42,168
+we just kept going with it.
+
+239
+00:08:42,168 --> 00:08:44,088
+Adam is cracking up
+
+240
+00:08:44,089 --> 00:08:46,250
+and you know it's right when...it's very much
+
+241
+00:08:46,250 --> 00:08:47,809
+like being a comedian. You kind of put it
+
+242
+00:08:47,809 --> 00:08:49,099
+out there and see if the audience laughs.
+
+243
+00:08:49,100 --> 00:08:51,589
+So we put it out there
+
+244
+00:08:51,589 --> 00:08:53,089
+Adam is like "dude this is...
+
+245
+00:08:53,089 --> 00:08:54,589
+"this is awesome"
+
+246
+00:08:54,589 --> 00:08:56,420
+"we can do this you know?"
+
+247
+00:08:56,419 --> 00:08:58,909
+So he comes back and he's like
+
+248
+00:08:58,909 --> 00:09:00,350
+"I'm gonna take the first half of the Codex entries"
+
+249
+00:09:00,350 --> 00:09:01,700
+Because they come in stages
+
+250
+00:09:01,700 --> 00:09:03,680
+The first one you unlock on
+
+251
+00:09:03,679 --> 00:09:05,359
+the imp or whatever or the
+
+252
+00:09:05,360 --> 00:09:07,190
+facility, is going to be the
+
+253
+00:09:07,190 --> 00:09:09,290
+straight-line because most cults they're
+
+254
+00:09:09,289 --> 00:09:10,759
+kind of normal up-front. There like
+
+255
+00:09:10,759 --> 00:09:12,529
+"yes everything's fine it's about finding"
+
+256
+00:09:12,529 --> 00:09:15,079
+"yourself and no, there's not weirdness going on"
+
+257
+00:09:15,080 --> 00:09:16,720
+And then you get to
+
+258
+00:09:16,720 --> 00:09:19,029
+the seventh level, four years in and
+
+259
+00:09:19,029 --> 00:09:21,579
+you get handed the book and you're like
+
+260
+00:09:21,600 --> 00:09:23,740
+"this shit is nuts" like "what is going on?"
+
+261
+00:09:24,000 --> 00:09:26,190
+so he's like let's make the second
+
+262
+00:09:26,190 --> 00:09:29,490
+entry be like the black book that
+
+263
+00:09:29,490 --> 00:09:31,830
+only certain advocates can get and
+
+264
+00:09:31,830 --> 00:09:34,200
+will reveal the crazy to them and
+
+265
+00:09:34,200 --> 00:09:35,700
+The first one he gave me was the
+
+266
+00:09:35,700 --> 00:09:37,470
+one "curl up in a ball and basically kiss"
+
+267
+00:09:37,470 --> 00:09:39,660
+"your ass good-bye" if you get attacked by and imp
+
+268
+00:09:39,659 --> 00:09:41,399
+Dude I lost it! I'm like this is it
+
+269
+00:09:41,399 --> 00:09:43,919
+You found the gear, break the shifter off
+
+270
+00:09:43,919 --> 00:09:45,449
+we are staying here
+
+271
+00:09:45,450 --> 00:09:47,580
+And so he kept doing
+
+272
+00:09:47,580 --> 00:09:49,830
+that and it was like, slightly normal
+
+273
+00:09:49,830 --> 00:09:51,660
+corporate agenda,
+
+274
+00:09:51,659 --> 00:09:54,449
+oh this is the access to the black book
+
+275
+00:09:54,450 --> 00:09:55,980
+which is totally fucking nuts because
+
+276
+00:09:55,980 --> 00:09:57,389
+that was right about the time when the
+
+277
+00:09:57,389 --> 00:09:58,919
+whole story kind of fell into place like
+
+278
+00:09:58,919 --> 00:10:01,679
+literally that was about when from
+
+279
+00:10:01,679 --> 00:10:04,439
+that came "demonic invasion progress"
+
+280
+00:10:04,440 --> 00:10:05,880
+All this happened at the
+
+281
+00:10:05,879 --> 00:10:07,320
+same time because believe me our hair
+
+282
+00:10:07,320 --> 00:10:08,940
+was on fire because the story
+
+283
+00:10:08,940 --> 00:10:10,040
+still doesn't work and
+
+284
+00:10:10,039 --> 00:10:11,360
+[Danny] How much time is left?
+
+285
+00:10:11,360 --> 00:10:13,820
+oh my god....it'll make us seem
+
+286
+00:10:13,820 --> 00:10:15,560
+irresponsible if I tell you how much
+
+287
+00:10:15,570 --> 00:10:18,120
+time was left. And I gotta be honest
+
+288
+00:10:18,120 --> 00:10:20,580
+Our asses were our there, I mean we were
+
+289
+00:10:20,580 --> 00:10:22,259
+putting ourselves out there.
+
+290
+00:10:22,259 --> 00:10:24,360
+But why not? I mean when you're
+
+291
+00:10:24,360 --> 00:10:25,830
+when you're making something
+
+292
+00:10:25,830 --> 00:10:27,720
+i'd rather go down swinging for the
+
+293
+00:10:27,720 --> 00:10:30,600
+fences than bunting like fuck that.
+
+294
+00:10:30,600 --> 00:10:32,460
+Like who cares, i'm not hitting singles
+
+295
+00:10:32,460 --> 00:10:35,550
+like I don't give a shit
+
+296
+00:10:35,549 --> 00:10:37,859
+Home run. Go all the way.
+
+297
+00:10:37,860 --> 00:10:39,570
+[Danny] Was there a worry that you were
+
+298
+00:10:39,570 --> 00:10:42,120
+making a joke out of this,
+
+299
+00:10:42,120 --> 00:10:43,830
+I mean it's DOOM, people love
+
+300
+00:10:43,830 --> 00:10:45,360
+this thing and they've loved it for
+
+301
+00:10:45,360 --> 00:10:47,129
+20 years and then and you're putting
+
+302
+00:10:47,129 --> 00:10:49,200
+all this is in. Was there a
+
+303
+00:10:49,200 --> 00:10:50,730
+little bit of reticence like "oh maybe
+
+304
+00:10:50,730 --> 00:10:52,259
+we're doing too much with this?"
+
+305
+00:10:52,259 --> 00:10:54,840
+I think the brand was so easy to work with
+
+306
+00:10:54,840 --> 00:10:57,480
+it was like the most pliable clay for a
+
+307
+00:10:57,480 --> 00:10:59,340
+sculptor to work with.
+
+308
+00:10:59,340 --> 00:11:01,320
+It's DOOM. Every time we worried about that
+
+309
+00:11:01,320 --> 00:11:02,970
+stuff which is totally fucking valid
+
+310
+00:11:02,970 --> 00:11:05,940
+you look at the sprites going *vomit* and
+
+311
+00:11:05,940 --> 00:11:07,800
+you know what I mean?
+
+312
+00:11:07,799 --> 00:11:09,500
+[laughter]
+
+313
+00:11:09,500 --> 00:11:12,279
+We could do anything. I mean have you
+
+314
+00:11:12,279 --> 00:11:14,199
+seen the stuff that goes on in DOOM?
+
+315
+00:11:14,220 --> 00:11:15,570
+We'd just play a game and
+
+316
+00:11:15,570 --> 00:11:18,090
+I'm like, yeah he's got a rabbit....
+
+317
+00:11:18,659 --> 00:11:19,899
+Like who cares?
+
+318
+00:11:19,919 --> 00:11:22,339
+There's a rabbit on a stake in one of the games.
+
+319
+00:11:22,340 --> 00:11:24,040
+Let's just go to town
+
+320
+00:11:27,200 --> 00:11:29,100
+With a clear direction in mind Hugo and
+
+321
+00:11:29,100 --> 00:11:30,870
+the team went back to the opening level
+
+322
+00:11:30,870 --> 00:11:32,698
+with a hatchet. Cutting what no longer
+
+323
+00:11:32,698 --> 00:11:34,740
+worked and adding the flavor of the new
+
+324
+00:11:34,740 --> 00:11:36,690
+self-aware tone. What we're going to do
+
+325
+00:11:36,690 --> 00:11:38,339
+next is take you on a creative journey
+
+326
+00:11:38,339 --> 00:11:40,800
+through that opening level. Rising out of
+
+327
+00:11:40,799 --> 00:11:43,078
+the sarcophagus, grabbing your candlelit
+
+328
+00:11:43,078 --> 00:11:45,539
+suit, the glory kill tutorial, engaging
+
+329
+00:11:45,539 --> 00:11:47,610
+the first gore nest, and on a short elevator
+
+330
+00:11:47,610 --> 00:11:50,399
+ride to Mars. A series of rooms that can
+
+331
+00:11:50,399 --> 00:11:52,409
+be completed in a couple of minutes but
+
+332
+00:11:52,409 --> 00:11:54,568
+rooms that took the team every ounce of
+
+333
+00:11:54,568 --> 00:11:56,399
+what little energy and production time
+
+334
+00:11:56,399 --> 00:11:58,139
+they had left on the project
+
+335
+00:11:58,220 --> 00:12:00,080
+They say that the first 15 minutes of the movie
+
+336
+00:12:00,089 --> 00:12:01,920
+the audience is very receptive and
+
+337
+00:12:01,919 --> 00:12:03,809
+they're very open. They're like
+
+338
+00:12:03,809 --> 00:12:05,399
+"okay what world you want me to go to?"
+
+339
+00:12:05,399 --> 00:12:07,078
+Let's go there. You have about 15 minutes
+
+340
+00:12:07,078 --> 00:12:08,849
+to convince me to what the world is
+
+341
+00:12:08,850 --> 00:12:10,860
+And then if you break
+
+342
+00:12:10,860 --> 00:12:12,990
+that later on the audience gets
+
+343
+00:12:12,990 --> 00:12:14,579
+super upset. So we knew that
+
+344
+00:12:14,578 --> 00:12:15,870
+the opening, we treated it like that.
+
+345
+00:12:15,870 --> 00:12:17,549
+We're going to set the
+
+346
+00:12:17,549 --> 00:12:18,990
+tone for the whole game. It's an action
+
+347
+00:12:18,990 --> 00:12:20,669
+first game so the beginning has to be
+
+348
+00:12:20,669 --> 00:12:22,469
+action. If we open with a tutorial
+
+349
+00:12:22,470 --> 00:12:23,730
+where people are talking they're gonna
+
+350
+00:12:23,730 --> 00:12:25,259
+be like "okay it's that type of game"
+
+351
+00:12:25,259 --> 00:12:26,818
+So there's the little scripture in the
+
+352
+00:12:26,818 --> 00:12:28,349
+beginning that says "may we never"
+
+353
+00:12:28,350 --> 00:12:30,209
+"need you again bla bla bla"
+
+354
+00:12:30,208 --> 00:12:31,500
+That kind of set the tone that there's
+
+355
+00:12:31,500 --> 00:12:34,049
+this biblical biblical force the DOOM marine
+
+356
+00:12:34,049 --> 00:12:36,120
+it's got that flavoring
+
+357
+00:12:36,120 --> 00:12:38,850
+and hopefully people tasted the cheese
+
+358
+00:12:38,850 --> 00:12:41,159
+There's a layering of cheese
+
+359
+00:12:41,159 --> 00:12:42,958
+to all this and we just wanted
+
+360
+00:12:42,958 --> 00:12:44,849
+people to exhale and be
+
+361
+00:12:44,850 --> 00:12:46,649
+like let's just have fun. Like seriously.
+
+362
+00:12:46,649 --> 00:12:48,958
+We know this is ridiculous, you know
+
+363
+00:12:48,958 --> 00:12:51,388
+this is ridiculous, good? Can we
+
+364
+00:12:51,389 --> 00:12:52,740
+shake hands on this and just have
+
+365
+00:12:52,740 --> 00:12:55,350
+fun? Cool. So it starts with that
+
+366
+00:12:55,350 --> 00:12:57,389
+little scripture and Corax Tablets
+
+367
+00:12:57,389 --> 00:12:59,159
+which again the "Corax Tablet"s?
+
+368
+00:12:59,159 --> 00:13:02,079
+Like what are the Corax Tablets. I don't know.
+
+369
+00:13:02,080 --> 00:13:03,660
+They're just awesome
+
+370
+00:13:03,659 --> 00:13:06,809
+They're just sme awesomee text somewhere that
+
+371
+00:13:06,809 --> 00:13:08,129
+says awesome stuff on it.
+
+372
+00:13:08,129 --> 00:13:09,769
+Totally metal.
+
+373
+00:13:09,799 --> 00:13:11,479
+I grew up with that shit
+
+374
+00:13:11,490 --> 00:13:13,860
+My brother, big-time metalhead
+
+375
+00:13:13,860 --> 00:13:15,300
+mainly listen to the Iron Maiden stuff
+
+376
+00:13:15,299 --> 00:13:16,679
+some of the first drawings I ever made where
+
+377
+00:13:16,679 --> 00:13:18,419
+Iron Maiden album covers.
+
+378
+00:13:18,419 --> 00:13:21,419
+I remember the opening to Iron Maiden's 666
+
+379
+00:13:21,419 --> 00:13:23,129
+song with Vincent Price saying
+
+380
+00:13:23,129 --> 00:13:24,419
+"the number of the beast"
+
+381
+00:13:24,419 --> 00:13:26,039
+I'm like dude the game should start like this
+
+382
+00:13:26,039 --> 00:13:27,539
+this would be awesome
+
+383
+00:13:27,539 --> 00:13:29,549
+[Marty] One of the animators
+
+384
+00:13:29,549 --> 00:13:32,669
+Alan Rogers he was the one that
+
+385
+00:13:32,669 --> 00:13:35,229
+put the zombie there and then....
+
+386
+00:13:35,320 --> 00:13:37,860
+Just the little touches that he grabbed it and then *biting action*
+
+387
+00:13:37,879 --> 00:13:39,720
+And then you smash him on the table
+
+388
+00:13:39,778 --> 00:13:41,220
+[Hugo] Me and Marty are just freaking out to it
+
+389
+00:13:41,220 --> 00:13:42,330
+like oh my god that's awesome
+
+390
+00:13:42,330 --> 00:13:44,180
+put that in the game
+
+391
+00:13:44,179 --> 00:13:46,159
+All those little nuances that's
+
+392
+00:13:46,169 --> 00:13:49,500
+probably the best example of of just
+
+393
+00:13:49,500 --> 00:13:52,360
+when everybody just kind of starts clicking
+
+394
+00:13:52,360 --> 00:13:54,019
+[Hugo] And then as soon as you "land"
+
+395
+00:13:54,028 --> 00:13:55,350
+I love watching the twitch feeds because
+
+396
+00:13:55,350 --> 00:13:57,120
+the players are like "oh oh my god I'm playing"
+
+397
+00:13:57,570 --> 00:13:58,829
+Bbut that was good it was
+
+398
+00:13:58,828 --> 00:14:00,958
+like DOOM - boom! Right in your face.
+
+399
+00:14:00,958 --> 00:14:02,759
+Ruthless efficiency - that was
+
+400
+00:14:02,759 --> 00:14:04,919
+the motto. Say everything
+
+401
+00:14:04,919 --> 00:14:06,929
+with as little as you possibly can if
+
+402
+00:14:06,929 --> 00:14:08,789
+you don't care justdon't even look
+
+403
+00:14:08,789 --> 00:14:10,139
+at it. Don't even look at the echo
+
+404
+00:14:10,139 --> 00:14:12,480
+Who cares what that sarcophagus is...
+
+405
+00:14:12,480 --> 00:14:14,100
+In robocop, in a good action movie
+
+406
+00:14:15,840 --> 00:14:17,240
+the characters learn
+
+407
+00:14:18,100 --> 00:14:20,360
+They learn about who the hero is
+
+408
+00:14:20,370 --> 00:14:22,679
+by what people say about them or to them
+
+409
+00:14:22,679 --> 00:14:25,049
+so in Robocop when you're slowly being
+
+410
+00:14:25,049 --> 00:14:26,729
+made into Robocop which is one of the
+
+411
+00:14:26,730 --> 00:14:29,000
+most phenomenal sequences I've ever seen
+
+412
+00:14:30,419 --> 00:14:31,199
+Everybody knows it
+
+413
+00:14:31,230 --> 00:14:33,149
+it goes black and then they put
+
+414
+00:14:33,149 --> 00:14:34,649
+the lens on and all that stuff
+
+415
+00:14:34,649 --> 00:14:36,120
+We studied that and it was a big
+
+416
+00:14:36,120 --> 00:14:37,980
+inspiration for the intro to DOOM
+
+417
+00:14:38,299 --> 00:14:39,939
+And there's this great scene
+
+418
+00:14:39,940 --> 00:14:42,660
+Just the moments where he goes to
+
+419
+00:14:42,659 --> 00:14:44,069
+shake his hand and he crushes his hand
+
+420
+00:14:44,070 --> 00:14:46,629
+and she's like "1,500 pounds of foot pressure"
+
+421
+00:14:46,639 --> 00:14:48,799
+"He could crush every bone in your body"
+
+422
+00:14:48,799 --> 00:14:52,519
+And you're like "Robocop is just  fucking badass dude" and then the guy
+
+423
+00:14:52,528 --> 00:14:54,149
+goes up to him and he rubs his hand
+
+424
+00:14:54,149 --> 00:14:55,708
+and he says "You're gonna be one bad.."
+
+425
+00:14:55,708 --> 00:14:57,168
+"mother effer" ...
+
+426
+00:14:57,759 --> 00:15:01,399
+I just cursed I don't know why I said "mother effer"
+
+427
+00:15:01,409 --> 00:15:04,199
+Right there you knew Robocop is a badass
+
+428
+00:15:04,200 --> 00:15:05,940
+And the way that go into his
+
+429
+00:15:05,940 --> 00:15:07,440
+tracking and everything they just
+
+430
+00:15:07,440 --> 00:15:11,040
+indirectly are telling the audience
+
+431
+00:15:11,039 --> 00:15:13,139
+robocop super badass everything he does
+
+432
+00:15:13,139 --> 00:15:14,278
+is going to be awesome
+
+433
+00:15:14,278 --> 00:15:15,328
+so when you see him walk into that
+
+434
+00:15:15,328 --> 00:15:17,069
+grocery store and he just aims and
+
+435
+00:15:17,070 --> 00:15:18,390
+shoots there's all this subconscious
+
+436
+00:15:18,389 --> 00:15:20,379
+stuff going on of like "he's just not a guy"
+
+437
+00:15:20,379 --> 00:15:22,179
+Dude he's got a targeting system
+
+438
+00:15:22,179 --> 00:15:23,539
+it's fucking crazy you know like
+
+439
+00:15:23,549 --> 00:15:26,099
+Wait until he picks up that guy, it's 1,500 foot
+
+440
+00:15:26,100 --> 00:15:27,560
+pressure it'll crush his hand.
+
+441
+00:15:27,559 --> 00:15:29,959
+So when you woke up and the way they
+
+442
+00:15:29,970 --> 00:15:32,190
+were bowing to him. You're like "people bowed to me"
+
+443
+00:15:32,190 --> 00:15:33,560
+That's how badass I am
+
+444
+00:15:33,559 --> 00:15:35,778
+And I'm just sleeping
+
+445
+00:15:35,778 --> 00:15:38,480
+And later on when you touch the Slayer's
+
+446
+00:15:38,480 --> 00:15:41,149
+Testaments and they talk
+
+447
+00:15:41,149 --> 00:15:42,679
+about you like you're God I mean that
+
+448
+00:15:42,679 --> 00:15:44,899
+that that is basically that actor
+
+449
+00:15:44,899 --> 00:15:46,610
+leaning forward to Robocop and saying
+
+450
+00:15:46,610 --> 00:15:47,960
+"You're gonna be one bad motherfucker"
+
+451
+00:15:47,960 --> 00:15:49,730
+They're basically saying he's this
+
+452
+00:15:49,730 --> 00:15:51,490
+wrecking machine. We have to seal him away.
+
+453
+00:15:51,639 --> 00:15:53,399
+When you got to the
+
+454
+00:15:53,419 --> 00:15:55,429
+suit, and you walk out...
+
+455
+00:15:56,929 --> 00:15:59,088
+Giant Bomb wrote this great
+
+456
+00:15:59,089 --> 00:16:00,560
+article and listening to their podcast
+
+457
+00:16:00,559 --> 00:16:02,088
+and other people's podcast
+
+458
+00:16:02,089 --> 00:16:04,820
+I love when they get it. Because some people
+
+459
+00:16:04,820 --> 00:16:06,350
+looked at it and thought "this is ridiculous"
+
+460
+00:16:06,350 --> 00:16:08,028
+"Why is this thing with candles?"
+
+461
+00:16:08,028 --> 00:16:09,759
+But I mean, just let it go. Let's just have fun.
+
+462
+00:16:09,759 --> 00:16:10,939
+We knew from the very beginning we
+
+463
+00:16:10,940 --> 00:16:12,950
+wanted to show the suit
+
+464
+00:16:12,950 --> 00:16:14,450
+because we never really wanted
+
+465
+00:16:14,450 --> 00:16:15,980
+to go out of first person. We didn't want
+
+466
+00:16:15,980 --> 00:16:17,389
+to do third-person cutscenes and all
+
+467
+00:16:17,389 --> 00:16:19,370
+that kind of stuff so we wanted you to
+
+468
+00:16:19,370 --> 00:16:21,710
+really understand what you look
+
+469
+00:16:21,710 --> 00:16:24,570
+like and who you were
+
+470
+00:16:24,590 --> 00:16:27,589
+Honestly you need your characters in your story to
+
+471
+00:16:27,589 --> 00:16:29,839
+take the ridiculous seriously. It's ok if
+
+472
+00:16:29,839 --> 00:16:31,430
+I laugh at it - the audience
+
+473
+00:16:31,429 --> 00:16:32,689
+But when they're bowing
+
+474
+00:16:32,690 --> 00:16:33,980
+they're not giggling
+
+475
+00:16:33,980 --> 00:16:36,159
+It's very serious. It's kind of that balance
+
+476
+00:16:36,159 --> 00:16:37,459
+The area where we are the least subtle
+
+477
+00:16:37,460 --> 00:16:39,560
+about it is the whole
+
+478
+00:16:39,559 --> 00:16:41,509
+"demonic invasion in progress"
+
+479
+00:16:41,509 --> 00:16:43,429
+That's ridiculous.
+
+480
+00:16:43,429 --> 00:16:46,120
+It's absurd but there's a...
+
+481
+00:16:46,129 --> 00:16:49,460
+There's a self-awareness there that like,
+
+482
+00:16:49,460 --> 00:16:51,920
+don't pretend this is some
+
+483
+00:16:51,919 --> 00:16:54,199
+plague outbreak or anything like
+
+484
+00:16:54,200 --> 00:16:57,080
+that it's like, these are demons. Yfrom
+
+485
+00:16:57,080 --> 00:16:59,330
+You know is from the jump
+
+486
+00:16:59,330 --> 00:17:01,220
+That's what you're there to do
+
+487
+00:17:01,220 --> 00:17:03,379
+The phrase "demonic invasion in progress" is
+
+488
+00:17:03,379 --> 00:17:05,240
+meant to take, we're saying something
+
+489
+00:17:05,240 --> 00:17:06,769
+to the audience we're literally like
+
+490
+00:17:06,769 --> 00:17:09,259
+handing them a ticket for a train ride
+
+491
+00:17:09,259 --> 00:17:10,519
+and asking "Are you ready to go? Because"
+
+492
+00:17:10,519 --> 00:17:12,359
+"we're going we're going to leave right now!"
+
+493
+00:17:14,240 --> 00:17:16,039
+Forget it. You know they're demons.
+
+494
+00:17:16,039 --> 00:17:17,720
+I know they're demons. We both want to
+
+495
+00:17:17,720 --> 00:17:18,828
+shoot them in the face.
+
+496
+00:17:18,828 --> 00:17:21,529
+Let's just go. And then
+
+497
+00:17:21,529 --> 00:17:23,449
+when the guy comes on and
+
+498
+00:17:23,449 --> 00:17:25,429
+delivers the exposition, the rules,
+
+499
+00:17:25,429 --> 00:17:27,500
+like "Let's talk! I'm going to give you orders"
+
+500
+00:17:27,500 --> 00:17:28,720
+and you're gonna go push buttons.
+
+501
+00:17:28,720 --> 00:17:30,039
+And he just throws it away
+
+502
+00:17:30,049 --> 00:17:32,359
+We purposely wrote that in a
+
+503
+00:17:32,359 --> 00:17:33,889
+way that right at the moment that
+
+504
+00:17:33,890 --> 00:17:35,840
+the audience is like "fuck this guy"
+
+505
+00:17:35,839 --> 00:17:37,679
+and then DOOM Marines is like *push motion*
+
+506
+00:17:37,680 --> 00:17:39,340
+and you say "Nice! I was thinking the same thing!"
+
+507
+00:17:39,339 --> 00:17:41,199
+We want the player to know that we are
+
+508
+00:17:41,210 --> 00:17:43,009
+respecting their intelligence.
+
+509
+00:17:43,009 --> 00:17:45,410
+And we want them to know, that we know,
+
+510
+00:17:45,410 --> 00:17:47,480
+that they're there, to play a DOOM game,
+
+511
+00:17:47,480 --> 00:17:49,460
+and they're there to kill demons. So we
+
+512
+00:17:49,460 --> 00:17:51,120
+wanted to have this connection.
+
+513
+00:17:51,890 --> 00:17:54,080
+But at the same time it's a pretty risky
+
+514
+00:17:54,079 --> 00:17:55,740
+choice, you know?
+
+515
+00:17:55,740 --> 00:17:58,660
+It's a pretty bold decision to say we're
+
+516
+00:17:58,670 --> 00:18:01,009
+going to start some exposition like
+
+517
+00:18:01,009 --> 00:18:03,170
+every other game does and like every
+
+518
+00:18:03,170 --> 00:18:05,180
+player expects and then we're gonna just
+
+519
+00:18:05,180 --> 00:18:07,070
+throw it away. Literally. We're gonna grab
+
+520
+00:18:07,069 --> 00:18:09,169
+it and we're going to throw it aside and
+
+521
+00:18:09,170 --> 00:18:12,110
+is a player going to be okay, because they're
+
+522
+00:18:12,109 --> 00:18:13,549
+not making a choice in that
+
+523
+00:18:13,549 --> 00:18:15,440
+you know? We like to give players tons
+
+524
+00:18:15,440 --> 00:18:16,730
+of choices but this was one of the ones
+
+525
+00:18:16,730 --> 00:18:18,230
+where we basically said we're making a
+
+526
+00:18:18,230 --> 00:18:19,730
+choice for you and you're either on
+
+527
+00:18:19,730 --> 00:18:21,259
+board with us or you're not on board
+
+528
+00:18:21,259 --> 00:18:23,059
+with us. But that notion of
+
+529
+00:18:23,059 --> 00:18:25,730
+respecting the audience enough to
+
+530
+00:18:25,730 --> 00:18:27,589
+say you're here for a purpose
+
+531
+00:18:27,589 --> 00:18:29,059
+it's a little wink and nudge to say
+
+532
+00:18:29,059 --> 00:18:31,279
+we're throwing the story straight out
+
+533
+00:18:31,279 --> 00:18:33,589
+you know and and you're here to kill
+
+534
+00:18:33,589 --> 00:18:35,769
+demons so go kill demons.
+
+535
+00:18:35,769 --> 00:18:38,220
+You get the tutorial, you go through, you get
+
+536
+00:18:38,240 --> 00:18:39,799
+introduced to the first bit of arena
+
+537
+00:18:39,799 --> 00:18:41,269
+combat and that's really interesting
+
+538
+00:18:41,269 --> 00:18:43,369
+because we had a rule if you stand in
+
+539
+00:18:43,369 --> 00:18:45,739
+place your dead. So that imp room is
+
+540
+00:18:45,740 --> 00:18:47,180
+meant to teach you that like you're
+
+541
+00:18:47,180 --> 00:18:48,500
+skipping around your learning the
+
+542
+00:18:48,500 --> 00:18:49,880
+mechanics you're learning the imps which
+
+543
+00:18:49,880 --> 00:18:51,230
+is one of my favorites you meet the first
+
+544
+00:18:51,230 --> 00:18:53,269
+gore nest. What I love about the gore nest
+
+545
+00:18:53,269 --> 00:18:55,519
+is in a lot of games,
+
+546
+00:18:55,519 --> 00:18:56,990
+and we had discussions about this,
+
+547
+00:18:56,990 --> 00:18:58,190
+in a lot of games the gore nest would
+
+548
+00:18:58,190 --> 00:18:59,809
+be something you avoid
+
+549
+00:18:59,809 --> 00:19:01,950
+Like, that's the thing. Avoid the thing...
+
+550
+00:19:01,960 --> 00:19:04,620
+Oh shit I triggered the thing. And it starts the fight.
+
+551
+00:19:04,619 --> 00:19:07,000
+The DOOM marine is looking for a fight
+
+552
+00:19:07,009 --> 00:19:09,379
+It's literally like a t-bone steak. When he sees
+
+553
+00:19:09,380 --> 00:19:11,560
+that thing it's a t-bone steak and he's a tiger
+
+554
+00:19:11,559 --> 00:19:13,980
+Because he loves starting fights.
+
+555
+00:19:14,319 --> 00:19:16,980
+My favorite thing is to kill demons...
+
+556
+00:19:17,000 --> 00:19:19,579
+does this start that? Great!
+
+557
+00:19:19,579 --> 00:19:22,069
+When he goes in and he just rips it apart
+
+558
+00:19:22,069 --> 00:19:23,929
+and the blood pops out
+
+559
+00:19:23,930 --> 00:19:26,060
+there's this huge scream and BOOM
+
+560
+00:19:26,059 --> 00:19:28,009
+the fights off, but we were betting on
+
+561
+00:19:28,009 --> 00:19:29,029
+the audience that that was what they
+
+562
+00:19:29,029 --> 00:19:31,759
+wanted to do. We had 1 or 2
+
+563
+00:19:31,759 --> 00:19:33,589
+people say "oh well should i avoid these?"
+
+564
+00:19:33,589 --> 00:19:35,359
+This is early during tests and
+
+565
+00:19:35,359 --> 00:19:37,129
+we thought I don't think anybody who
+
+566
+00:19:37,130 --> 00:19:39,200
+paid $60 for a DOOM game is going
+
+567
+00:19:39,200 --> 00:19:40,789
+to avoid a fight.
+
+568
+00:19:40,789 --> 00:19:42,980
+And then when you walk through the hallway and she
+
+569
+00:19:42,980 --> 00:19:45,620
+says "We have to contain this.  You could ruin everything"
+
+570
+00:19:45,619 --> 00:19:48,139
+that's that subtle indirect storytelling
+
+571
+00:19:48,140 --> 00:19:51,560
+like just super lean. Very efficient
+
+572
+00:19:51,559 --> 00:19:53,480
+I love the idea that she would say he
+
+573
+00:19:53,480 --> 00:19:54,980
+could ruin everything because again it's
+
+574
+00:19:54,980 --> 00:19:57,019
+the robocop scene of him leaning in
+
+575
+00:19:57,019 --> 00:19:59,059
+saying "you're a bad motherfucker"
+
+576
+00:19:59,059 --> 00:20:01,129
+It's basically saying I'm powerful and
+
+577
+00:20:01,130 --> 00:20:02,720
+I'm feared. Which makes the
+
+578
+00:20:02,720 --> 00:20:04,519
+player feel powerful. And I just kicked
+
+579
+00:20:04,519 --> 00:20:06,819
+the shit out of a bunch of imps
+
+580
+00:20:06,819 --> 00:20:10,099
+And when you get in the elevator was just timing. To get
+
+581
+00:20:10,099 --> 00:20:11,959
+stuff to work in video game development
+
+582
+00:20:11,960 --> 00:20:14,029
+is not easy. To get stuff timed to the
+
+583
+00:20:14,029 --> 00:20:15,829
+point that when the elevator opens the
+
+584
+00:20:15,829 --> 00:20:18,000
+shotgun cocks and the music is right there
+
+585
+00:20:18,000 --> 00:20:20,180
+with the lag-this and the timing of that
+
+586
+00:20:20,180 --> 00:20:23,799
+and the framerate this and holy cow...
+
+587
+00:20:23,900 --> 00:20:26,480
+It's like literally three in the morning at
+
+588
+00:20:26,480 --> 00:20:28,279
+Jerry's desk and we're all
+
+589
+00:20:28,279 --> 00:20:30,559
+sitting there like pale like "the timing is off"
+
+590
+00:20:30,680 --> 00:20:31,970
+"we have to get this fixed"
+
+591
+00:20:32,660 --> 00:20:35,080
+This was Marty's suggestion when he glances down at the
+
+592
+00:20:35,089 --> 00:20:37,519
+body when the guy says "it was worth the"
+
+593
+00:20:37,519 --> 00:20:39,079
+"risk I assure you"
+
+594
+00:20:39,079 --> 00:20:40,129
+"clearly things have gotten out of hand"
+
+595
+00:20:40,130 --> 00:20:42,560
+and then he glanced down, I love that little touch.
+
+596
+00:20:42,559 --> 00:20:44,599
+The the button smash and
+
+597
+00:20:44,599 --> 00:20:47,419
+the shotgun cock is very much
+
+598
+00:20:47,420 --> 00:20:51,710
+him giving the finger to the
+
+599
+00:20:51,710 --> 00:20:54,559
+idea that this this was all worth it
+
+600
+00:20:54,559 --> 00:20:57,259
+It's not. It's demons .
+
+601
+00:20:57,259 --> 00:21:00,759
+And i'm going to kill them all because
+
+602
+00:21:00,769 --> 00:21:02,099
+that's what I do.
+
+603
+00:21:02,099 --> 00:21:04,259
+[Hugo] I mean if I think about it
+
+604
+00:21:04,259 --> 00:21:05,940
+the textures broke in the glass,
+
+605
+00:21:05,940 --> 00:21:07,710
+then we fix the textures, then it broke
+
+606
+00:21:07,710 --> 00:21:09,090
+again, then there's no sound
+
+607
+00:21:09,089 --> 00:21:11,490
+It's just crazy.
+
+608
+00:21:11,490 --> 00:21:13,660
+When it finally went into the box we were like
+
+609
+00:21:13,660 --> 00:21:15,580
+"Don't breathe on it. It works"
+
+610
+00:21:15,579 --> 00:21:16,699
+"Don't even look at it!"
+
+611
+00:21:19,839 --> 00:21:21,609
+The opening level of Doom is a great
+
+612
+00:21:21,609 --> 00:21:23,619
+achievement in design. It does everything
+
+613
+00:21:23,619 --> 00:21:25,479
+on our opening level checklist.
+
+614
+00:21:25,480 --> 00:21:27,490
+It introduces the story, teaches the player
+
+615
+00:21:27,490 --> 00:21:29,319
+how to play, and sets the tone for the
+
+616
+00:21:29,319 --> 00:21:30,970
+adventure ahead. Once you cocked the
+
+617
+00:21:30,970 --> 00:21:32,589
+shotgun and walked out of the elevator
+
+618
+00:21:32,589 --> 00:21:34,149
+you knew what type of game you were
+
+619
+00:21:34,150 --> 00:21:36,220
+playing. And in our next episode we're
+
+620
+00:21:36,220 --> 00:21:38,140
+going to show you how they put all that
+
+621
+00:21:38,140 --> 00:21:40,509
+together. In part 3 we talk to the team
+
+622
+00:21:40,509 --> 00:21:42,849
+about designing combat chess and chat to
+
+623
+00:21:42,849 --> 00:21:44,798
+Mick Gordon about reimagining one of the
+
+624
+00:21:44,799 --> 00:21:47,399
+most iconic video game soundtracks.
+
+625
+00:22:06,279 --> 00:22:07,779
+One of y favorite things about
+
+626
+00:22:07,789 --> 00:22:10,250
+the intro is is it is a great example of
+
+627
+00:22:10,250 --> 00:22:12,079
+the teamwork that was involved in making
+
+628
+00:22:12,079 --> 00:22:14,058
+this because everybody from every
+
+629
+00:22:14,058 --> 00:22:16,160
+department contributed something totally
+
+630
+00:22:16,160 --> 00:22:17,750
+awesome to this it was just constantly
+
+631
+00:22:17,750 --> 00:22:19,250
+getting plused every time somebody put
+
+632
+00:22:19,250 --> 00:22:21,230
+their hands on it. We all high-fived.
+
+633
+00:22:21,230 --> 00:22:23,299
+It was one of the last things we did and
+
+634
+00:22:23,299 --> 00:22:25,190
+I think throughout any project you're
+
+635
+00:22:25,190 --> 00:22:27,230
+learning how to work like a team so by
+
+636
+00:22:27,230 --> 00:22:29,929
+the very end we were a team.
+
+637
+00:22:29,929 --> 00:22:31,370
+We knew how to get shit done and work
+
+638
+00:22:31,369 --> 00:22:33,769
+together and I mean as painful as was to
+
+639
+00:22:33,769 --> 00:22:35,509
+throw stuff out Brandon Souders who is
+
+640
+00:22:35,509 --> 00:22:36,589
+the level designer in the intro-level
+
+641
+00:22:36,589 --> 00:22:38,899
+was I mean it required an incredible
+
+642
+00:22:38,900 --> 00:22:40,100
+amount of patience but he was totally
+
+643
+00:22:40,099 --> 00:22:42,469
+down he kicked major ass I mean it it's
+
+644
+00:22:42,470 --> 00:22:44,650
+a huge credit to him the work that he did.
+
+645
+00:22:44,650 --> 00:22:47,960
+Movies, I love when they take the time to
+
+646
+00:22:47,960 --> 00:22:49,730
+put the juice into the character I think
+
+647
+00:22:49,730 --> 00:22:51,829
+that JAWS is powerful because
+
+648
+00:22:51,829 --> 00:22:54,829
+they spend so much time talking about
+
+649
+00:22:54,829 --> 00:22:57,349
+how badass Jaws is and they build him up
+
+650
+00:22:57,349 --> 00:22:59,269
+and he's the thing and "oh my god" and so
+
+651
+00:22:59,269 --> 00:23:00,710
+we were doing that with the DOOM marine
+
+652
+00:23:00,710 --> 00:23:02,990
+I love when they do that like you know
+
+653
+00:23:02,990 --> 00:23:04,759
+when the hero pulls out his
+
+654
+00:23:04,759 --> 00:23:06,379
+special gunm don't just pull it out and
+
+655
+00:23:06,380 --> 00:23:08,030
+shoot somebody. I want to know that that
+
+656
+00:23:08,029 --> 00:23:09,740
+was made out of special metal that was
+
+657
+00:23:09,740 --> 00:23:12,230
+forged by some fucking samurai dude.
+
+658
+00:23:12,230 --> 00:23:13,970
+You know what i mean? And slowly
+
+659
+00:23:13,970 --> 00:23:15,558
+pull it out and the gleam off the thing
+
+660
+00:23:15,558 --> 00:23:17,119
+like that's really what we were doing we
+
+661
+00:23:17,119 --> 00:23:18,619
+were milking it. Building
+
+662
+00:23:18,619 --> 00:23:20,179
+up the legend of the DOOM marine.
+
+663
+00:23:20,180 --> 00:23:22,900
+And the level that Sauders had
+
+664
+00:23:22,910 --> 00:23:24,800
+put together immediately following that
+
+665
+00:23:24,799 --> 00:23:26,659
+i thought was wonderful and introduced
+
+666
+00:23:26,660 --> 00:23:28,670
+you to the secrets, a little keycard
+
+667
+00:23:28,670 --> 00:23:30,410
+action, which I'd love to talk about more
+
+668
+00:23:30,410 --> 00:23:33,170
+later, and I love that it all
+
+669
+00:23:33,170 --> 00:23:35,090
+ends with again that little subtle nod
+
+670
+00:23:35,089 --> 00:23:37,490
+You're just blasting through and he says the
+
+671
+00:23:37,490 --> 00:23:41,069
+rging about the 221 accident free days.
+
+672
+00:23:41,069 --> 00:23:44,289
+You're just like "we just caused a lot of havok"
+
+673
+00:23:44,359 --> 00:23:45,719
+and he makes that little comment
+
+674
+00:23:45,720 --> 00:23:47,920
+But it's just on the side you know it's very very much out of the
+
+675
+00:23:47,929 --> 00:23:50,059
+way but i think it maintains that tone.
+
+676
+00:23:50,058 --> 00:23:52,490
+That complements the fact
+
+677
+00:23:52,490 --> 00:23:53,808
+that i'm ripping people's arms often
+
+678
+00:23:53,808 --> 00:23:55,099
+beating them to death with it.
+
+679
+00:23:55,099 --> 00:23:56,779
+I think that's what felt right, all
+
+680
+00:23:56,779 --> 00:23:58,549
+the puzzle pieces kind of coming
+
+681
+00:23:58,549 --> 00:24:00,859
+together make like a DOOM experience
+

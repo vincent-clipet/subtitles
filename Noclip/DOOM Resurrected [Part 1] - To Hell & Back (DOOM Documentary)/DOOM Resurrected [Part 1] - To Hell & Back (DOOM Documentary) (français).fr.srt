@@ -1,0 +1,2576 @@
+1
+00:00:09,769 --> 00:00:13,969
+Doom. Pour beaucoup il est intemporel. Imaginer
+
+2
+00:00:13,968 --> 00:00:15,769
+une monde sans DOOM c'est imaginer un
+
+3
+00:00:15,769 --> 00:00:17,839
+monde sans FPS. C'est
+
+4
+00:00:17,839 --> 00:00:19,368
+l'une des séries les plus aimées dans
+
+5
+00:00:19,368 --> 00:00:21,019
+l'histoire des jeux-vidéo, et le studio
+
+6
+00:00:21,019 --> 00:00:23,059
+qui l'a créé, id Software, est un des
+
+7
+00:00:23,059 --> 00:00:25,608
+plus prolifiques. Il y a une aura magique
+
+8
+00:00:25,609 --> 00:00:27,410
+atour d'id Software - les créateurs
+
+9
+00:00:27,410 --> 00:00:29,989
+d'un genre, les maîtres de DOOM. L'histoire de
+
+10
+00:00:29,989 --> 00:00:31,789
+ses pères fondateurs a été racontée maintes
+
+11
+00:00:31,789 --> 00:00:34,100
+et maintes fois et avec un catalogue
+
+12
+00:00:34,100 --> 00:00:36,739
+incluant des noms comme Wolfenstein, Doom
+
+13
+00:00:36,738 --> 00:00:39,378
+et Quake on comprend pourquoi. Il y avait
+
+14
+00:00:39,378 --> 00:00:40,878
+un style rock'n roll dans ces premiers
+
+15
+00:00:40,878 --> 00:00:42,500
+jours d'id qui a capturé l'adoration
+
+16
+00:00:42,500 --> 00:00:44,988
+des joueurs des années 90. Les cheveux de Romero,
+
+17
+00:00:44,988 --> 00:00:47,149
+la Ferrari 328, les audiences devant le Congrès.
+
+18
+00:00:47,149 --> 00:00:48,738
+Cela a peint une image de
+
+19
+00:00:48,738 --> 00:00:50,750
+studio plus vrai que nature plein de jeunes
+
+20
+00:00:50,750 --> 00:00:53,149
+hommes définissant la culture et le faisant en
+
+21
+00:00:53,149 --> 00:00:55,250
+brisant toutes les règles. Mais ces jours
+
+22
+00:00:55,250 --> 00:00:57,799
+ont disparu, tels des fantômes qui définissent
+
+23
+00:00:57,799 --> 00:00:59,959
+et hantent l'identité du id actuel. Et ces
+
+24
+00:00:59,960 --> 00:01:01,579
+dernières années, tandis que plusieurs pères
+
+25
+00:01:01,579 --> 00:01:03,500
+fondateurs sont partis vers d'autres horizons,
+
+26
+00:01:03,500 --> 00:01:05,149
+l'identité du studio dans la conscience
+
+27
+00:01:05,149 --> 00:01:07,009
+du public s'est évaporée. Une des raisons
+
+28
+00:01:07,009 --> 00:01:08,930
+à cela est l'angle mort apparu récemment
+
+29
+00:01:08,930 --> 00:01:11,060
+dans l'histoire d'id software, qui
+
+30
+00:01:11,060 --> 00:01:12,950
+s'est étiré depuis la sortie de Rage
+
+31
+00:01:12,950 --> 00:01:14,868
+jusqu'à maintenant. Une période durant laquelle
+
+32
+00:01:14,868 --> 00:01:16,459
+le studio est passé à travers certains de ses
+
+33
+00:01:16,459 --> 00:01:18,950
+jours les plus durs, une séquelle ratée, un rachat, une
+
+34
+00:01:18,950 --> 00:01:20,659
+lutte interne pour le pouvoir. Mais à la
+
+35
+00:01:20,659 --> 00:01:22,520
+surprise générale, le résultat de
+
+36
+00:01:22,519 --> 00:01:24,920
+cette période troublée fut un jeu
+
+37
+00:01:24,920 --> 00:01:27,350
+incroyablement solide. Une refonte rafraîchissante d'une
+
+38
+00:01:27,349 --> 00:01:29,208
+vieille idée qui semblait être quelque chose
+
+39
+00:01:29,209 --> 00:01:31,399
+que beaucoup supposait hors de portée
+
+40
+00:01:31,399 --> 00:01:33,590
+des capacités d'id. Refléter son histoire
+
+41
+00:01:33,590 --> 00:01:36,109
+à travers un miroir moderne, marier l’ancien
+
+42
+00:01:36,108 --> 00:01:39,618
+et le nouveau. L’histoire de la création de DOOM 2016
+
+43
+00:01:39,618 --> 00:01:42,138
+est plutôt compliquée, alors pour la raconter
+
+44
+00:01:42,138 --> 00:01:44,208
+correctement nous avons passé deux jours complets
+
+45
+00:01:44,209 --> 00:01:46,609
+au studio, interrogeant les gens derrière
+
+46
+00:01:46,608 --> 00:01:49,188
+ses nombreuses itérations. Le but était de
+
+47
+00:01:49,188 --> 00:01:50,868
+raconter non seulement la façon dont le jeu
+
+48
+00:01:50,868 --> 00:01:53,028
+a été créé, comment ils ont déterminé son ton
+
+49
+00:01:53,028 --> 00:01:55,248
+et conçu ses combats. Mais aussi
+
+50
+00:01:55,248 --> 00:01:57,048
+de raconter le récit de ce qu’il s’est passé
+
+51
+00:01:57,049 --> 00:01:58,368
+pendant toutes ces années.
+
+52
+00:01:58,368 --> 00:02:00,468
+Alors pour commencer nous avons fait nos bagages pour voyager 0:02:00.469,0:02:02.270 directement en enfer.
+
+53
+00:02:02,269 --> 00:02:03,950
+Richardson, Texas
+
+54
+00:02:27,960 --> 00:02:32,879
+Du point de vue du gameplay, nos références sont DOOM 1 et DOOM2
+
+55
+00:02:34,000 --> 00:02:36,219
+Vous savez dans les dortoirs tout le monde jouait à DOOM
+
+56
+00:02:36,219 --> 00:02:38,780
+se plongeant dedans pendant des heures à cette époque.
+
+57
+00:02:40,750 --> 00:02:43,479
+C’était incroyable. Tout le monde aimait DOOM. Ils pensaient que c’était terrible.
+
+58
+00:02:48,280 --> 00:02:49,840
+Le mouvement, l’absence de rechargement, et
+
+59
+00:02:49,840 --> 00:02:51,759
+l’absence de couvertures, ces points sont tous
+
+60
+00:02:51,759 --> 00:02:54,310
+des éléments fondamentaux de DOOM 1
+
+61
+00:02:54,319 --> 00:02:54,819
+et DOOM 2.
+
+62
+00:03:13,120 --> 00:03:16,680
+J’ai démarré chez id en 91 et
+
+63
+00:03:17,158 --> 00:03:21,269
+J’ai travaillé sur Wolfenstein 3d puis
+
+64
+00:03:21,269 --> 00:03:24,658
+nous sommes partis sur Spear of Destiny, la
+
+65
+00:03:24,658 --> 00:03:26,969
+suite de Wolfenstein 3d, puis sur
+
+66
+00:03:26,969 --> 00:03:29,280
+les DOOMs et autres Quakes
+
+67
+00:03:29,280 --> 00:03:31,469
+J’ai commencé par faire quelques
+
+68
+00:03:31,469 --> 00:03:34,289
+trucs de mise en page et puis
+
+69
+00:03:34,289 --> 00:03:37,679
+Quelques artworks pour Wolfenstein et
+
+70
+00:03:37,680 --> 00:03:39,930
+puis pendant une longue période c’était uniquement Adrian et moi
+
+71
+00:03:39,930 --> 00:03:42,180
+qui faisions les artworks. Les rôles variaient de temps
+
+72
+00:03:42,180 --> 00:03:45,090
+en temps, je suis devenu Directeur
+
+73
+00:03:45,090 --> 00:03:47,459
+Artistique sur quelques projets, Producteur sur
+
+74
+00:03:47,459 --> 00:03:50,069
+d’autres, mais je me considère toujours
+
+75
+00:03:50,068 --> 00:03:52,048
+Principalement comme un artiste. [Nouvelle voix] J’ai rejoint id comme
+
+76
+00:03:52,049 --> 00:03:55,500
+employé en 1998 et ai fait des travaux contractuels
+
+77
+00:03:55,500 --> 00:03:57,180
+pour peut-être une année ou deux avant ça.
+
+78
+00:03:57,180 --> 00:04:00,209
+J’avais pris l’éditeur que John avait écrit
+
+79
+00:04:00,209 --> 00:04:03,000
+et, en gros, je l’ai rendu
+
+80
+00:04:03,000 --> 00:04:05,400
+Utilisable pour Quake 3. J’ai rejoint le studio
+
+81
+00:04:05,400 --> 00:04:07,049
+en tant qu’employé vers
+
+82
+00:04:07,049 --> 00:04:10,049
+la fin de Quake 3 et nous nous sommes
+
+83
+00:04:10,049 --> 00:04:11,639
+lancés presque immédiatement dans Team
+
+84
+00:04:11,639 --> 00:04:14,280
+Arena. En plus des trucs liés à l’éditeur,
+
+85
+00:04:14,280 --> 00:04:16,139
+j’ai commencé à faire du gameplay et
+
+86
+00:04:16,139 --> 00:04:17,370
+un peu de tout parce que, vous savez,
+
+87
+00:04:17,370 --> 00:04:19,709
+il y avait 3 ou 4 programmeurs
+
+88
+00:04:19,709 --> 00:04:21,509
+tout au plus donc on a tous fait beaucoup.
+
+89
+00:04:21,509 --> 00:04:23,908
+[Nouvelle voix] Ce n’était pas vraiment le tout début
+
+90
+00:04:23,908 --> 00:04:25,560
+de id mais c’était presque les
+
+91
+00:04:25,560 --> 00:04:27,509
+premiers jours, à l’époque où on travaillait sur
+
+92
+00:04:27,509 --> 00:04:29,639
+Quake 2, à l’époque où la compagnie était composée seulement
+
+93
+00:04:29,639 --> 00:04:31,769
+de 10 personnes environ. Ça ne ressemblait à rien
+
+94
+00:04:31,769 --> 00:04:34,019
+d’autre et on s’éclatait.
+
+95
+00:04:34,019 --> 00:04:35,430
+J’ai vraiment, vraiment apprécié ça,
+
+96
+00:04:35,430 --> 00:04:38,038
+j’ai travaillé sur Quake 2, les packs de missions,
+
+97
+00:04:38,038 --> 00:04:39,870
+Lls versions consoles de Quake 2.
+
+98
+00:04:39,870 --> 00:04:42,840
+Quake 3 Arena. J’étais le Producteur sur
+
+99
+00:04:42,839 --> 00:04:44,939
+ça. C’était très petit.
+
+100
+00:04:44,939 --> 00:04:46,168
+C’était ce genre d’endroit où quasiment
+
+101
+00:04:46,168 --> 00:04:49,680
+N’importe qui dans le studio pouvait être Lead ou
+
+102
+00:04:49,680 --> 00:04:52,050
+Directeur dans un autre studio.
+
+103
+00:04:52,050 --> 00:04:53,370
+C’était intéressant, il y avait
+
+104
+00:04:53,370 --> 00:04:54,899
+un genre de mystère là-dedans.
+
+105
+00:04:54,899 --> 00:04:56,698
+Vous aviez les fichiers de planifications
+
+106
+00:04:56,699 --> 00:04:58,740
+en-ligne et c’était comme ça que les gens
+
+107
+00:04:58,740 --> 00:05:00,780
+Pouvaient suivre la compagnie, ou les réflexions
+
+108
+00:05:00,779 --> 00:05:03,929
+de gens qui
+
+109
+00:05:03,930 --> 00:05:05,459
+devenaient en quelque sorte des célébrités.
+
+110
+00:05:05,459 --> 00:05:07,528
+Les personnalités au sein de l’entreprise ont
+
+111
+00:05:07,528 --> 00:05:08,790
+beaucoup défini
+
+112
+00:05:08,790 --> 00:05:11,069
+l’entreprise et vous pouvez voir ces
+
+113
+00:05:11,069 --> 00:05:13,019
+empreintes dans les jeux.
+
+114
+00:05:13,019 --> 00:05:14,639
+Il y avait un peu de vénération
+
+115
+00:05:14,639 --> 00:05:17,759
+et un état d’esprit que vous ne voyiez pas
+
+116
+00:05:17,759 --> 00:05:19,349
+dans beaucoup d’autres jeux. Ça n’avait pas l’air de venir
+
+117
+00:05:19,350 --> 00:05:21,030
+d’une entreprise et, assurément, quand vous
+
+118
+00:05:21,029 --> 00:05:22,919
+veniez aux bureaux, ça n’avait pas l’air
+
+119
+00:05:22,920 --> 00:05:25,140
+d’être une entreprise du tout.
+
+120
+00:05:25,139 --> 00:05:27,509
+Nous étions en quelques sortes connus pour être ces
+
+121
+00:05:27,509 --> 00:05:30,000
+développeurs fous dans ce gros cube noir
+
+122
+00:05:30,000 --> 00:05:31,980
+près de l’autoroute à Mesquite, au Texas, et
+
+123
+00:05:31,980 --> 00:05:34,319
+vous montiez dans l’ascenseur et arriviez
+
+124
+00:05:34,319 --> 00:05:35,819
+au sixième étage et il y avait ce panneau
+
+125
+00:05:35,819 --> 00:05:38,579
+qui disait id Software - suite 666
+
+126
+00:05:38,579 --> 00:05:41,189
+et vous rentriez à l’intérieur et rencontriez Mademoiselle
+
+127
+00:05:41,189 --> 00:05:43,589
+Donna. La mère
+
+128
+00:05:43,589 --> 00:05:45,329
+d’id pendant un long moment, elle a été là pendant plus de 20
+
+129
+00:05:45,329 --> 00:05:47,490
+ans mais elle s’asseyais derrière un bureau avec
+
+130
+00:05:47,490 --> 00:05:50,850
+une énorme image de démon derrière
+
+131
+00:05:50,850 --> 00:05:53,070
+elle. C’était marrant vous savez, c’était
+
+132
+00:05:53,069 --> 00:05:56,040
+marrant de descendre et de visiter ça, et
+
+133
+00:05:56,040 --> 00:05:58,020
+même si je n’ai jamais cru, pour avoir grandi
+
+134
+00:05:58,019 --> 00:05:59,490
+dans le Colorado puis avoir vécu
+
+135
+00:05:59,490 --> 00:06:01,199
+à Los Angeles, que je déménagerais
+
+136
+00:06:01,199 --> 00:06:03,479
+au Texas, quand ils m’ont offert le poste
+
+137
+00:06:03,480 --> 00:06:05,100
+c’était, genre, ouais – c’est une
+
+138
+00:06:05,100 --> 00:06:08,370
+opportunité qui n’arrive qu’une fois dans une vie. Et 17
+
+139
+00:06:08,370 --> 00:06:12,009
+ans plus tard, c’est toujours ici que j’aime venir.
+
+140
+00:06:25,259 --> 00:06:28,050
+Quand Mary a rejoint id, l’équipe venait de
+
+141
+00:06:28,050 --> 00:06:29,699
+commencer à travailler sur le pack d’extension
+
+142
+00:06:29,699 --> 00:06:32,310
+pour Quake 3 : Team Arena. Un jeu qui
+
+143
+00:06:32,310 --> 00:06:34,410
+est apparu à cause de l’addiction du studio
+
+144
+00:06:34,410 --> 00:06:36,810
+pour le mode Capture de Drapeau de Quake 3.
+
+145
+00:06:36,810 --> 00:06:38,579
+Certains d’entre nous ont joué,
+
+146
+00:06:38,579 --> 00:06:41,279
+je ne me rappelle pas de quelle carte il s’agissait - la carte dans l’espace avec
+
+147
+00:06:41,279 --> 00:06:42,839
+les choses vraiment courtes, avec le BFG
+
+148
+00:06:42,839 --> 00:06:46,349
+là-haut. Et nous jouions cette carte en 2vs2 CTF
+
+149
+00:06:46,350 --> 00:06:49,680
+tous les jours à 17 heures pendant probablement
+
+150
+00:06:49,680 --> 00:06:52,290
+trois années consécutives. Je veux dire, je ne rigole pas,
+
+151
+00:06:52,290 --> 00:06:54,840
+tous les jours et nous appelions ça
+
+152
+00:06:54,839 --> 00:06:56,609
+MOTU - Master Of The Universe (Maître de l’Univers). Quelque soit
+
+153
+00:06:56,610 --> 00:06:59,370
+l’équipe qui gagnait elle était l’actuelle MOTU et ce furent
+
+154
+00:06:59,370 --> 00:07:00,750
+quelques-uns des meilleurs moments que nous avons passé ensemble
+
+155
+00:07:00,750 --> 00:07:02,220
+parce que nous étions encore une petite équipe
+
+156
+00:07:02,220 --> 00:07:04,800
+de 10 à 20 personnes. Ouais, vraiment marrant,
+
+157
+00:07:04,800 --> 00:07:06,120
+beaucoup de cris et de hurlements et d’injures
+
+158
+00:07:06,120 --> 00:07:08,879
+et beaucoup d’amusement. [Interviewer] Je disais à Tim (Willits)
+
+159
+00:07:08,879 --> 00:07:11,399
+que c’est probablement la plus rapide des captures
+
+160
+00:07:11,399 --> 00:07:13,409
+de drapeaux dans l’histoire de l’industrie du jeu vidéo.
+
+161
+00:07:13,410 --> 00:07:14,820
+Vous pouvez le faire en quoi, quatre secondes ?
+
+162
+00:07:14,819 --> 00:07:16,709
+Oui c’est vraiment ça, vous savez, en jouant aussi
+
+163
+00:07:16,709 --> 00:07:19,529
+souvent avec les mêmes équipes quand tout le monde
+
+164
+00:07:19,529 --> 00:07:20,729
+a sa propre stratégie
+
+165
+00:07:20,730 --> 00:07:22,500
+quelques-fois les matchs se terminaient
+
+166
+00:07:22,500 --> 00:07:25,199
+super rapidement mais c’était super marrant. Beaucoup
+
+167
+00:07:25,199 --> 00:07:26,039
+de bons souvenirs.
+
+168
+00:07:26,040 --> 00:07:29,120
+Après Team Arena, l’équipe s’est lancée sur DOOM3, un jeu qui a poussé
+
+169
+00:07:29,160 --> 00:07:31,260
+la série dans une direction plus narrative.
+
+170
+00:07:31,259 --> 00:07:33,269
+Le joueur affrontait des démons dans
+
+171
+00:07:33,269 --> 00:07:34,799
+des couloirs superbement illuminés
+
+172
+00:07:34,800 --> 00:07:37,199
+mais souvent oppressant. Le jeu a trouvé
+
+173
+00:07:37,199 --> 00:07:38,729
+son public mais beaucoup on eut l’impression qu’il
+
+174
+00:07:38,730 --> 00:07:40,590
+sacrifiait le gameplay face à la recherche
+
+175
+00:07:40,589 --> 00:07:42,389
+d’une technique nouvelle.
+
+176
+00:07:42,389 --> 00:07:44,189
+Robert Duffy était lead programmeur sur le
+
+177
+00:07:44,189 --> 00:07:46,379
+projet, un jeu conçu par une équipe
+
+178
+00:07:46,379 --> 00:07:49,110
+incroyablement petit par rapport aux standards modernes.
+
+179
+00:07:49,980 --> 00:07:51,960
+Je crois que nous avons terminé DOOM avec environ 19
+
+180
+00:07:51,959 --> 00:07:54,209
+personne dans le studio, peut-être une vingtaine,
+
+181
+00:07:54,209 --> 00:07:55,649
+mais il a été créé en grande partie par quinze,
+
+182
+00:07:55,649 --> 00:07:57,449
+seize, dix-sept, dix-huit personnes
+
+183
+00:07:57,449 --> 00:07:59,009
+quelque chose comme ça. J’aime beaucoup
+
+184
+00:07:59,009 --> 00:08:00,990
+les effets que nous avons fait,
+
+185
+00:08:00,990 --> 00:08:02,970
+les Diablotins qui apparaissent et nous avions la faculté
+
+186
+00:08:02,970 --> 00:08:05,280
+de lier les effets de lumière à l’amplitude
+
+187
+00:08:05,279 --> 00:08:07,289
+sonore.
+
+188
+00:08:07,290 --> 00:08:08,610
+C’était ce niveau de
+
+189
+00:08:08,610 --> 00:08:10,410
+savoir-faire que nous avons mis
+
+190
+00:08:10,410 --> 00:08:12,750
+dans notre jeu. En tant que studio, nous étions
+
+191
+00:08:12,750 --> 00:08:15,930
+honnêtement trop obsédé par la qualité
+
+192
+00:08:15,930 --> 00:08:18,389
+je pense – tous les tuyaux devaient
+
+193
+00:08:18,389 --> 00:08:21,060
+se connecter et la force
+
+194
+00:08:21,060 --> 00:08:22,968
+qui poussait le studio en avant
+
+195
+00:08:22,968 --> 00:08:26,538
+était la qualité et les finitions.
+
+196
+00:08:26,538 --> 00:08:28,068
+Un projet vraiment amusant.
+
+197
+00:08:28,069 --> 00:08:29,269
+[interviewer] C’est intéressant de voir comment, lorsque les gens
+
+198
+00:08:29,269 --> 00:08:30,860
+parlent de DOOM 2016, ils disent
+
+199
+00:08:30,860 --> 00:08:33,110
+« Oh c’est comme DOOM 1 &amp; 2 » mais en termes
+
+200
+00:08:33,110 --> 00:08:34,610
+d’environnements et de structure
+
+201
+00:08:34,610 --> 00:08:36,960
+il a en fait plein de similarités avec DOOM 3.
+
+202
+00:08:36,960 --> 00:08:38,519
+Ouais, je veux dire, l’UAC,
+
+203
+00:08:38,538 --> 00:08:41,120
+cet espèce de sentiment industriel…
+
+204
+00:08:41,120 --> 00:08:43,370
+On se réfère probablement plus,
+
+205
+00:08:43,370 --> 00:08:46,818
+d’un point de vue sensations de gameplay,
+
+206
+00:08:46,818 --> 00:08:49,219
+on se réfère à DOOM 1 et DOOM 2.
+
+207
+00:08:49,220 --> 00:08:51,980
+Le mouvement, l’absence de rechargement, et
+
+208
+00:08:51,980 --> 00:08:53,870
+l’absence de couvertures, ces points sont tous
+
+209
+00:08:53,870 --> 00:08:56,419
+des éléments fondamentaux de DOOM 1 et 2
+
+210
+00:08:56,419 --> 00:08:59,809
+DOOM 3 a beaucoup développé l’UAC
+
+211
+00:08:59,809 --> 00:09:02,838
+en tant que société malveillante,
+
+212
+00:09:02,839 --> 00:09:05,149
+il y avait une oppression
+
+213
+00:09:05,149 --> 00:09:07,490
+pesante dedans, amenée d’une
+
+214
+00:09:07,490 --> 00:09:09,620
+façon intéressante. Ça reste
+
+215
+00:09:09,620 --> 00:09:11,990
+l’un de mes jeux préférés dans ceux que l’on fait.
+
+216
+00:09:11,990 --> 00:09:15,139
+Après DOOM 3 nous avons commencé un autre
+
+217
+00:09:15,139 --> 00:09:16,549
+projet que nous appelions
+
+218
+00:09:16,549 --> 00:09:18,948
+"Darkness" (ténèbres). Nous avons travaillé dessus un an, peut-être
+
+219
+00:09:18,948 --> 00:09:20,899
+un an et demi, et nous nous sommes rendus
+
+220
+00:09:20,899 --> 00:09:24,620
+compte – on ne le sentait pas. Vous voyez ?
+
+221
+00:09:24,620 --> 00:09:25,639
+En tant que studio nous étions toujours
+
+222
+00:09:25,639 --> 00:09:27,680
+indépendants et nous avions la
+
+223
+00:09:27,679 --> 00:09:29,088
+flexibilité et la liberté de simplement
+
+224
+00:09:29,089 --> 00:09:31,699
+dire que ça ne
+
+225
+00:09:31,698 --> 00:09:34,938
+fonctionnait pas.
+
+226
+00:09:34,938 --> 00:09:37,370
+Et puis, Tim est venu
+
+227
+00:09:37,370 --> 00:09:38,839
+dans mon bureau un jour et il parlait de
+
+228
+00:09:38,839 --> 00:09:41,209
+"grosses machines et"
+
+229
+00:09:41,208 --> 00:09:43,549
+"d’un cadre apocalyptique " et tout
+
+230
+00:09:43,549 --> 00:09:45,558
+ces trucs dingues et c’est comme ça
+
+231
+00:09:45,559 --> 00:09:46,839
+que RAGE démarra.
+
+232
+00:09:46,840 --> 00:09:50,120
+RAGE était une toute nouvelle aventure pour id, utilisant l’impressionnante technologie
+
+233
+00:09:50,120 --> 00:09:52,698
+« megatexture » de John Carmack. Le jeu
+
+234
+00:09:52,698 --> 00:09:55,549
+décrivait un monde saisissant à la Mad Max.
+
+235
+00:09:55,549 --> 00:09:57,588
+Un monde plein de zones à explorer, de villes remplies de
+
+236
+00:09:57,589 --> 00:09:59,930
+personnes à qui parler et même de voitures à conduire.
+
+237
+00:09:59,929 --> 00:10:02,269
+[Robert] C’était vraiment différente de ce que nous
+
+238
+00:10:02,269 --> 00:10:04,188
+avions fait auparavant, les terres dévastées étaient
+
+239
+00:10:04,188 --> 00:10:05,808
+en quelques sortes fabriquées de toutes pièces pour des
+
+240
+00:10:05,808 --> 00:10:07,519
+raisons technologiques mais ce fut l’un de
+
+241
+00:10:07,519 --> 00:10:10,250
+nos terrains d’essai.
+
+242
+00:10:10,250 --> 00:10:11,629
+C’était l’une des zones où la megatexture
+
+243
+00:10:11,629 --> 00:10:13,850
+a vraiment brillé et notamment sa faculté
+
+244
+00:10:13,850 --> 00:10:15,860
+de marquer chaque endroit avec une
+
+245
+00:10:15,860 --> 00:10:18,558
+personnalité unique. Le combat véhiculé était
+
+246
+00:10:18,558 --> 00:10:19,759
+vraiment un défi, je pense que c’est
+
+247
+00:10:19,759 --> 00:10:21,379
+un défi pour la plupart des gens qui tentent de le faire,
+
+248
+00:10:21,379 --> 00:10:23,720
+de bien le faire et de garder une
+
+249
+00:10:23,720 --> 00:10:27,230
+sensation de jeu de tir mais, ouais, les zones en extérieurs,
+
+250
+00:10:27,230 --> 00:10:29,300
+spécifiquement pour la
+
+251
+00:10:29,299 --> 00:10:32,719
+360 et la PS3 – une aussi bonne
+
+252
+00:10:32,720 --> 00:10:35,089
+fidélité visuelle, 60 Hertz, on a balancé
+
+253
+00:10:35,089 --> 00:10:36,470
+beaucoup de triangles dans le moteur donc
+
+254
+00:10:36,470 --> 00:10:38,899
+il y a beaucoup de design et
+
+255
+00:10:38,899 --> 00:10:40,909
+de défis techniques dans RAGE.
+
+256
+00:10:40,909 --> 00:10:42,769
+RAGE n’était pas le seul projet sur lequel travaillait id
+
+257
+00:10:42,769 --> 00:10:45,049
+John Carmack avait laissé entendre que DOOM 4
+
+258
+00:10:45,049 --> 00:10:47,629
+était en développement à la QuakeCon 2007 et le
+
+259
+00:10:47,629 --> 00:10:49,070
+jeu fut officiellement annoncé être en
+
+260
+00:10:49,070 --> 00:10:51,290
+production durant le mois de Mai suivant. Puis le PDG
+
+261
+00:10:51,289 --> 00:10:53,719
+Todd Hollenshead laissa entendre qu’il s’agissait d’un hommage
+
+262
+00:10:53,720 --> 00:10:56,360
+à DOOM 2 car le jeu se déroulait sur Terre pendant
+
+263
+00:10:56,360 --> 00:10:58,850
+une invasion infernale. En Juin 2009
+
+264
+00:10:58,850 --> 00:11:01,250
+Zenimax Media, les propriétaires de Bethesda
+
+265
+00:11:01,250 --> 00:11:03,528
+Softworks rachetèrent id Software et
+
+266
+00:11:03,528 --> 00:11:05,629
+ses propriétés intellectuelles. Mais il n’y avait toujours pas
+
+267
+00:11:05,629 --> 00:11:07,730
+d’images, de vidéos ou de teasers pour le jeu.
+
+268
+00:11:07,730 --> 00:11:09,920
+Même après que RAGE soit
+
+269
+00:11:09,919 --> 00:11:12,620
+terminé en 2011 et que Carmack insista
+
+270
+00:11:12,620 --> 00:11:14,480
+pour qu’encore plus de ressources soient attribuées
+
+271
+00:11:14,480 --> 00:11:16,700
+au projet DOOM. En fait, pendant
+
+272
+00:11:16,700 --> 00:11:18,410
+quelques années le public reçut des
+
+273
+00:11:18,409 --> 00:11:20,389
+messages mitigés à propos de l’état
+
+274
+00:11:20,399 --> 00:11:21,679
+du développement du jeu.
+
+275
+00:11:21,679 --> 00:11:24,799
+[Marty] La façon dont nous étions  structurés pendant la fin
+
+276
+00:11:24,828 --> 00:11:27,528
+des années 2000 consistait en une
+
+277
+00:11:27,528 --> 00:11:29,958
+équipe qui travaillait sur RAGE,
+
+278
+00:11:29,958 --> 00:11:32,328
+qui était dirigée par Tim. Et nous avions une équipe
+
+279
+00:11:32,328 --> 00:11:34,879
+qui travaillait sur DOOM – la version
+
+280
+00:11:34,879 --> 00:11:37,850
+campagne – l’ancienne génération
+
+281
+00:11:37,850 --> 00:11:39,889
+du projet. Je dirigeais une équipe
+
+282
+00:11:39,889 --> 00:11:41,899
+de développeurs multijoueur qui…
+
+283
+00:11:41,899 --> 00:11:43,370
+...nous avions fait Quake Live et nous sommes lancés
+
+284
+00:11:43,370 --> 00:11:45,470
+dans le développement de DOOM.
+
+285
+00:11:45,470 --> 00:11:47,120
+Et cette équipe a fini RAGE,
+
+286
+00:11:47,120 --> 00:11:49,639
+et nous étions plus nombreux.
+
+287
+00:11:51,320 --> 00:11:54,079
+Nous avions terminé DOOM 3 avec 19 personnes et
+
+288
+00:11:54,078 --> 00:11:56,328
+nous étions à un point où nous avions
+
+289
+00:11:56,328 --> 00:11:58,639
+presque 3 équipes complètes donc nous étions plutôt large.
+
+290
+00:11:58,639 --> 00:12:01,669
+En pleine expansion – le truc typique
+
+291
+00:12:01,669 --> 00:12:03,379
+dont toutes les compagnies parlent lors qu’elles
+
+292
+00:12:03,379 --> 00:12:05,179
+grossissent, la façon de communiquer et
+
+293
+00:12:05,179 --> 00:12:07,009
+toutes ces sortes de choses qui entrent
+
+294
+00:12:07,009 --> 00:12:09,019
+en jeu. Donc il y a eu cette période
+
+295
+00:12:09,019 --> 00:12:12,588
+après RAGE où j’ai commencé à regarder
+
+296
+00:12:12,589 --> 00:12:16,790
+un peu plus du côté de DOOM et,
+
+297
+00:12:16,789 --> 00:12:18,559
+à nouveau, comme une longue période
+
+298
+00:12:18,559 --> 00:12:21,679
+d’évaluation et d’ajustement.
+
+299
+00:12:22,470 --> 00:12:24,060
+[Danny] La période qui a suivi était plutôt
+
+300
+00:12:24,059 --> 00:12:26,819
+difficile pour le studio et DOOM 4
+
+301
+00:12:26,820 --> 00:12:28,320
+est une de ses nombreuses victimes. Donc il est
+
+302
+00:12:28,320 --> 00:12:30,750
+compréhensible qu’id n’ai jamais vraiment
+
+303
+00:12:30,750 --> 00:12:32,759
+parlé à propos du jeu. Pendant des années DOOM 4
+
+304
+00:12:32,759 --> 00:12:34,590
+était l’éléphant dans la pièce à propos duquel id
+
+305
+00:12:34,590 --> 00:12:36,540
+ne parlait pas et finalement
+
+306
+00:12:36,539 --> 00:12:38,069
+les conversations à propos du jeu ont été
+
+307
+00:12:38,070 --> 00:12:40,830
+dominées par un trailer en CGI qui a fuité et un
+
+308
+00:12:40,830 --> 00:12:43,110
+artcile de Kotaku de 2013 qui décrivait
+
+309
+00:12:43,110 --> 00:12:44,550
+un jeu de tir lourdement scripté
+
+310
+00:12:44,549 --> 00:12:47,039
+à la thématique militaire. A tel point que
+
+311
+00:12:47,039 --> 00:12:49,169
+cette rumeur a rempli des articles et que les messages
+
+312
+00:12:49,169 --> 00:12:51,269
+sur les forums de discussions appelaient ce projet
+
+313
+00:12:51,269 --> 00:12:54,809
+"Call of DOOM". Mais il y a tellement
+
+314
+00:12:54,809 --> 00:12:57,179
+de questions persistantes, qu’était ce DOOM 4 ?
+
+315
+00:12:57,179 --> 00:13:00,120
+Comment se jouait-il ? Comment a-t-il influencé la version de 2016 ?
+
+316
+00:13:00,120 --> 00:13:02,310
+Je m’inquiétais du fait que la plupart des
+
+317
+00:13:02,309 --> 00:13:04,259
+réponses puissent être perdues
+
+318
+00:13:04,259 --> 00:13:06,179
+à cette heure-ci avec tous les départs récents
+
+319
+00:13:06,179 --> 00:13:07,919
+mais il se trouve que le Creavtive
+
+320
+00:13:07,919 --> 00:13:10,139
+Lead sur le projet n’étaut autre que
+
+321
+00:13:10,139 --> 00:13:12,019
+Kevin Cloud, un vétéran de chez id.
+
+322
+00:13:12,019 --> 00:13:16,039
+Donc je dirais que ce que nous avons fait est que nous
+
+323
+00:13:16,039 --> 00:13:20,000
+avons exploré une direction et que nous sommes allés
+
+324
+00:13:20,009 --> 00:13:21,840
+jusqu’à un certain point et avons senti que ça
+
+325
+00:13:21,840 --> 00:13:25,500
+ne capturait pas vraiment ce que nous
+
+326
+00:13:25,500 --> 00:13:28,110
+pensions de DOOM – ce que devait être
+
+327
+00:13:28,110 --> 00:13:31,409
+un vrai DOOM et ce que les fans
+
+328
+00:13:31,409 --> 00:13:32,639
+attendraient de lui.
+
+329
+00:13:32,639 --> 00:13:34,230
+[Marty]  Vous avez mentionné le terme « Call of DOOM »
+
+330
+00:13:34,230 --> 00:13:36,420
+qui a été balancé à cette époque. C’était
+
+331
+00:13:36,419 --> 00:13:38,789
+plus proche de ce
+
+332
+00:13:38,789 --> 00:13:40,409
+genre de jeu. Beaucoup plus
+
+333
+00:13:40,409 --> 00:13:42,569
+cinématique, beaucoup plus d’histoire,
+
+334
+00:13:42,570 --> 00:13:44,700
+beaucoup plus de personnages autour de vous et
+
+335
+00:13:44,700 --> 00:13:46,650
+qui vous accompagnaient à travers
+
+336
+00:13:46,649 --> 00:13:48,689
+le jeu.  Assurément un
+
+337
+00:13:48,690 --> 00:13:51,450
+cadre différent – le jeu prenait place
+
+338
+00:13:51,450 --> 00:13:53,640
+sur Terre.
+
+339
+00:13:53,639 --> 00:13:56,879
+[Nouvelle voix] Ça ressemblait à Contact de Robert Zemeckis, genre
+
+340
+00:13:56,879 --> 00:13:59,850
+« et si ça arrivait vraiment »
+
+341
+00:13:59,850 --> 00:14:01,620
+- je veux être claire – c’était génial. Mais c’était
+
+342
+00:14:01,620 --> 00:14:03,450
+plus réaliste. C’était plus
+
+343
+00:14:03,450 --> 00:14:06,480
+à propos de l’impact global
+
+344
+00:14:06,480 --> 00:14:08,399
+qu’aurait une invasion infernale.
+
+345
+00:14:08,399 --> 00:14:10,289
+[Marty] Une incroyable valeur de production – c’était vraiment
+
+346
+00:14:10,289 --> 00:14:12,659
+bon depuis ce point de vue mais c’était
+
+347
+00:14:12,659 --> 00:14:15,179
+définitivement un tournure de DOOM qui
+
+348
+00:14:15,179 --> 00:14:18,979
+l’amenait vers un type d’expérience beaucoup
+
+349
+00:14:18,980 --> 00:14:21,649
+plus cinématique, beaucoup plus scriptée.
+
+350
+00:14:21,649 --> 00:14:24,889
+C’était une réécriture de DOOM dans
+
+351
+00:14:24,889 --> 00:14:27,230
+une nouvelle voie. Je veux dire, c’était
+
+352
+00:14:27,230 --> 00:14:29,600
+totalement nouveau. Vous vous mettiez à
+
+353
+00:14:29,600 --> 00:14:31,820
+couvert et vous en sortiez pour
+
+354
+00:14:31,820 --> 00:14:34,399
+tirer sur les ennemis. Les démons étaient
+
+355
+00:14:34,399 --> 00:14:35,240
+totalement différents.
+
+356
+00:14:35,240 --> 00:14:37,850
+Ça mettait du temps pour vraiment commencer
+
+357
+00:14:37,850 --> 00:14:39,470
+à affronter des démons – vous
+
+358
+00:14:39,470 --> 00:14:42,320
+affrontiez beaucoup de créatures
+
+359
+00:14:42,320 --> 00:14:44,240
+de type zombies au début du jeu.
+
+360
+00:14:44,240 --> 00:14:46,490
+[Kevin]  En tant que plus haut directeur créatif
+
+361
+00:14:46,490 --> 00:14:48,740
+sur le projet, c’était moi
+
+362
+00:14:48,740 --> 00:14:51,169
+qui tenait les rênes et, honnêtement,
+
+363
+00:14:51,169 --> 00:14:53,328
+emmenait le projet dans une direction que les fans
+
+364
+00:14:53,328 --> 00:14:56,088
+n’auraient finalement pas apprécié je pense.
+
+365
+00:14:56,089 --> 00:14:59,779
+En tant que fan de DOOM. J’essayais juste
+
+366
+00:14:59,778 --> 00:15:03,350
+d’avoir plus d’interactions entre les personnages
+
+367
+00:15:03,350 --> 00:15:05,389
+et un peu plus de connexion avec avec le monde.
+
+368
+00:15:05,389 --> 00:15:07,639
+[Hugo] Par rapport au concept, je peux voir pourquoi ils
+
+369
+00:15:07,639 --> 00:15:09,769
+sont allés dans cette direction parce que je voudrais probablement
+
+370
+00:15:09,769 --> 00:15:12,320
+explorer cette facette aussi s’il ne s’agissait pas d’un jeu DOOM.
+
+371
+00:15:12,320 --> 00:15:15,680
+Parce que pour raconter
+
+372
+00:15:15,679 --> 00:15:18,620
+une plus grosse histoire, il fallait sacrifier
+
+373
+00:15:18,620 --> 00:15:22,669
+le doomslayer et DOOM parle d’un gars
+
+374
+00:15:22,669 --> 00:15:25,939
+impliqué dans d’énormes évènements et DOOM 4 Classique
+
+375
+00:15:25,940 --> 00:15:28,040
+était plus centré sur les énormes évènements.
+
+376
+00:15:28,039 --> 00:15:29,599
+[Kevin] C’est arrivé un peu comme cette idée dont
+
+377
+00:15:29,600 --> 00:15:31,399
+vous parliez tout à l’heure. Comment vous aviez réussi
+
+378
+00:15:31,399 --> 00:15:35,509
+à faire le Pinky comme il faut – vous disiez que vous aviez eu une vision à propos
+
+379
+00:15:35,509 --> 00:15:38,870
+de refaire le Pinky dans DOOM 3
+
+380
+00:15:38,870 --> 00:15:41,720
+et dans ce nouveau DOOM
+
+381
+00:15:41,720 --> 00:15:44,330
+ils sont très différents mais pour moi ils sont
+
+382
+00:15:44,330 --> 00:15:49,009
+tous les deux valables, pas vrai ? Et je pense que
+
+383
+00:15:49,009 --> 00:15:51,649
+ce qui est finalement arrivé est que ultimately happened is that
+
+384
+00:15:51,649 --> 00:15:55,159
+j’étais en train de me perdre – je ne suis pas
+
+385
+00:15:55,159 --> 00:15:56,209
+en train de dire que c’était le cas de DOOM 3,
+
+386
+00:15:56,210 --> 00:15:57,410
+ce n’était vraiment pas pareil – mais
+
+387
+00:15:57,409 --> 00:15:59,509
+conceptuellement je sortais le jeu des
+
+388
+00:15:59,509 --> 00:16:03,080
+sentiers battus et je suis allé trop loin dans cette direction.  0:16:03.080,0:16:05.540 [interviewer] J’imagine qu’arrêter le projet est venu
+
+389
+00:16:05,539 --> 00:16:06,769
+comme une sorte d’impulsion?
+
+390
+00:16:06,769 --> 00:16:08,929
+Vous savez, il y a toujours
+
+391
+00:16:08,929 --> 00:16:11,149
+des milliers de conversations
+
+392
+00:16:11,149 --> 00:16:13,039
+qui vont vers quelque chose comme ça.
+
+393
+00:16:13,039 --> 00:16:17,000
+La chose qui ressortait le plus je pense que c’était que…
+
+394
+00:16:17,000 --> 00:16:18,289
+... Je crois que la meilleure façon de le dire c’est que
+
+395
+00:16:18,289 --> 00:16:20,659
+ça ne ressemblait pas du tout à DOOM
+
+396
+00:16:20,659 --> 00:16:23,719
+à ce dont la plupart d’entre nous s’attendait à ce qu’il soit.
+
+397
+00:16:23,720 --> 00:16:26,720
+Ou espérait qu’il ressemble. Ça se résume à
+
+398
+00:16:26,720 --> 00:16:30,830
+une sorte de sentiment et je
+
+399
+00:16:30,840 --> 00:16:34,879
+respecte Bethesda pour nous avoir
+
+400
+00:16:34,879 --> 00:16:36,740
+accompagné durant toutes ces décisions parce que
+
+401
+00:16:36,740 --> 00:16:39,080
+ça demande beaucoup pour soutenir un
+
+402
+00:16:39,080 --> 00:16:41,570
+développeur qui dit juste
+
+403
+00:16:41,570 --> 00:16:42,740
+que ça n’a pas un bon feeling.
+
+404
+00:16:42,740 --> 00:16:44,389
+[Kevin] Ce fut très dur, je dois le dire. Pour moi,
+
+405
+00:16:44,389 --> 00:16:46,460
+personnellement, ce fut une période très dure,
+
+406
+00:16:46,460 --> 00:16:50,360
+mais avec le recul je pense que
+
+407
+00:16:50,360 --> 00:16:53,480
+le studio et Zenimax
+
+408
+00:16:53,480 --> 00:16:57,170
+ont pris de bonnes décisions et finalement
+
+409
+00:16:57,169 --> 00:16:59,329
+j’ai adoré DOOM pas vrai ? Donc je veux être sûr
+
+410
+00:16:59,330 --> 00:17:02,780
+que ça sorte à chaque fois comme
+
+411
+00:17:02,779 --> 00:17:05,859
+quelque chose que les fans adorent.
+
+412
+00:17:05,859 --> 00:17:07,629
+Il y a en fait une période
+
+413
+00:17:07,630 --> 00:17:10,929
+entre fin de 2011,
+
+414
+00:17:10,929 --> 00:17:12,429
+fin 2012 et juste après début
+
+415
+00:17:12,429 --> 00:17:15,640
+2013 où nous avons fait
+
+416
+00:17:15,640 --> 00:17:17,589
+2 reboots ou des sortes
+
+417
+00:17:17,599 --> 00:17:19,679
+de reboot.
+
+418
+00:17:19,680 --> 00:17:26,230
+On a pris du recul et réexaminé ce que nous
+
+419
+00:17:26,230 --> 00:17:28,449
+considérions comme les éléments fondamentaux
+
+420
+00:17:28,449 --> 00:17:29,288
+d’un jeu DOOM.
+
+421
+00:17:29,288 --> 00:17:34,920
+On a demandé à Todd Vaughn, qui est le VP du Développement de Produits
+
+422
+00:17:34,929 --> 00:17:37,420
+du côté éditeur chez Bethesda,
+
+423
+00:17:37,420 --> 00:17:39,640
+de venir ici et de passer quelques temps avec
+
+424
+00:17:39,640 --> 00:17:41,380
+nous. Je pense que nous étions en difficulté
+
+425
+00:17:41,380 --> 00:17:43,390
+avec l’usine à gaz
+
+426
+00:17:43,390 --> 00:17:46,059
+qu’était devenue l’entreprise
+
+427
+00:17:46,058 --> 00:17:49,418
+et avec des problèmes de concentration.
+
+428
+00:17:49,419 --> 00:17:51,730
+Il y a beaucoup de trucs impliqués quand
+
+429
+00:17:51,730 --> 00:17:54,429
+vous allez à travers ce processus et je
+
+430
+00:17:54,429 --> 00:17:56,200
+dirais que l’un des gros changements qui en
+
+431
+00:17:56,200 --> 00:17:58,240
+est ressorti fut que nous avions besoin
+
+432
+00:17:58,240 --> 00:18:00,669
+de recentrer le studio sur un seul projet.
+
+433
+00:18:00,669 --> 00:18:02,620
+[Danny] Pendant les années qui suivirent
+
+434
+00:18:02,619 --> 00:18:04,808
+l’équipe fut transformée. Todd Hollenshead et
+
+435
+00:18:04,808 --> 00:18:07,089
+John Carmack quittèrent le studio. Carmack travaille
+
+436
+00:18:07,089 --> 00:18:08,889
+maintenant pour Oculus et est actuellement en
+
+437
+00:18:08,890 --> 00:18:10,509
+litige avec la maison mère d’id,
+
+438
+00:18:10,509 --> 00:18:12,789
+ZeniMax, à propos d’un conflit de propriété intellectuelle.
+
+439
+00:18:12,789 --> 00:18:16,149
+[Marty] Le changement n’est jamais facile pour certains,
+
+440
+00:18:16,150 --> 00:18:17,769
+vous traversez toujours ce genre de trucs
+
+441
+00:18:17,769 --> 00:18:20,019
+quand vous changez. Certaines
+
+442
+00:18:20,019 --> 00:18:21,730
+personnes n’étaient pas d’accord et sont parties.
+
+443
+00:18:21,730 --> 00:18:23,890
+D’autres personnes n’étaient pas d’accord
+
+444
+00:18:23,890 --> 00:18:25,750
+et nous les avons laissé partir.
+
+445
+00:18:25,750 --> 00:18:29,019
+Pour certains c’est valorisant, pour
+
+446
+00:18:29,019 --> 00:18:30,970
+d’autres c’est démoralisant mais
+
+447
+00:18:30,970 --> 00:18:32,650
+c’est ce que vous devez traverser.
+
+448
+00:18:32,650 --> 00:18:34,690
+C’est comme n’importe quelle sorte de gros 0:18:34.690,0:18:38.380 changement dans la vie ou si vous avez déjà
+
+449
+00:18:38,380 --> 00:18:40,360
+été dans une équipe.
+
+450
+00:18:40,359 --> 00:18:42,609
+J’utilise des analogies sportives tout le temps.
+
+451
+00:18:42,609 --> 00:18:44,319
+Si vous faites partie des Broncos
+
+452
+00:18:44,319 --> 00:18:47,159
+et qu’ils décident de passer
+
+453
+00:18:47,160 --> 00:18:49,140
+d’un type de défense à un autre type
+
+454
+00:18:49,140 --> 00:18:51,000
+de défense, vous voyez ? C’est comme
+
+455
+00:18:51,000 --> 00:18:53,910
+"je n’aime pas jouer en 4-3, je préfère le 3-4 » donc
+
+456
+00:18:53,910 --> 00:18:55,680
+je serais en colère
+
+457
+00:18:55,680 --> 00:18:57,210
+Ou vous pouvez l’accepter et être comme
+
+458
+00:18:57,210 --> 00:18:59,640
+« ouais, je comprends que nous avons
+
+459
+00:18:59,640 --> 00:19:01,470
+ce niveau d’expertise et que nous voulons
+
+460
+00:19:01,470 --> 00:19:03,180
+nous diriger dans cette direction et
+
+461
+00:19:03,180 --> 00:19:04,110
+c’est ce que nous allons le faire ! »
+
+462
+00:19:04,109 --> 00:19:06,209
+[Danny] L’équipe a aussi été renforcée par de petits nouveaux/
+
+463
+00:19:06,210 --> 00:19:07,890
+Hugo Martin qui avait auparavant travaillé chez
+
+464
+00:19:07,890 --> 00:19:09,570
+Naughty Dog et était responsable de la
+
+465
+00:19:09,569 --> 00:19:11,490
+conception des jaegers pour Pacific Rim
+
+466
+00:19:11,490 --> 00:19:13,829
+de Guillermo del Toro est venu en tant que Directeur
+
+467
+00:19:13,829 --> 00:19:15,629
+Artistique tandis que l’ancien Ingénieur Graphique
+
+468
+00:19:15,630 --> 00:19:18,120
+de chez Crytek, Thiago Souza, est venu
+
+469
+00:19:18,119 --> 00:19:20,129
+en tant que Lead Renderer Programmer
+
+470
+00:19:20,130 --> 00:19:22,620
+[Robert] La première fois que nous avons rebooté
+
+471
+00:19:22,619 --> 00:19:25,019
+cette version de DOOM avec Mary à la tête du
+
+472
+00:19:25,019 --> 00:19:26,789
+projet j’ai travaillé avec lui sur
+
+473
+00:19:26,789 --> 00:19:28,409
+les pilliers du projet. Le multijoueur,
+
+474
+00:19:28,410 --> 00:19:30,600
+la campagne, snap-map et bien sûr
+
+475
+00:19:30,599 --> 00:19:33,029
+j’étais toujours impliqué dans la techno. Nous commencions
+
+476
+00:19:33,029 --> 00:19:34,680
+à assembler l’équipe technique à partir
+
+477
+00:19:34,680 --> 00:19:37,920
+des programmeurs de RAGE et du
+
+478
+00:19:37,920 --> 00:19:40,860
+précédent projet DOOM et puis
+
+479
+00:19:40,859 --> 00:19:43,409
+Hugo est arrivé et,
+
+480
+00:19:43,410 --> 00:19:46,230
+à ce moment-là, Marty et Hugo
+
+481
+00:19:46,230 --> 00:19:49,559
+on vraiment commencé à s’occuper du
+
+482
+00:19:49,559 --> 00:19:51,599
+côté jeu du projet et je me suis focalisé
+
+483
+00:19:51,599 --> 00:19:54,059
+intégralement sur la technologie et
+
+484
+00:19:54,059 --> 00:19:55,919
+l’équipe du technique et
+
+485
+00:19:55,920 --> 00:19:57,300
+à chercher comment
+
+486
+00:19:57,299 --> 00:20:00,500
+diable on nous allions pouvoir atteindre les 60 fps sur consoles
+
+487
+00:20:00,680 --> 00:20:03,500
+[Danny] C’était un problème long de 3 ans qu’il fallait résoudre.
+
+488
+00:20:03,500 --> 00:20:06,160
+Oui, mais c’était aussi beaucoup d’amusement, beaucoup
+
+489
+00:20:06,180 --> 00:20:08,250
+de bonne entraide.
+
+490
+00:20:08,250 --> 00:20:10,259
+[Danny] Il a été longtemps supposé que lorsque l’équipe a commencé à travailler
+
+491
+00:20:10,259 --> 00:20:12,240
+sur le reboot de DOOM elle a laissé de côté tout
+
+492
+00:20:12,240 --> 00:20:14,549
+le travail accompli sur l’ancienne version, mais l’un
+
+493
+00:20:14,549 --> 00:20:16,740
+des piliers de gameplay de DOOM 2016,
+
+494
+00:20:16,740 --> 00:20:19,410
+les Glory Kills, trouve son origine dans
+
+495
+00:20:19,410 --> 00:20:21,480
+ce que la team appelle DOOM 4 1.0.
+
+496
+00:20:21,480 --> 00:20:24,180
+[Marty] Peu importe là vous êtes, vous êtes
+
+497
+00:20:24,180 --> 00:20:25,740
+toujours une collection de
+
+498
+00:20:25,740 --> 00:20:27,450
+tout ce qui est arrivé avant donc,
+
+499
+00:20:27,450 --> 00:20:29,700
+il a été dit
+
+500
+00:20:29,700 --> 00:20:32,039
+que nous avions regardé
+
+501
+00:20:32,039 --> 00:20:33,839
+ce jeu et que nous l’avions abandonné et
+
+502
+00:20:33,839 --> 00:20:36,119
+nous avons décidé de passer à ça et
+
+503
+00:20:36,119 --> 00:20:37,709
+ça sonne bien mais il y a
+
+504
+00:20:37,710 --> 00:20:39,240
+définitivement des trucs
+
+505
+00:20:39,240 --> 00:20:41,339
+que... je vais vous donner un exemple.
+
+506
+00:20:41,339 --> 00:20:43,889
+La précédente itération avait un genre
+
+507
+00:20:43,890 --> 00:20:46,380
+de système de mêlée synchronisée,
+
+508
+00:20:46,380 --> 00:20:48,270
+avec lequel lorsque vous arriviez
+
+509
+00:20:48,269 --> 00:20:50,039
+proche d’un ennemi vous finiriez
+
+510
+00:20:50,039 --> 00:20:52,859
+dans une animation de mêlée synchronisée,
+
+511
+00:20:52,859 --> 00:20:55,289
+un genre de système qui donnait une
+
+512
+00:20:55,289 --> 00:20:56,230
+mort vraiment cool à l’ennemi.
+
+513
+00:20:56,230 --> 00:20:58,390
+Vous démarriez la synchronisation du personnage
+
+514
+00:20:58,390 --> 00:21:00,100
+avec l’ennemi et puis cette
+
+515
+00:21:00,099 --> 00:21:02,019
+animation se lançait. Vous auriez regardé ça
+
+516
+00:21:02,019 --> 00:21:03,789
+et pensé aux Glory Kills, vous voyez ?
+
+517
+00:21:03,789 --> 00:21:06,039
+Mais c’était lent, c’était
+
+518
+00:21:06,039 --> 00:21:09,369
+volontaire, une façon très cinématographique,
+
+519
+00:21:09,369 --> 00:21:12,428
+d’approcher ça.
+
+520
+00:21:12,429 --> 00:21:15,309
+Même avant de le reboot complet on avait eu
+
+521
+00:21:15,308 --> 00:21:16,720
+des réunions dans lesquels nous disions « Tu sais, ça c’est cool.
+
+522
+00:21:16,720 --> 00:21:18,970
+C’est juste lent. Peut-on
+
+523
+00:21:18,970 --> 00:21:20,950
+le rendre un peu plus comme
+
+524
+00:21:20,960 --> 00:21:23,559
+fruit ninja avec des démons ?
+
+525
+00:21:23,559 --> 00:21:26,000
+Où c’est trucs vont vite.
+
+526
+00:21:26,019 --> 00:21:28,569
+Les animateurs ont développé cette animation, récupérant
+
+527
+00:21:28,569 --> 00:21:30,548
+le travail et les idées qui avaient été
+
+528
+00:21:30,548 --> 00:21:33,009
+faits dans ce sens. L’idée qui en est sortie
+
+529
+00:21:33,009 --> 00:21:35,230
+est de « faire progresser le combat » et donc
+
+530
+00:21:35,230 --> 00:21:37,240
+ils ont fait cette animation illustrant la progression
+
+531
+00:21:37,240 --> 00:21:40,329
+de combat et le déclenchement de Glory Kills.
+
+532
+00:21:40,329 --> 00:21:42,759
+[Kevin] Le truc qui m’a réellement excité
+
+533
+00:21:42,759 --> 00:21:45,129
+à ce propos est quand nous avons commencé à voir
+
+534
+00:21:45,130 --> 00:21:47,620
+le système de Glory Kill dans son ensemble. Une sorte
+
+535
+00:21:47,619 --> 00:21:50,319
+de redéfinition du combat à la première personne pour moi,
+
+536
+00:21:50,319 --> 00:21:52,569
+qui le conduisait au plus proche du joueur.
+
+537
+00:21:52,569 --> 00:21:55,029
+On avait une version de ça dans notre
+
+538
+00:21:55,029 --> 00:21:58,269
+précédent jeu mais je pense
+
+539
+00:21:58,269 --> 00:22:00,759
+que Mary et l’équipe d’animation et Hugo
+
+540
+00:22:00,759 --> 00:22:01,990
+ont vraiment travaillé ensemble pour finir avec
+
+541
+00:22:01,990 --> 00:22:04,000
+quelque chose de très intense et excitant. .
+
+542
+00:22:04,000 --> 00:22:05,410
+Donc c’était plutôt cool de voir ce système
+
+543
+00:22:05,410 --> 00:22:06,700
+s’assembler et je pense que
+
+544
+00:22:06,700 --> 00:22:09,250
+c’est qui a réellement donné un nouveau souffle
+
+545
+00:22:09,250 --> 00:22:10,769
+au projet pour moi.
+
+546
+00:22:10,769 --> 00:22:13,000
+Ce fut une bonne période
+
+547
+00:22:13,000 --> 00:22:14,829
+mais ce fut en majorité
+
+548
+00:22:14,829 --> 00:22:17,259
+construit sur la base de connaissance créée
+
+549
+00:22:17,259 --> 00:22:19,839
+pendant le développement
+
+550
+00:22:19,839 --> 00:22:21,279
+de la première version du projet.
+
+551
+00:22:21,279 --> 00:22:23,710
+[Danny] Plongeons-nous dans ces  trucs
+
+552
+00:22:23,710 --> 00:22:25,509
+qui ont fini par faire
+
+553
+00:22:25,509 --> 00:22:27,190
+de DOOM ce qu’il est.
+
+554
+00:22:27,190 --> 00:22:28,330
+La repmière fois que vous l’avez montré, je m’en souviens
+
+555
+00:22:28,329 --> 00:22:29,980
+Bien sûr, derrière des portes fermées à la
+
+556
+00:22:29,980 --> 00:22:32,679
+Quakecon. Premièrement, comment avez-vous
+
+557
+00:22:32,679 --> 00:22:34,090
+réunis des centaines de gens dans une pièce
+
+558
+00:22:34,089 --> 00:22:35,829
+sans que le trailer ne fuite ?
+
+559
+00:22:35,829 --> 00:22:38,199
+Je ne sais pas.
+
+560
+00:22:38,200 --> 00:22:40,900
+On va vous donner
+
+561
+00:22:40,900 --> 00:22:42,280
+quelques séquences
+
+562
+00:22:42,279 --> 00:22:44,980
+pour que tu vous puissiez voir. Ça n’a
+
+563
+00:22:44,980 --> 00:22:46,029
+jamais été vu avant.
+
+564
+00:22:46,029 --> 00:22:47,950
+J’ai toujours considéré la QuakeCon
+
+565
+00:22:47,950 --> 00:22:49,538
+comme étant l’espace le plus privilégié
+
+566
+00:22:49,538 --> 00:22:51,460
+dans l’histoire du jeu vidéo.
+
+567
+00:22:51,460 --> 00:22:53,229
+Toute notre équipe du moment était dans
+
+568
+00:22:53,229 --> 00:22:55,538
+le public. Je dis toujours que je suis chanceux
+
+569
+00:22:55,538 --> 00:22:57,729
+de pouvoir me tenir
+
+570
+00:22:57,729 --> 00:22:59,710
+devant un public et de
+
+571
+00:22:59,710 --> 00:23:01,028
+présenter le jeu que ce soit à la Quakecon
+
+572
+00:23:01,028 --> 00:23:03,700
+ou à l’E3. Je ne suis que le représentant
+
+573
+00:23:03,700 --> 00:23:06,069
+de l’équipe
+
+574
+00:23:06,069 --> 00:23:08,798
+et même maintenant
+
+575
+00:23:08,798 --> 00:23:10,450
+je fais de mon mieux pour
+
+576
+00:23:10,450 --> 00:23:13,359
+représenter l’équipe que nous avons ici
+
+577
+00:23:13,358 --> 00:23:15,668
+je devais représenter l’équipe qui
+
+578
+00:23:15,669 --> 00:23:18,429
+était assise dans le public et dire
+
+579
+00:23:18,429 --> 00:23:20,169
+« Vous savez quoi ? Vous voulez juste voir le jeu ?
+
+580
+00:23:22,628 --> 00:23:24,608
+Et on le partage uniquement avec vous. Tim vient de me dire qu’il avait coupé
+
+581
+00:23:24,608 --> 00:23:27,548
+l’émission sur Twitch. C’est seulement pour vous.
+
+582
+00:23:27,548 --> 00:23:29,019
+On a des choses à partager avec tout le monde,
+
+583
+00:23:29,019 --> 00:23:32,108
+en dehors de cette pièce, plus tard, mais
+
+584
+00:23:32,108 --> 00:23:33,819
+nous voulons que ce soit spécial,
+
+585
+00:23:33,819 --> 00:23:35,888
+nous voulons que ce soit spécial pour vous,
+
+586
+00:23:35,888 --> 00:23:38,319
+nous voulons que cet avant-goût de DOOM
+
+587
+00:23:38,319 --> 00:23:40,298
+soit spécial pour tout le monde.
+
+588
+00:23:40,298 --> 00:23:41,950
+Je voudrais que tout le monde
+
+589
+00:23:41,950 --> 00:23:45,009
+éteigne ses appareils d’enregistrement
+
+590
+00:23:45,009 --> 00:23:46,239
+Rangez vos téléphones dans vos
+
+591
+00:23:46,239 --> 00:23:49,028
+poches. Posez les caméras. Retirez
+
+592
+00:23:49,028 --> 00:23:51,819
+les Google Glass. Les Google Glass font
+
+593
+00:23:51,819 --> 00:23:54,230
+peur à vos amis de toute façon.
+
+594
+00:23:54,230 --> 00:23:57,380
+Je veux vraiment que vous compreniez
+
+595
+00:23:57,380 --> 00:24:00,559
+notre approche du combat dans DOOM.
+
+596
+00:24:00,558 --> 00:24:02,210
+En parler ne lui rend pas justice.
+
+597
+00:24:02,210 --> 00:24:04,480
+[applaudissements]
+
+598
+00:24:04,480 --> 00:24:08,319
+Vous savez où ce qui vous attend, pas vrai ?
+
+599
+00:24:08,319 --> 00:24:10,319
+[applaudissements]
+
+600
+00:24:11,000 --> 00:24:14,240
+Les images sont biens mais
+
+601
+00:24:14,240 --> 00:24:15,769
+je pense que vous
+
+602
+00:24:15,769 --> 00:24:16,910
+préfèreriez voir
+
+603
+00:24:16,920 --> 00:24:19,759
+un morceau du jeu, pas vrai ?
+
+604
+00:25:04,119 --> 00:25:09,199
+C’est super, je crois que vous aimez ça !
+
+605
+00:25:09,210 --> 00:25:11,730
+Les gens parlent de ça comme du
+
+606
+00:25:11,730 --> 00:25:14,610
+meilleur moment dans leur carrière.
+
+607
+00:25:14,609 --> 00:25:16,079
+Vous pouvez avoir toute l’assurance possible
+
+608
+00:25:16,079 --> 00:25:18,298
+dans ce que vous faites, mais vous
+
+609
+00:25:18,298 --> 00:25:20,730
+ne savez jamais vraiment quelle
+
+610
+00:25:20,730 --> 00:25:23,069
+réponse vous aurez. Mais avoir
+
+611
+00:25:23,069 --> 00:25:27,509
+un public qui vous acclame
+
+612
+00:25:27,509 --> 00:25:29,669
+est la meilleure récompense au monde.
+
+613
+00:25:29,669 --> 00:25:31,528
+Je ne pense pas que ce soit un accident,
+
+614
+00:25:31,528 --> 00:25:34,200
+nous avons construit ce qu’on pensait
+
+615
+00:25:34,200 --> 00:25:36,120
+être vraiment bien. Nous pensions que
+
+616
+00:25:36,119 --> 00:25:39,599
+c’était un hommage aux DOOM originaux
+
+617
+00:25:39,599 --> 00:25:41,339
+et que c’était superbe et que ça tournait bien
+
+618
+00:25:41,339 --> 00:25:43,379
+et on espérait seulement que
+
+619
+00:25:43,380 --> 00:25:47,500
+les joueurs du monde entier penseraient pareil.
+
+620
+00:25:50,398 --> 00:25:52,109
+C’était l’histoire du sauvetage de DOOM,
+
+621
+00:25:52,109 --> 00:25:54,269
+récupéré depuis les profondeurs de l’enfer du développement.
+
+622
+00:25:54,269 --> 00:25:56,220
+Mais il reste des choses à raconter. Demain,
+
+623
+00:25:56,220 --> 00:25:58,019
+nous enquêterons sur la façon dont DOOM a trouvé sa
+
+624
+00:25:58,019 --> 00:26:00,359
+propre voix et a relevé le défi de
+
+625
+00:26:00,359 --> 00:26:02,038
+donner la bonne première impression.
+
+626
+00:26:02,039 --> 00:26:04,399
+A la prochaine.
+
+627
+00:26:19,940 --> 00:26:23,419
+Ça ne signifie pas que le jeu est stupide
+
+628
+00:26:23,419 --> 00:26:25,519
+parce que je pense qu’il est en réalité intelligent
+
+629
+00:26:25,519 --> 00:26:28,190
+et sophistiqué, il est juste
+
+630
+00:26:28,190 --> 00:26:30,740
+facile à comprendre, ce qui est honnêtement comme ça
+
+631
+00:26:30,740 --> 00:26:32,450
+que les choses devraient être. Je le compare toujours
+
+632
+00:26:32,450 --> 00:26:33,950
+aux produits Apple.
+
+633
+00:26:33,950 --> 00:26:35,090
+Apple à son meilleur –    0:26:35.090,0:26:36.980 mon fils a six ans et il sait utiliser
+
+634
+00:26:36,980 --> 00:26:38,808
+un iPad, c’est ça un bon design.
+
+635
+00:26:38,808 --> 00:26:40,819
+Ça reste quand même quelque chose de sophistiqué.
+
+636
+00:26:40,819 --> 00:26:44,658
+[Danny] Votre fils a joué à DOOM ?
+
+637
+00:26:44,659 --> 00:26:45,919
+Je ne sais pas si je devrais le dire.
+
+638
+00:26:46,429 --> 00:26:48,740
+[Danny]  Et bien on connait tous la réponse alors.
+
+639
+00:26:48,740 --> 00:26:53,179
+Il a peut-être ou peut-être pas joué à DOOM.
+
+640
+00:26:53,179 --> 00:26:55,100
+Il pourrait avoir été jusqu’à
+
+641
+00:26:55,099 --> 00:26:57,419
+la Fonderie.
+
+642
+00:26:59,028 --> 00:27:03,169
+Il pourrait être en difficulté face aux gars aux boucliers.
+
+643
+00:27:03,169 --> 00:27:05,489
+Et sa mère pourrait être vraiment en colère à ce propos.
+
+644
+00:27:06,980 --> 00:27:09,980
+Ça pourrait être un problème à la maison.
+
