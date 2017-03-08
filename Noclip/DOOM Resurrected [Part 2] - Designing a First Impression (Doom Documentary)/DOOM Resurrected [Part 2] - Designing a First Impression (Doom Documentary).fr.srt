@@ -69,7 +69,7 @@ soit tu n'embarques pas.
 17
 00:01:02,039 --> 00:01:03,479
 Les niveaux d'introductions
-sont très variés,
+dans les jeux sont très variés,
 
 18
 00:01:03,479 --> 00:01:05,188
@@ -120,15 +120,17 @@ latest game is series that defined the [[TODO]]
 
 28
 00:01:22,799 --> 00:01:24,868
-very genre it was in, but it was also [[TODO]]
+very genre it was in,
+but it was also called "DOOM" [[TODO]]
 
 29
 00:01:24,868 --> 00:01:27,688
-called "DOOM" - the four had been thrown out [[TODO]]
+[[DELETE]]
 
 30
 00:01:27,688 --> 00:01:29,699
-along with the 1.0 version [[TODO]]
+le '4' de 'DOOM 4' avait été abandonné,
+en même temps que la version 1.0
 
 31
 00:01:29,700 --> 00:01:31,228
@@ -227,235 +229,258 @@ que le méchant est méchant.
 
 52
 00:02:07,170 --> 00:02:09,390
-They took away Robocop's life
+They took away Robocop's life [[TODO]]
 
 53
 00:02:09,389 --> 00:02:12,119
-essentially you know the the bad guy
+essentially you know the the bad guy [[TODO]]
 
 54
 00:02:12,120 --> 00:02:13,650
-takes away his ability to be with his
+takes away his ability to be with his [[TODO]]
 
 55
 00:02:13,650 --> 00:02:15,810
-family. And you see that when he
+family. And you see that when he murders them. [[TODO]]
 
 56
 00:02:15,810 --> 00:02:18,598
-murders them. So we were like oh the demons...
+Donc on se disait :
+"Oh, les démons... et bien..."
 
 57
 00:02:18,598 --> 00:02:21,780
-well...you land on Mars and then you
+"tu arrives sur Mars,
+et tu ne sais pas encore"
 
 58
 00:02:21,780 --> 00:02:23,310
-don't know it's demons yet and then you find
+"que ce sont des démons."
 
 59
 00:02:23,310 --> 00:02:24,810
-out its demons, and oh my god, and
+"Et puis tu découvres que ce sont
+des démons, 'oh mon Dieu !' "
 
 60
 00:02:24,810 --> 00:02:26,539
-somebody even asks  "What do you think they are?"
+Quelqu'un demande même
+"Tu penses que c'est quoi ?"
 
 61
 00:02:26,539 --> 00:02:30,199
-and they're like  "I think they're demons..."
+Et les autres répondent
+"Je pense que ce sont des démons ..."
 
 62
 00:02:30,209 --> 00:02:32,969
-That's what we did we laughed because
+C'est là qu'on a tous rigolé,
+car c'est ridicule !
 
 63
 00:02:32,969 --> 00:02:34,530
-that is ridiculous you know?
+[[DELETE]]
 
 64
 00:02:34,530 --> 00:02:37,259
-Like who cares?
+Genre, qui ça intéresse ?
 
 65
 00:02:37,259 --> 00:02:39,389
-"They have pointy teeth, they might be vampires..."
+"Ils ont des dents pointues,
+ça pourrait être des vampires ..."
 
 66
 00:02:40,800 --> 00:02:41,980
-We had versions that took
+Dans plusieurs versions du jeu,
+il fallait plusieurs minutes
 
 67
 00:02:42,000 --> 00:02:44,699
-minutes to get to the killing the first
+ avant de tuer le premier démon,
 
 68
 00:02:44,699 --> 00:02:46,768
-demon because kind of as a developer you
+car en tant que développeur, on a l'impression
+de devoir expliquer au joueur
 
 69
 00:02:46,769 --> 00:02:49,408
-feel like we have to explain
+[[DELETE]]
 
 70
 00:02:49,408 --> 00:02:50,699
-stuff to the audience how are they going
+ce qu'il va devoir faire.
 
 71
 00:02:50,699 --> 00:02:51,780
-to know what to do.
+[[DELETE]]
 
 72
 00:02:51,780 --> 00:02:53,519
-And even when run it
+Et même quand on faisait tester
+le jeu à des gens en dehors du studio,
 
 73
 00:02:53,519 --> 00:02:55,200
-through people outside of the
+[[DELETE]]
 
 74
 00:02:55,199 --> 00:02:57,628
-studio that you get feedback like
+on avait des retours comme :
 
 75
 00:02:57,628 --> 00:02:59,759
-"Well what's my justification for doing this?"
+"Ok, mais c'est quoi la justification
+de tout ça ?"
 
 76
 00:02:59,759 --> 00:03:02,068
-We actually even had
+Il y a même un testeur qui a demandé :
 
 77
 00:03:02,068 --> 00:03:03,780
-a focus tester ask
+[[DELETE]]
 
 78
 00:03:03,780 --> 00:03:05,780
-"Why do I want to kill demons? You need to tell my why"
+"Pourquoi je veux tuer des démons.
+Vous devez me dire pourquoi !"
 
 79
 00:03:05,789 --> 00:03:07,468
-Those are the easy ones, you're like...
+Ça c'est les questions faciles,
+où on répond :
 
 80
 00:03:07,468 --> 00:03:10,919
-It's a flippin demon! You'll want to kill it!
+"C'est un putain de démon !
+Tu veux le tuer !"
 
 81
 00:03:10,919 --> 00:03:13,078
-There was a tutorial level where a
+Il y avait un niveau tutoriel
+où un gars était devant toi,
 
 82
 00:03:13,079 --> 00:03:14,760
-guy stood in front of you and
+[[DELETE]]
 
 83
 00:03:14,759 --> 00:03:17,699
-told you what to do, how things worked
+et t'expliquait quoi faire,
+comment les choses fonctionnait ...
 
 84
 00:03:17,699 --> 00:03:18,958
-that was awful.
+C'était horrible.
 
 85
 00:03:18,959 --> 00:03:21,539
-There's just so much stuff like Olivia
+Ou comme Olivia qui fait un discours
+devant toi, en faisant des allers-retours,
 
 86
 00:03:21,539 --> 00:03:23,250
-lecturing in front of you where she paced
+pendant que tu es attaché sur une chaise.
 
 87
 00:03:23,250 --> 00:03:24,598
-back and forth and you're stuck in your
+[[DELETE]]
 
 88
 00:03:24,598 --> 00:03:26,938
-chair and then we we wanted it like
+Et puis on voulait que les démons
+aient assassiné quelqu'un,
 
 89
 00:03:26,938 --> 00:03:28,530
-you'd find out they murdered
+ou qu'ils t'avaient volé
+quelque chose.
 
 90
 00:03:28,530 --> 00:03:29,938
-someone or that they took
+[[DELETE]]
 
 91
 00:03:29,938 --> 00:03:31,469
-something away from you, and all of it was
+Et puis on s'est dit
+"Oh mon Dieu, qui ça intéresse ?"
 
 92
 00:03:31,469 --> 00:03:33,239
-like oh my god like who cares?
+[[DELETE]]
 
 93
 00:03:33,239 --> 00:03:36,120
-Every time we did something in a more...
+Every time we did something in a more... [[TODO]]
 
 94
 00:03:36,120 --> 00:03:37,650
-We added more exposition and we tried to
+We added more exposition and we tried to [[TODO]]
 
 95
 00:03:37,650 --> 00:03:39,269
-explain ourselves a little bit more we
+explain ourselves a little bit more we [[TODO]]
 
 96
 00:03:39,269 --> 00:03:41,938
-tried to lead the
+tried to lead the [[TODO]]
 
 97
 00:03:41,938 --> 00:03:43,949
-audience by the nose or by the
+audience by the nose or by the [[TODO]]
 
 98
 00:03:43,949 --> 00:03:45,810
-hands or something it never felt right.
+hands or something it never felt right. [[TODO]]
 
 99
 00:03:45,810 --> 00:03:47,280
-There was a moment where we were working
+A un moment où on bossait sur l'histoire,
+on s'est dit que,
 
 100
 00:03:47,280 --> 00:03:49,530
-on it where we kind came to the
+ceux qui connaissent DOOM,
+il arriveront dans le jeu en pensant
 
 101
 00:03:49,530 --> 00:03:51,090
-thing like, somebody who knows
+"J'suis ici pour tuer du démon !"
 
 102
 00:03:51,090 --> 00:03:53,459
-DOOM, they're coming to this with the
+[[DELETE]]
 
 103
 00:03:53,459 --> 00:03:55,799
-attitude "i'm here to kill demons".
+[[DELETE]]
 
 104
 00:03:55,799 --> 00:03:57,510
-The exact same thing that the player is
+The exact same thing that the player is [[TODO]]
 
 105
 00:03:57,509 --> 00:03:58,739
-thinking, because there's always this
+thinking, because there's always this [[TODO]]
 
 106
 00:03:58,739 --> 00:04:00,870
-idea that in DOOM the player
+idea that in DOOM the player [[TODO]]
 
 107
 00:04:00,870 --> 00:04:03,060
-feels like the DOOM marine
+feels like the DOOM marine [[TODO]]
 
 108
 00:04:03,060 --> 00:04:05,310
-So lets take the idea that
+Donc on va juste prendre l'idée
+"J'suis ici pour tuer du démon",
 
 109
 00:04:05,310 --> 00:04:08,310
-"i'm here to kill demons" and that's the story.
+en faire l'histoire
 
 110
 00:04:08,310 --> 00:04:11,340
